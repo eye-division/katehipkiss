@@ -96,7 +96,6 @@ All configuration options can be found in `_config.yml`.
 ### Build Settings
 
 * __markdown:__ Markdown parsing engine. Default is kramdown.
-* __inter_post_navigation:__ Whether to render links to the next and previous post on each post.
 
 A sitemap is also generated using [jekyll-sitemap][sitemap].
 
@@ -155,7 +154,7 @@ descriptions:
 
 A bunch of basic font icons from [IcoMoon][im] have been included in the _includes/svg folder.
 
-This file is then included in the head.html document for every page.
+This file is then included in the default.html layout document used on every page.
 
 Usage: 
 ```
@@ -172,6 +171,7 @@ MIT. See [LICENSE.MD](https://github.com/eye-division/eyegallery/blob/master/LIC
 [bundler]: http://bundler.io/
 [ed]: https://eyedivision.com/
 [flexslider]: https://github.com/woocommerce/FlexSlider
+[fontawesome]: https://fontawesome.com/
 [neat]: http://neat.bourbon.io/
 [bitters]: http://bitters.bourbon.io/
 [refills]: http://refills.bourbon.io/

@@ -9,10 +9,10 @@ plugins:
    - jekyll-tagging-related_posts
 
 # Site settings
-title: An artist
-subtitle: Great artist
-name: An artist
-description: Demo Eye Gallery site
+title: "Kate Hipkiss"
+subtitle:
+name: "Kate Hipkiss"
+description: "Kate Hipkiss Eye Gallery site"
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -24,7 +24,7 @@ asset_url: "/assets/"
 
 logo: "/assets/logo.png"
 show_logo: false
-email: a.ward@eyedivision.com
+email: "a.ward@eyedivision.com"
 
 default_post_image: "/assets/images/road_closed.jpg"
 default_gallery_image: "/assets/images/road_closed.jpg"
@@ -40,14 +40,14 @@ highlightjs_theme: "monokai-sublime"
 
 # Image CDN
 imagecdn:
-  staging: "https://ed-eyegallery-dev.imgix.net" # apt-loris.cloudvent.net
-  production: "https://ed-eyegallery.imgix.net"
+  staging: "https://ed-katehipkiss-dev.imgix.net" # apt-loris.cloudvent.net
+  #production: "https://ed-eyegallery.imgix.net"
 
 # Collections Example
 collections:
-    gallery:
+    collection:
         output: true
-        permalink: /gallery/:path/
+        permalink: /collections/:path/
         #_hide_content: true
 
 # Defaults Example
@@ -55,7 +55,7 @@ defaults:
     -
         scope:
             path: ""
-            type: "gallery"
+            type: "collection"
         values:
             layout: "gallery"
 
@@ -120,13 +120,13 @@ _options:
 # paypal_id:
 
 # Disqus comments
-disqus_shortname: alun-ward
+#disqus_shortname: alun-ward
 
 # Google analytics
 # ga_tracking_id: ""
 
 # Google Recaptcha used for contact form - used by seo-tag
-recaptcha_site_key: "6LcNYBQUAAAAAALGOjCFo1CKxb65aFTFelMJo1YF"
+#recaptcha_site_key: "6LcNYBQUAAAAAALGOjCFo1CKxb65aFTFelMJo1YF"
 
 # Google Site verification if required
 # google_site_verification: ""
@@ -150,36 +150,36 @@ social:
 
   - name: Facebook
     icon: icon-facebook_sign
-    username: 'eyedivision'
-    url: https://www.facebook.com/eyedivision
+    username: ''
+    url:
     desc: Like us on Facebook
     share: true
 
   - name: Instagram
     icon: icon-instagram
-    username: '@eyedivision'
-    url: https://instagram.com/eyedivision
+    username: '@katehipkiss'
+    url: https://instagram.com/katehipkiss
     desc: Follow us on Instagram
     share: false
 
   - name: Twitter
     icon: icon-twitter_sign
-    username: '@EyeDivision'
-    url: https://twitter.com/EyeDivision
+    username: ''
+    url:
     desc: Follow us on Twitter
     share: true
 
   - name: Pinterest
     icon: icon-pinterest
-    username: 'eyediv'
-    url: https://www.pinterest.co.uk/eyediv/
+    username: ''
+    url:
     desc: Follow us on Pinterest
     share: true
 
   - name: linkedin
     icon: icon-linkedin_sign
-    username: 'eye-division-ltd'
-    url: https://www.linkedin.com/company/eye-division-ltd/
+    username: ''
+    url:
     desc: Connect with us on LinkedIn
     share: true
 
