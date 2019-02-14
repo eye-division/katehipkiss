@@ -9,7 +9,7 @@ frontpage: true
 frontpagetitle: Paper
 homepage_description_markdown: Paper paintings
 gallery_date: 2018-05-01 00:00:00
-display_image: false
+display_image: true
 main_image_path: /assets/images/2019/cracked.jpg
 main_image_caption: Cracked
 thumb_crop: true
