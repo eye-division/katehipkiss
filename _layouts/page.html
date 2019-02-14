@@ -8,7 +8,7 @@ layout: default
     <h1 class="page--title">{{ page.title }}</h1>
   </header>
 
-  {% if page.main_image_path %}
+  {% if page.main_image_path and page.display_image %}
     <figure>
     {% assign alt_text = page.title %}
     {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
