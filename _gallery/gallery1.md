@@ -5,13 +5,12 @@ permalink: /collection/papercuts/
 frontpage: true
 frontpagetitle: Papercuts
 homepage_description_markdown: >-
-  This is an example of a gallery with thumbnails in their original format -
-  landscape or portrait, exactly as you upload them.
+  Papercuts ...
 gallery_date: 2019-02-01 00:00:00
 display_image: true
 main_image_path: /assets/images/2019/iconic-series-royal-albert-hall.jpg
 main_image_caption: Royal Albert Hall
-thumb_crop: false
+thumb_crop: true
 display_thumb_title: true
 images:
   - image_path: /assets/images/2019/iconic-series-battersea-power-station.jpg
