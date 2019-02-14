@@ -2,8 +2,7 @@
 title: 
 display_title: true
 permalink:
-gallery_date: 
-description_markdown: 
+gallery_date:  
 frontpage: true
 homepage_description_markdown: 
 frontpagetitle: 

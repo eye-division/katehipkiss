@@ -2,9 +2,6 @@
 title: Papercut
 display_title: true
 permalink: /collection/papercuts/
-description_markdown: >-
-  This is an example of a gallery with thumbnails in their original format -
-  landscape or portrait, exactly as you upload them.
 frontpage: true
 frontpagetitle: Papercuts
 homepage_description_markdown: >-
