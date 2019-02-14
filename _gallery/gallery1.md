@@ -20,9 +20,15 @@ images:
   - image_path: /assets/images/2019/iconic-series-battersea-power-station.jpg
     image_title: Battersea Power Station
     image_description:
-  - image_path: '/assets/images/Keen of Hamar, Unst.jpg'
-    image_title: Resized to 600
-    image_description: Resized to 600 square max
+  - image_path: /assets/images/2019/kate-hipkiss-christchurch.jpg
+    image_title: Christ Church
+    image_description:
+  - image_path: /assets/images/2019/kate-hipkiss-oxford-museum-of-natural-history.jpg
+    image_title: Oxford Museum of Natural History
+    image_description:
+  - image_path: /assets/images/2019/miniscape-houses-of-parliament.jpg
+    image_title: Houses of Parliament
+    image_description:
 archive: false
 _options:
   image_path:
@@ -55,4 +61,4 @@ _comments:
   homepage_description_markdown: Text used on homepage if shown
 ---
 
-Content goes here okay…
+Papercuts ...
