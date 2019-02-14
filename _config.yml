@@ -45,9 +45,9 @@ imagecdn:
 
 # Collections Example
 collections:
-    collection:
+    gallery:
         output: true
-        permalink: /collections/:path/
+        permalink: /gallery/:path/
         #_hide_content: true
 
 # Defaults Example
@@ -55,7 +55,7 @@ defaults:
     -
         scope:
             path: ""
-            type: "collection"
+            type: "gallery"
         values:
             layout: "gallery"
 
