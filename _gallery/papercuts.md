@@ -1,65 +1,51 @@
 ---
-title: Cropped gallery
+title: Paper gallery
 display_title: false
-permalink: /gallery/cropped/
+permalink: /collection/paper/
 description_markdown: >-
   This is an example of a gallery with all thumbnails cropped to appear the same
   size. You can change this with the setting: thumb\_crop
 frontpage: true
-frontpagetitle: Gallery
-homepage_description_markdown: >-
-  This is an example of a gallery with all thumbnails cropped to appear the same
-  size. You can change this with the setting: thumb\_crop
+frontpagetitle: Paper
+homepage_description_markdown: Paper paintings
 gallery_date: 2018-05-01 00:00:00
 display_image: false
-main_image_path: "/assets/images/IMG_3317.jpg"
-main_image_caption: "Condensation on window"
+main_image_path: /assets/images/2019/cracked.jpg
+main_image_caption: Cracked
 thumb_crop: true
 display_thumb_title: true
 images:
-  - image_path: "/assets/images/lauder.jpg"
-    image_title: "Sky wall"
-    image_description: sky wall
-  - image_path: "/assets/images/advert-customers.jpg"
-    image_title: "Graveyard"
-    image_description: "These customers didn't choose Eye Division"
-  - image_path: "/assets/images/clevedon-pools.jpg"
-    image_title: "Clevedon Pools"
-    image_description: Experience an ocean of bliss
-  - image_path: "/assets/images/advert-impregnable.jpg"
-    image_title: "Fortress"
-    image_description: Your site is our impregnable fortress
-  - image_path: "/assets/images/Keen of Hamar, Unst.jpg"
-    image_title: "Test resized image"
-    image_description: Test resized
-  - image_path: '/assets/images/Keen of Hamar, Unst.jpg'
-    image_title: "Resized to 600"
-    image_description: "Resized to 600 square max"
-  - image_path: /uploads/observers-scattered.jpg
-    image_title: Resized to 1200 square
-    image_description: Resized to 1200 square max
+  - image_path: /assets/images/2019/into-the-land.jpg
+    image_title: Into the land
+    image_description:
+  - image_path: /assets/images/2019/kate-hipkiss-fissure.jpg
+    image_title: Fissure
+    image_description:
+  - image_path: /assets/images/2019/kate-hipkiss-inflow-ii.jpg
+    image_title: Inflow II
+    image_description:
 archive: false
 _options:
   image_path:
-    uploads_dir: "assets/images/:year"
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    uploads_dir: "assets/images/:year"
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   content:
-    uploads_dir: "assets/:year"
+    uploads_dir: 'assets/:year'
 _comments:
   title: Gallery title
   permalink: Edit the web address here - letters and hyphen only
   display_image: Show featured image at the top of the gallery
   display_title: Show the title at the top of the gallery
-  display_thumb_title: Show titles with image thumbnails 
+  display_thumb_title: Show titles with image thumbnails
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: Usually only shown in the image close up
@@ -70,3 +56,4 @@ _comments:
   homepage_description_markdown: Text used on homepage if shown
 ---
 
+Paper paintings
