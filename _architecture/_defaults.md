@@ -1,51 +1,42 @@
 ---
-title: Paper gallery
-display_title: false
-permalink: /collection/paper/
-description_markdown: >-
-  This is an example of a gallery with all thumbnails cropped to appear the same
-  size. You can change this with the setting: thumb\_crop
+title: 
+display_title: true
+permalink:
+gallery_date:  
 frontpage: true
-frontpagetitle: Paper
-homepage_description_markdown: Paper paintings
-gallery_date: 2018-05-01 00:00:00
-display_image: true
-main_image_path: /assets/images/2019/cracked.jpg
-main_image_caption: Cracked
+homepage_description_markdown: 
+frontpagetitle: 
+display_image: false
+main_image_path:
+main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
-  - image_path: /assets/images/2019/into-the-land.jpg
-    image_title: Into the land
-    image_description:
-  - image_path: /assets/images/2019/kate-hipkiss-fissure.jpg
-    image_title: Fissure
-    image_description:
-  - image_path: /assets/images/2019/kate-hipkiss-inflow-ii.jpg
-    image_title: Inflow II
+  - image_path:
+    image_title:
     image_description:
 archive: false
 _options:
   image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: "assets/images/:year"
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: "assets/images/:year"
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   content:
-    uploads_dir: 'assets/:year'
+    uploads_dir: "assets/:year"
 _comments:
   title: Gallery title
   permalink: Edit the web address here - letters and hyphen only
   display_image: Show featured image at the top of the gallery
   display_title: Show the title at the top of the gallery
-  display_thumb_title: Show titles with image thumbnails
+  display_thumb_title: Show titles with image thumbnails 
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: Usually only shown in the image close up
@@ -55,5 +46,3 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
-
-Paper paintings

@@ -18,8 +18,7 @@ description: "Kate Hipkiss Eye Gallery site"
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "https://black-hare.cloudvent.net"
-# apt-loris.cloudvent.net for Jekyll3
+url: "https://www.katehipkiss.co.uk"
 asset_url: "/assets/"
 
 logo: "/assets/logo.png"
@@ -45,17 +44,26 @@ imagecdn:
 
 # Collections Example
 collections:
-    gallery:
+    architecture:
         output: true
-        permalink: /gallery/:path/
+        #permalink: /:path/
         #_hide_content: true
+    abstract:
+        output: true
+        #permalink: /stained-glass/:path/
 
 # Defaults Example
 defaults:
     -
         scope:
             path: ""
-            type: "gallery"
+            type: "architecture"
+        values:
+            layout: "gallery"
+    -
+        scope:
+            path: ""
+            type: "abstract"
         values:
             layout: "gallery"
 

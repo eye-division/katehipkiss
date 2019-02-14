@@ -1,37 +1,26 @@
 ---
-title: Papercut
-display_title: true
-permalink: /collection/papercuts/
-description_markdown: >-
-  This is an example of a gallery with thumbnails in their original format -
-  landscape or portrait, exactly as you upload them.
+title: "Iconic series"
+display_title: false
+permalink: /architecture/iconic/
 frontpage: true
-frontpagetitle: Papercuts
+frontpagetitle: "Iconic series"
 homepage_description_markdown: >-
-  This is an example of a gallery with thumbnails in their original format -
-  landscape or portrait, exactly as you upload them.
-gallery_date: 2019-02-01 00:00:00
-display_image: true
+  Iconic series 
+gallery_date: 2018-05-01 00:00:00
+display_image: false
 main_image_path: /assets/images/2019/iconic-series-royal-albert-hall.jpg
 main_image_caption: Royal Albert Hall
-thumb_crop: false
+thumb_crop: true
 display_thumb_title: true
 images:
+  - image_path: /assets/images/2019/iconic-series-royal-albert-hall.jpg
+    image_title: Royal Albert Hall
+    image_description:
   - image_path: /assets/images/2019/iconic-series-battersea-power-station.jpg
     image_title: Battersea Power Station
     image_description:
-  - image_path: /assets/images/2019/kate-hipkiss-christchurch.jpg
-    image_title: Christ Church
-    image_description:
-  - image_path: /assets/images/2019/kate-hipkiss-oxford-museum-of-natural-history.jpg
-    image_title: Oxford Museum of Natural History
-    image_description:
-  - image_path: /assets/images/2019/miniscape-houses-of-parliament.jpg
-    image_title: Houses of Parliament
-    image_description:
-  - image_path: /assets/images/2019/mini-radcliffe-camera-ii.jpg
-    image_title: Mini Radcliffe Camera
-    image_description:
+
+
 archive: false
 _options:
   image_path:
@@ -51,12 +40,12 @@ _options:
 _comments:
   title: Gallery title
   permalink: Edit the web address here - letters and hyphen only
-  main_image_path: Image used to represent your gallery
   display_image: Show featured image at the top of the gallery
+  display_title: Show the title at the top of the gallery
   display_thumb_title: Show titles with image thumbnails
-  display_title: Show title at the top of the gallery
+  main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
-  image_description: Usually only shown in the close up of an image
+  image_description: Usually only shown in the image close up
   thumb_crop: Crop thumbnail images to a consistent size
   archive: Hide gallery from public view
   frontpage: Show this gallery on the homepage
@@ -64,4 +53,4 @@ _comments:
   homepage_description_markdown: Text used on homepage if shown
 ---
 
-Papercuts ...
+Iconic series
