@@ -39,7 +39,8 @@ _comments:
   alink: Optional web link from the slide
   caption: optional caption
 ---
-  {% if page.main_image_path %}
+
+{% if page.main_image_path %}
   <!-- parallax picture please -->
     <figure>
     {% assign alt_text = page.title %}
@@ -50,8 +51,7 @@ _comments:
   {% endif %}
 
   <div class="editable">
-    <p>This demo front page shows how you can profile individual galleries and pages to appear on the front, with a custom image, introductory title and text for each. This is the standard display with full page-width images and titles underneath, but other options are available.</p>
-
+    <p>This demo front page shows how you can profile individual galleries and pages to appear on the front, with a custom image, introductory title and text for each.&nbsp; This is the standard display with full page-width images and titles underneath, but other options are available.</p>
   </div>
 
     {% if page.show_carousel and page.carousel %}
@@ -162,4 +162,4 @@ _comments:
       <p><a href="/news/">Read all news&nbsp;&raquo;</a></p>
 
     </section>
-    {% endif %}
+    {% endif %}</section>
