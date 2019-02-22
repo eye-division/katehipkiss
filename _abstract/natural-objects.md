@@ -1,13 +1,12 @@
 ---
-title: "Natural objects"
+title: Natural objects
 display_title: false
 permalink: /abtract/natural-objects/
 frontpage: true
-frontpagetitle: "Natural objects"
-homepage_description_markdown: >-
-  Natural objects
+frontpagetitle: Natural objects
+homepage_description_markdown: Natural objects
 gallery_date: 2018-05-01 00:00:00
-display_image: true
+display_image: false
 main_image_path: /assets/images/2019/cracked.jpg
 main_image_caption: Cracked
 thumb_crop: true
@@ -22,7 +21,6 @@ images:
   - image_path: /assets/images/2019/kate-hipkiss-inflow-ii.jpg
     image_title: Inflow II
     image_description:
-
 archive: false
 _options:
   image_path:
