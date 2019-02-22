@@ -2,7 +2,7 @@
 title: Natural objects
 display_title: false
 permalink: /abtract/natural-objects/
-frontpage: true
+frontpage: false
 frontpagetitle: Natural objects
 homepage_description_markdown: Natural objects
 gallery_date: 2018-05-01 00:00:00
