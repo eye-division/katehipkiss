@@ -2,12 +2,12 @@
 layout: home
 main_image_path:
 main_image_caption:
-show_carousel: false
+show_carousel: true
 show_blog: false
 posts_number: 2
 carousel:
   - image: /assets/images/advert-customers.jpg
-    caption: "A test caption"
+    caption: A test caption
     alink: /gallery/test/
   - image: /assets/images/advert-impregnable.jpg
     caption:
@@ -16,19 +16,19 @@ _options:
   layout:
     hidden: true
   image_path:
-    uploads_dir: "assets/images/:year"
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    uploads_dir: "assets/images/:year"
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   content:
-    uploads_dir: "assets/:year"
+    uploads_dir: 'assets/:year'
 _comments:
   main_image_path: Cover image
   main_image_caption: Alt text for cover image
