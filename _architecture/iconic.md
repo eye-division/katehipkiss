@@ -1,11 +1,10 @@
 ---
-title: "Iconic series"
+title: Iconic series
 display_title: false
 permalink: /architecture/iconic/
 frontpage: true
-frontpagetitle: "Iconic series"
-homepage_description_markdown: >-
-  Iconic series 
+frontpagetitle: Iconic series
+homepage_description_markdown: Iconic series
 gallery_date: 2018-05-01 00:00:00
 display_image: false
 main_image_path: /assets/images/2019/iconic-series-royal-albert-hall.jpg
@@ -19,8 +18,9 @@ images:
   - image_path: /assets/images/2019/iconic-series-battersea-power-station.jpg
     image_title: Battersea Power Station
     image_description:
-
-
+  - image_path: /assets/images/2019/Iconic Series Blavatnik Building.jpg
+    image_title: 'Blavatnik Building, Oxford'
+    image_description:
 archive: false
 _options:
   image_path:
