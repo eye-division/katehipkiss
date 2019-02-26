@@ -12,8 +12,8 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/2019/kate-hipkiss-inflow-ii.jpg
+    image_title: Inflow II
     image_description:
 archive: false
 _options:
