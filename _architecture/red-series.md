@@ -1,11 +1,10 @@
 ---
-title: "Red series"
+title: Red series
 display_title: false
 permalink: /architecture/red/
 frontpage: true
-frontpagetitle: "Red series"
-homepage_description_markdown: >-
-  Iconic series 
+frontpagetitle: Red series
+homepage_description_markdown: Iconic series
 gallery_date: 2018-05-01 00:00:00
 display_image: false
 main_image_path: /assets/images/2019/kate-hipkiss-christchurch.jpg
@@ -19,8 +18,12 @@ images:
   - image_path: /assets/images/2019/kate-hipkiss-oxford-museum-of-natural-history.jpg
     image_title: Oxford Museum of Natural History
     image_description:
-
-
+  - image_path: /assets/images/2019/Gherkin V.jpg
+    image_title: The Gherkin
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
 archive: false
 _options:
   image_path:
