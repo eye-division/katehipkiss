@@ -26,6 +26,9 @@ images:
       papercut.jpg
     image_title: 'Atrium, the British Museum'
     image_description:
+  - image_path: '/assets/images/2019/Margery Fry Building, Oxford.jpg'
+    image_title: 'Margery Fry Building, Oxford'
+    image_description:
 archive: false
 _options:
   image_path:
