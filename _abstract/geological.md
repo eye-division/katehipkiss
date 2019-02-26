@@ -18,6 +18,9 @@ images:
   - image_path: /assets/images/2019/Tracks I.jpg
     image_title: Tracks I
     image_description:
+  - image_path: /assets/images/2019/Tracks II.jpg
+    image_title: Tracks II
+    image_description:
 archive: false
 _options:
   image_path:
