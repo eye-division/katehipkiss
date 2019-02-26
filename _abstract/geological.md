@@ -1,7 +1,7 @@
 ---
 title: Geological
 display_title: true
-permalink: /abstract/geological
+permalink: /abstract/geological/
 gallery_date:
 frontpage: true
 homepage_description_markdown:
