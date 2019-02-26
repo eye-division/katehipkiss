@@ -21,8 +21,10 @@ images:
   - image_path: /assets/images/2019/Gherkin V.jpg
     image_title: The Gherkin
     image_description:
-  - image_path:
-    image_title:
+  - image_path: >-
+      /assets/images/2019/Kate Hipkiss 'The Great Court, British Museum' layered
+      papercut.jpg
+    image_title: 'Atrium, the British Museum'
     image_description:
 archive: false
 _options:
