@@ -1,13 +1,13 @@
 ---
 title: Geological
 display_title: true
-permalink:
+permalink: /abstract/geological
 gallery_date:
 frontpage: true
 homepage_description_markdown:
 frontpagetitle:
 display_image: false
-main_image_path:
+main_image_path: /assets/images/2019/into-the-land.jpg
 main_image_caption:
 thumb_crop: true
 display_thumb_title: true
@@ -46,3 +46,4 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
+
