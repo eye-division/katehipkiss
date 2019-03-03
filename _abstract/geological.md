@@ -27,6 +27,9 @@ images:
   - image_path: /assets/images/2019/Connections- jardin des tuileries full .jpg
     image_title: 'Connections: Jardin des Tuileries'
     image_description:
+  - image_path: /assets/images/2019/into-the-land.jpg
+    image_title: Into the Land
+    image_description:
 archive: false
 _options:
   image_path:
