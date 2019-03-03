@@ -1,6 +1,6 @@
 ---
-layout: post
-title: test
+layout: page
+title: Exhibitions
 date:
 main_image_path:
 images:
@@ -13,3 +13,4 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 ---
+
