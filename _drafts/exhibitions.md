@@ -1,11 +1,12 @@
 ---
-layout: post
+layout: page
 title: Exhibitions
 post_date: 2018-09-09 15:21:00
-main_image_path: /assets/images/road_closed.jpg
+main_image_path:
 main_image_caption: Road closed
-comments: true
-tags: clients
+comments: false
+tags:
+  - clients
 images:
   - image_path:
     description:
@@ -26,5 +27,6 @@ _comments:
   title: Post title
   main_image_path: Featured image
   images: Add and edit images here
-  tags: use tags to link posts to each other
+  tags:
 ---
+
