@@ -30,6 +30,9 @@ images:
   - image_path: /assets/images/2019/into-the-land.jpg
     image_title: Into the Land
     image_description:
+  - image_path: /assets/images/2019/Feathering.jpg
+    image_title: Feathering
+    image_description:
 archive: false
 _options:
   image_path:
