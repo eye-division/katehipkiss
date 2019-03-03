@@ -33,6 +33,9 @@ images:
   - image_path: /assets/images/2019/Feathering.jpg
     image_title: Feathering
     image_description:
+  - image_path: /assets/images/2019/Kate Hipkiss_Flow.jpg
+    image_title: Flow
+    image_description:
 archive: false
 _options:
   image_path:
