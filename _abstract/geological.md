@@ -21,6 +21,9 @@ images:
   - image_path: /assets/images/2019/Tracks II.jpg
     image_title: Tracks II
     image_description:
+  - image_path: /assets/images/2019/Hyde Park.jpg
+    image_title: 'Connections: Hyde Park'
+    image_description:
 archive: false
 _options:
   image_path:
