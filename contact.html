@@ -35,10 +35,13 @@ _comments:
   homepage_description_markdown: Text used on homepage if shown
   frontpagetitle: Alternative title for home page use
 ---
-  <div class="editable">
-      <p> <strong>Tel:</strong> 111 1111</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id quaerat, tempore ut accusamus, dicta, soluta est unde officia iure dolorem asperiores voluptate quis molestiae. Dolores, porro commodi est ipsum assumenda?</p>
-  </div>
+
+<div class="editable">
+      <p><strong></strong></p>
+      <p>My studio is in Oxfordshire and I'm happy to arrange visits by appointment to view my current work or to discuss commissions.</p>
+      <p>Please use the form below to contact me or email me -</p>
+      <p>&nbsp;</p>
+    </div>
 
 {% if page.show_form %}
     <h4>Send an email</h4>
@@ -46,15 +49,15 @@ _comments:
 
     <fieldset>
       <input type="text" name="_gotcha" style="display:none" />
-      <input type="hidden" name="_to" value="support@eyedivision.com">
-      <input type="hidden" name="_subject" value="Web form">
+      <input type="hidden" name="_to" value="support@eyedivision.com" />
+      <input type="hidden" name="_subject" value="Web form" />
       <p>
       <label for="name">Name:</label>
-      <input type="text" name="name">
+      <input type="text" name="name" />
       </p>
       <p>
       <label for="_replyto">Email:</label>
-      <input type="email" name="_replyto">
+      <input type="email" name="_replyto" />
       </p>
       <p>
       <label>Message</label>
@@ -65,7 +68,7 @@ _comments:
       {% endif %}
 
       <p>
-        <input type="submit" value="Send message">
+        <input type="submit" value="Send message" />
       </p>
 
     </fieldset>
