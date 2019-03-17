@@ -4,7 +4,7 @@ display_title: false
 permalink: /abtract/natural-objects/
 frontpage: false
 frontpagetitle: Natural objects
-homepage_description_markdown: Natural objects
+homepage_description_markdown:
 gallery_date: 2018-05-01 00:00:00
 display_image: false
 main_image_path: /assets/images/2019/cracked.jpg
@@ -17,9 +17,6 @@ images:
     image_description:
   - image_path: /assets/images/2019/cracked.jpg
     image_title: Cracked
-    image_description:
-  - image_path:
-    image_title:
     image_description:
 archive: false
 _options:
