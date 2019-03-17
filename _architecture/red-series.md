@@ -4,7 +4,7 @@ display_title: false
 permalink: /architecture/red/
 frontpage: true
 frontpagetitle: Red series
-homepage_description_markdown: Iconic series
+homepage_description_markdown: Red series
 gallery_date: 2018-05-01 00:00:00
 display_image: false
 main_image_path: /assets/images/2019/kate-hipkiss-christchurch.jpg
@@ -61,4 +61,3 @@ _comments:
   homepage_description_markdown: Text used on homepage if shown
 ---
 
-Red series
