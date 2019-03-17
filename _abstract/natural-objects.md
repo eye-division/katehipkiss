@@ -1,5 +1,5 @@
 ---
-title: Natural objects
+title:
 display_title: false
 permalink: /abtract/natural-objects/
 frontpage: false
