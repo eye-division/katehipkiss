@@ -15,7 +15,7 @@ images:
   - image_path:
     image_title:
     image_description:
-archive: false
+archive: true
 _options:
   image_path:
     uploads_dir: 'assets/images/:year'
@@ -46,3 +46,4 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
+
