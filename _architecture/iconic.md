@@ -53,4 +53,3 @@ _comments:
   homepage_description_markdown: Text used on homepage if shown
 ---
 
-Iconic series
