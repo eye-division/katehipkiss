@@ -1,6 +1,6 @@
 ---
 title: Geological
-display_title: true
+display_title: false
 permalink: /abstract/geological/
 gallery_date:
 frontpage: true
