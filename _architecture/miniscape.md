@@ -2,7 +2,7 @@
 title: Miniscape
 display_title: false
 permalink: /architecture/miniscape/
-frontpage: true
+frontpage: false
 frontpagetitle: Miniscape Papercuts
 homepage_description_markdown: Miniscape
 gallery_date: 2019-02-01 00:00:00
