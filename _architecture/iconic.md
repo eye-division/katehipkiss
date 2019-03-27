@@ -2,7 +2,7 @@
 title: Iconic series
 display_title: false
 permalink: /architecture/iconic/
-frontpage: true
+frontpage: false
 frontpagetitle: Iconic series
 homepage_description_markdown: Iconic series
 gallery_date: 2018-05-01 00:00:00
