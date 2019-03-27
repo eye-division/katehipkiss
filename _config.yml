@@ -10,7 +10,7 @@ plugins:
 
 # Site settings
 title: "Kate Hipkiss"
-subtitle:
+subtitle: "Paper artist"
 name: "Kate Hipkiss"
 description: "Kate Hipkiss Eye Gallery site"
 # Base URL of site (i.e. /blog). It should always start with a slash,

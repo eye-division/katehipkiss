@@ -2,7 +2,7 @@
 layout: home
 main_image_path:
 main_image_caption:
-show_carousel: true
+show_carousel: false
 show_blog: false
 posts_number: 2
 carousel:
@@ -55,35 +55,12 @@ _comments:
 
   <div class="editable">
     <p>&nbsp;</p>
-    <p>&nbsp;</p>
   </div>
 
-    {% if page.show_carousel and page.carousel %}
-    <section class="slideshow">
-      <h2>This is a demo slideshow</h2>
-      <div class="flexslider">
-          <ul class="slides">
-            {% for slides in page.carousel %}
-            <li>
-              {% if slides.alink %}
-                 <a href="{{ site.baseurl }}{{ slides.alink }}" title="View project">
-              {% endif %}
-              {% include img.html src=slides.image width=960 alt=slides.caption %}
-              {% if slides.alink %}
-                </a>
-              {% endif %}
-              {% if slides.caption %}
-                <p class="flex-caption">{% if slides.alink %}<a href="{{ site.baseurl }}{{ slides.alink }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.alink %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
-              {% endif %}
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
-      {% endif %}
 
-      <!-- Regular page promotions on front page -->
-      {% for section in site.pages %}
+
+    <!-- Regular page promotions on front page -->
+    {% for section in site.pages %}
 
       {% if section.frontpage %}
 
@@ -115,8 +92,34 @@ _comments:
 
     {% endfor %}
 
-      <!-- Galleries -->
-    {% for gallery in site.gallery %}
+  <!-- Architecture  -->
+  {% for gallery in site.architecture %}
+
+    {% if gallery.frontpage %}
+
+      <section class="gallery--cover {% if gallery.main_image_path %}has--cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
+
+        <a href="{{ gallery.url }}">
+
+          <div class="scrim {% if gallery.main_image_path %}has--cover{% endif %}">
+            <article class="gallery--front">
+              <header class="gallery--header">
+                <h2 class="cover--title mb0">{{ gallery.frontpagetitle }}</h2>
+              </header>
+              {% if gallery.homepage_description_markdown %}
+                {{ gallery.homepage_description_markdown | markdownify }} <span class="post--readmore">View gallery  <svg class="icon icon--post"><use xlink:href="#icon-double_angle_right" /></svg></span>
+              {% endif %}
+            </article>
+          </div>
+        </a>
+      </section>
+
+    {% endif %}
+
+  {% endfor %}
+
+<!-- Abstract  -->
+    {% for gallery in site.abstract %}
 
       {% if gallery.frontpage %}
 
@@ -141,10 +144,9 @@ _comments:
 
     {% endfor %}
 
-
 {% if page.show_blog %}
 
-    <section class="blog blog--home">
+  <section class="blog blog--home">
 
       <div class="editable">
         <h2>Latest news</h2>
@@ -165,5 +167,7 @@ _comments:
       </ul>
       <p><a href="/news/">Read all news&nbsp;&raquo;</a></p>
 
-    </section>
-    {% endif %}</section>
+  </section>
+
+{% endif %}
+

@@ -3,7 +3,7 @@
 
 // Typography
 // $base-font-family: $font-stack-system;
-$base-font-family: "Lato", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$base-font-family: "Century Gothic", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 // OR use ? $font-stack-system;
 $heading-font-family: ('Roboto Condensed', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif);
 $subheading-font-family: ('Roboto Condensed', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif);
@@ -110,8 +110,8 @@ $navigation-submenu-padding: 1em;
 $navigation-submenu-width: 15em;
 
 $navigation-background: $white;
-$navigation-color: $dark-gray;
-$navigation-color-hover: $orange;
+$navigation-color: $medium-gray;
+$navigation-color-hover: $black;
 $navigation-active-link-color: $orange;
 
 // footer
