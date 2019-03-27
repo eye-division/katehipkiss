@@ -2,7 +2,7 @@
 title: Red series
 display_title: false
 permalink: /architecture/red/
-frontpage: true
+frontpage: false
 frontpagetitle: Red series
 homepage_description_markdown: Red series
 gallery_date: 2018-05-01 00:00:00
