@@ -29,6 +29,9 @@ images:
   - image_path: '/assets/images/2019/Margery Fry Building, Oxford.jpg'
     image_title: 'Margery Fry Building, Oxford'
     image_description:
+  - image_path: /assets/images/2019/Kings Cross.jpg
+    image_title: Kings Cross
+    image_description:
 archive: false
 _options:
   image_path:
