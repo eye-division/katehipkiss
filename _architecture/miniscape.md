@@ -19,6 +19,8 @@ images:
     image_title: Miniscape Houses of Parliament
   - image_path: /assets/images/2019/miniscape London Duo.jpg
     image_title: 'London Duo, Houses of Parliament and St Paul''s'
+  - image_path: /assets/images/2019/miniscape framed.jpg
+    image_title: 'London Duo: The Gherkin and The London Eye'
 archive: false
 _options:
   image_path:
