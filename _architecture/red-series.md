@@ -35,6 +35,9 @@ images:
   - image_path: /assets/images/2019/NHM Oxford.jpg
     image_title: 'Natural History Museum, Oxford'
     image_description:
+  - image_path: /assets/images/2019/St Pauls & the Gherkin sml.jpg
+    image_title: 'St Paul''s and the Gherkin, small'
+    image_description:
 archive: false
 _options:
   image_path:
