@@ -24,6 +24,9 @@ images:
   - image_path: /assets/images/2019/Iconic Series Blavatnik Building.jpg
     image_title: 'Blavatnik Building, Oxford'
     image_description:
+  - image_path: /assets/images/2019/Iconic Series Ashmolean Museum.jpg
+    image_title: Ashmolean
+    image_description:
 archive: false
 _options:
   image_path:
