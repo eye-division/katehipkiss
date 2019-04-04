@@ -39,8 +39,8 @@ images:
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/2019/waxing and waning.jpg
+    image_title: Waxing and Waning
     image_description:
   - image_path:
     image_title:
