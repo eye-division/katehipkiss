@@ -32,6 +32,9 @@ images:
   - image_path: /assets/images/2019/Kings Cross.jpg
     image_title: Kings Cross
     image_description:
+  - image_path: /assets/images/2019/NHM Oxford.jpg
+    image_title: 'Natural History Museum, Oxford'
+    image_description:
 archive: false
 _options:
   image_path:
