@@ -17,6 +17,8 @@ images:
     image_description:
   - image_path: /assets/images/2019/miniscape-houses-of-parliament.jpg
     image_title: Miniscape Houses of Parliament
+  - image_path: /assets/images/2019/miniscape London Duo.jpg
+    image_title: 'London Duo, Houses of Parliament and St Paul''s'
 archive: false
 _options:
   image_path:
