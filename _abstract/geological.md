@@ -12,8 +12,8 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
-  - image_path: /assets/images/2019/kate-hipkiss-inflow-ii.jpg
-    image_title: Inflow II
+  - image_path: /assets/images/2019/into-the-land.jpg
+    image_title: Into the Land
     image_description:
   - image_path: /assets/images/2019/Tracks I.jpg
     image_title: Tracks I
@@ -21,20 +21,29 @@ images:
   - image_path: /assets/images/2019/Tracks II.jpg
     image_title: Tracks II
     image_description:
-  - image_path: /assets/images/2019/into-the-land.jpg
-    image_title: Into the Land
-    image_description:
   - image_path: /assets/images/2019/Feathering.jpg
     image_title: Feathering
     image_description:
-  - image_path: /assets/images/2019/Kate Hipkiss_Flow.jpg
-    image_title: Flow
+  - image_path: /assets/images/2019/kate-hipkiss-inflow-ii.jpg
+    image_title: Inflow II
     image_description:
   - image_path: /assets/images/2019/Hyde Park.jpg
     image_title: 'Connections: Hyde Park'
     image_description:
+  - image_path: /assets/images/2019/Kate Hipkiss_Flow.jpg
+    image_title: Flow
+    image_description:
   - image_path: /assets/images/2019/Connections- jardin des tuileries full .jpg
     image_title: 'Connections: Jardin des Tuileries'
+    image_description:
+  - image_path: /assets/images/2019/The Moon II.jpg
+    image_title: The Moon
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
     image_description:
 archive: false
 _options:
