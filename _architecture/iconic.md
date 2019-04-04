@@ -18,6 +18,9 @@ images:
   - image_path: /assets/images/2019/iconic-series-battersea-power-station.jpg
     image_title: Battersea Power Station
     image_description:
+  - image_path: /assets/images/2019/Kate Hipkiss Radcliffe Camera .jpg
+    image_title: Radcliffe Camera
+    image_description:
   - image_path: /assets/images/2019/Iconic Series Blavatnik Building.jpg
     image_title: 'Blavatnik Building, Oxford'
     image_description:
