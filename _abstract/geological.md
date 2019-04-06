@@ -5,7 +5,7 @@ permalink: /abstract/geological/
 gallery_date:
 frontpage: true
 homepage_description_markdown:
-frontpagetitle: Geological abstracts
+frontpagetitle:
 display_image: false
 main_image_path: /assets/images/2019/into-the-land.jpg
 main_image_caption:
