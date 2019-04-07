@@ -21,8 +21,8 @@ images:
   - image_path: /assets/images/2019/Ice Flow.jpg
     image_title: Ice Flow
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/2019/HSplay.jpg
+    image_title: Splay
     image_description:
 archive: false
 _options:
