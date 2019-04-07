@@ -1,7 +1,7 @@
 ---
-title: Geological
+title: Landscape
 display_title: false
-permalink: /abstract/geological/
+permalink: /abstract/landscape/
 gallery_date:
 frontpage: true
 homepage_description_markdown:
