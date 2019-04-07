@@ -15,7 +15,7 @@ images:
   - image_path: /assets/images/2019/into-the-land.jpg
     image_title: Into the Land
     image_description: |-
-      11 layers of hand-cut paper, 
+      6 layers of hand-cut paper, 
       image 15x15cm,
       framed size 31x31cm,
       £550.00
