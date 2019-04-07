@@ -14,7 +14,11 @@ display_thumb_title: true
 images:
   - image_path: /assets/images/2019/into-the-land.jpg
     image_title: Into the Land
-    image_description:
+    image_description: |-
+      11 layers of hand-cut paper
+      image size: 15x15cm
+      framed size: 31x31cm
+      £550.00
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
     image_description:
