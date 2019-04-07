@@ -15,7 +15,7 @@ images:
   - image_path: /assets/images/2019/kate-hipkiss-fissure.jpg
     image_title: Fissure
     image_description:
-  - image_path: /assets/images/2019/cracked.jpg
+  - image_path: /assets/images/2019/cracked II.jpg
     image_title: Cracked
     image_description:
   - image_path: /assets/images/2019/Ice Flow.jpg
