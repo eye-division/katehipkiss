@@ -18,6 +18,12 @@ images:
   - image_path: /assets/images/2019/cracked.jpg
     image_title: Cracked
     image_description:
+  - image_path: /assets/images/2019/Ice Flow.jpg
+    image_title: Ice Flow
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
 archive: false
 _options:
   image_path:
