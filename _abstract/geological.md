@@ -21,7 +21,7 @@ images:
       £550.00
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
-    image_description:
+    image_description: '8 layers of hand-cut paper, 33cm framed, £725'
   - image_path: /assets/images/2019/waxing and waning.jpg
     image_title: Waxing and Waning
     image_description:
