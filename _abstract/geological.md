@@ -15,37 +15,35 @@ images:
   - image_path: /assets/images/2019/into-the-land.jpg
     image_title: Into the Land
     image_description: |-
-      6 layers of hand-cut paper, 
-      image 15x15cm,
-      framed size 31x31cm,
+      6 layers of hand-cut paper, framed size 31x31cm,
       £550.00
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
-    image_description: '8 layers of hand-cut paper, 33cm framed, £725'
+    image_description: '8 layers of hand-cut paper, framed size 33x33cm, £725.00'
   - image_path: /assets/images/2019/waxing and waning.jpg
     image_title: Waxing and Waning
     image_description:
   - image_path: /assets/images/2019/Feathering.jpg
     image_title: Feathering
-    image_description:
+    image_description: '13 layers of hand-cut paper, 23x23cm framed, £350.00'
   - image_path: /assets/images/2019/Tracks I.jpg
-    image_title: Tracks I
-    image_description:
+    image_title: Waterhole
+    image_description: '10 layers of hand-cut paper, 23x41cm framed, £725.00'
   - image_path: /assets/images/2019/Tracks II.jpg
-    image_title: Tracks II
-    image_description:
+    image_title: Tracks
+    image_description: '13 layers of hand-cut paper, 23x41cm framed, £725.00'
   - image_path: /assets/images/2019/kate-hipkiss-inflow-ii.jpg
     image_title: Inflow II
-    image_description:
+    image_description: '17 layers of hand-cut paper, 23x41cm framed, £610.00'
   - image_path: /assets/images/2019/Kate Hipkiss_Flow.jpg
     image_title: Flow
-    image_description:
+    image_description: '6 layers of hand-cut paper, 27x33cm framed, £510.00'
   - image_path: /assets/images/2019/Hyde Park.jpg
-    image_title: 'Connections: Hyde Park'
-    image_description:
+    image_title: 'Connections: Hyde Park II'
+    image_description: '7 layers of hand-cut paper, 23x23cm framed, £350.00'
   - image_path: /assets/images/2019/Connections- jardin des tuileries full .jpg
     image_title: 'Connections: Jardin des Tuileries'
-    image_description:
+    image_description: '9 layers of hand-cut paper, 23x23cm framed, £350.00'
 archive: false
 _options:
   image_path:
