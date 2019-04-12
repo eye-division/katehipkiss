@@ -161,6 +161,7 @@ social:
     username: ''
     url:
     desc: Like us on Facebook
+    title: Facebook icon
     share: true
 
   - name: Instagram
@@ -168,6 +169,7 @@ social:
     username: '@katehipkiss'
     url: https://instagram.com/katehipkiss
     desc: Follow us on Instagram
+    title: Instagram icon
     share: false
 
   - name: Twitter
@@ -175,6 +177,7 @@ social:
     username: ''
     url:
     desc: Follow us on Twitter
+    title: Twitter icon
     share: true
 
   - name: Pinterest
@@ -182,6 +185,7 @@ social:
     username: ''
     url:
     desc: Follow us on Pinterest
+    title: Pinterest icon
     share: true
 
   - name: linkedin
@@ -189,6 +193,7 @@ social:
     username: ''
     url:
     desc: Connect with us on LinkedIn
+    title: LinkedIn icon
     share: true
 
 # Social sharing protocols

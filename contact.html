@@ -49,24 +49,27 @@ _comments:
     <form action="/thanks/" method="post">
 
     <fieldset>
-      <input type="text" name="_gotcha" style="display:none" />
-      <input type="hidden" name="_to" value="support@eyedivision.com" />
-      <input type="hidden" name="_subject" value="Web form" />
+     <input type="hidden" name="_to" value="{{ site.email }}">
+      <input type="hidden" name="_subject" value="Web form">
       <p>
       <label for="name">Name:</label>
-      <input type="text" name="name" />
+      <input type="text" name="name" id="name">
       </p>
       <p>
       <label for="_replyto">Email:</label>
-      <input type="email" name="_replyto" />
+      <input type="email" name="_replyto" id="_replyto">
       </p>
       <p>
-      <label>Message</label>
-      <textarea name="message"></textarea>
+     <label for="message">Message</label>
+      <textarea name="message" id="message"></textarea>
       </p>
       {% if site.recaptcha_site_key and jekyll.environment == 'production' %}
         <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
       {% endif %}
+
+      <p>
+        <input type="submit" value="Send message">
+      </p>
 
       <p>
         <input type="submit" value="Send message" />
@@ -75,5 +78,25 @@ _comments:
     </fieldset>
 
   </form>
+
+{% endif %}
+
+{% if page.show_mailchimp %}
+
+  <!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<div id="mc_embed_signup">
+<form action="https://moonfruit.us8.list-manage.com/subscribe/post?u=d8e62e2334c65b8d27832ec42&amp;id=2db247a458" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+<label for="mce-EMAIL">Subscribe to my mailing list to receive updates and exhibition invitations</label>
+<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d8e62e2334c65b8d27832ec42_2db247a458" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
 
 {% endif %}
