@@ -66,8 +66,8 @@ $aaa-visited: rgb(128, 65, 128);
 
 // Font Colors
 $base-font-color: $black;
-$action-color: $orange;
-$action-hover-color: darken($action-color,5%);
+$action-color: $black;
+$action-hover-color: lighten($action-color,5%);
 
 $cta-color: darken($orange,0%);
 
