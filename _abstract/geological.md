@@ -46,7 +46,7 @@ images:
     image_description: '9 layers of hand-cut paper, 23x23cm framed, £350.00'
   - image_path: /assets/images/2019/White Horse e.jpg
     image_title: White Horse
-    image_description: '68 layers of hand-cut paper, framed size 26.5 x 35cm, £650.00'
+    image_description: '68 layers of hand-cut paper, framed size 26 x 35cm, £650.00'
 archive: false
 _options:
   image_path:
