@@ -8,6 +8,7 @@ frontpage: false
 homepage_description_markdown:
 frontpagetitle:
 show_form: true
+show_mailchimp: true
 _options:
   layout:
     hidden: true
@@ -31,6 +32,7 @@ _comments:
   title: Page title
   main_image_path: Image used to represent your page
   show_form: Do you want to show a contact form?
+  show_mailchimp: Show the MailChimp signup form?
   frontpage: Show this page on the homepage
   homepage_description_markdown: Text used on homepage if shown
   frontpagetitle: Alternative title for home page use
@@ -45,10 +47,10 @@ _comments:
   </div>
 
 {% if page.show_form %}
-    <h4>Send an email</h4>
     <form action="/thanks/" method="post">
 
     <fieldset>
+      <legend>Send email</legend>
      <input type="hidden" name="_to" value="{{ site.email }}">
       <input type="hidden" name="_subject" value="Web form">
       <p>
@@ -68,10 +70,6 @@ _comments:
       {% endif %}
 
       <p>
-        <input type="submit" value="Send message">
-      </p>
-
-      <p>
         <input type="submit" value="Send message" />
       </p>
 
@@ -83,6 +81,7 @@ _comments:
 
 {% if page.show_mailchimp %}
 
+    <h4>Subscribe to newsletter</h4>
   <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <div id="mc_embed_signup">
