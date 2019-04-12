@@ -3,7 +3,7 @@ title: Landscape
 display_title: false
 permalink: /abstract/landscape/
 gallery_date:
-frontpage: true
+frontpage: false
 homepage_description_markdown:
 frontpagetitle:
 display_image: false
