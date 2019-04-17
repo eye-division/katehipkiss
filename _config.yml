@@ -44,26 +44,18 @@ imagecdn:
 
 # Collections Example
 collections:
-    architecture:
+    gallery:
         output: true
-        #permalink: /:path/
+        permalink: /gallery/:path/
         #_hide_content: true
-    abstract:
-        output: true
-        #permalink: /stained-glass/:path/
+
 
 # Defaults Example
 defaults:
     -
         scope:
             path: ""
-            type: "architecture"
-        values:
-            layout: "gallery"
-    -
-        scope:
-            path: ""
-            type: "abstract"
+            type: "gallery"
         values:
             layout: "gallery"
 

@@ -1,49 +1,51 @@
 ---
 layout: page
-title: Abstracts
-permalink: /grid-layout/
-main_image_path:
-main_image_caption:
+title: galleries
+permalink: /gallery/
+main_image_path: /assets/images/2019/cracked.jpg
+main_image_caption: Cracked
+display_image: false
 frontpage: false
-homepage_description_markdown:
-frontpagetitle: Abstracts
+homepage_description_markdown: Galleries
+frontpagetitle: Galleries
 _options:
   layout:
     hidden: true
   permalink:
     hidden: true
   image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: "assets/images/:year"
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: "assets/images/:year"
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   content:
-    uploads_dir: 'assets/:year'
+    uploads_dir: "assets/:year"
 _comments:
   title: Gallery title
   main_image_path: Image used to represent your gallery
-  frontpage: Show this gallery on the homepage
+  display_image: Show featured image at the top of the page
+  frontpage: Show this gallery on the homepag
+  frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
 
 <div class="editable">
-  <p class="strapline">This is an example of the Grid layout, where galleries run across and down the screen. See also the alternative <a href="/abstract/">block layout</a></p>
-
-</div>
+    <p class="strapline"></p>
+  </div>
 
 <section class="gallery--list">
 
-  <!-- order galleries by date -->
-  {% assign galleries = site.abstract | sort: 'gallery_date' | reverse %}
+<!-- order galleries by date -->
+{% assign galleries = site.gallery | sort: 'gallery_date' | reverse %}
 
-  {% for gallery in galleries %}
+{% for gallery in galleries %}
 
      <div class="gallery--box">
 
@@ -54,6 +56,5 @@ _comments:
 
      </div>
 
-  {% endfor %}
-
+{% endfor %}
 </section>
