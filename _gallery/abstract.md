@@ -22,7 +22,7 @@ images:
     image_description: '8 layers of hand-cut paper, framed size 33x33cm, £725.00'
   - image_path: /assets/images/2019/waxing and waning.jpg
     image_title: Waxing and Waning
-    image_description:
+    image_description: '8  layers of hand-cut paper, framed size 21x61cm, £650.00'
   - image_path: /assets/images/2019/Feathering.jpg
     image_title: Feathering
     image_description: '13 layers of hand-cut paper, 23x23cm framed, £350.00'
@@ -49,13 +49,13 @@ images:
     image_description: '68 layers of hand-cut paper, framed size 26 x 35cm, £650.00'
   - image_path: /assets/images/2019/cracked II.jpg
     image_title: Cracked
-    image_description:
+    image_description: '5 layers of hand-cut paper, framed size 23x23 cm, £350.00'
   - image_path: /assets/images/2019/kate-hipkiss-fissure.jpg
     image_title: Fissure
-    image_description:
+    image_description: '9 layers of hand-cut paper, framed size 23x41 cm, £650.00'
   - image_path: /assets/images/2019/Ice Flow.jpg
     image_title: Ice Flow
-    image_description:
+    image_description: '4 layers of hand-cut paper, framed size 23x23 cm, £350.00'
 archive: false
 _options:
   image_path:
