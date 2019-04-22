@@ -14,30 +14,30 @@ display_thumb_title: true
 images:
   - image_path: /assets/images/2019/iconic-series-royal-albert-hall.jpg
     image_title: Royal Albert Hall
-    image_description:
+    image_description: 'Layers of hand-cut card, framed size 23x29cm, £295.00'
   - image_path: /assets/images/2019/iconic-series-battersea-power-station.jpg
     image_title: Battersea Power Station
-    image_description:
+    image_description: 'Layers of hand-cut card, framed size 23x29 cm, £295.00'
   - image_path: /assets/images/2019/Kate Hipkiss Radcliffe Camera .jpg
     image_title: Radcliffe Camera
-    image_description:
+    image_description: 'Layers of hand-cut card, framed size 29x23 cm, £295.00'
   - image_path: /assets/images/2019/Iconic Series Blavatnik Building.jpg
     image_title: 'Blavatnik Building, Oxford'
-    image_description:
+    image_description: 'Layers of hand-cut card, framed size 23x29 cm, £295.00'
   - image_path: /assets/images/2019/Iconic Series Ashmolean Museum.jpg
     image_title: Ashmolean
-    image_description:
+    image_description: 'Layers of hand-cut card, framed size 18x32 cm, £320.00'
   - image_path: /assets/images/2019/mini-radcliffe-camera-ii.jpg
     image_title: Mini Radcliffe Camera
-    image_description:
+    image_description: 'Layers of hand-cut card, framed size 20x20 cm, £95.00'
   - image_path: /assets/images/2019/miniscape-houses-of-parliament.jpg
     image_title: Miniscape Houses of Parliament
   - image_path: /assets/images/2019/kate-hipkiss-christchurch.jpg
     image_title: Christ Church
-    image_description:
+    image_description: 'Layers of hand-cut card, framed size 43x33 cm, £725.00'
   - image_path: /assets/images/2019/kate-hipkiss-oxford-museum-of-natural-history.jpg
     image_title: Oxford Museum of Natural History
-    image_description:
+    image_description: 'Layers of hand-cut card, framed size 43x33 cm, £725.00'
   - image_path: /assets/images/2019/Gherkin V.jpg
     image_title: The Gherkin
     image_description:
