@@ -32,10 +32,6 @@ images:
     image_description:
   - image_path: /assets/images/2019/miniscape-houses-of-parliament.jpg
     image_title: Miniscape Houses of Parliament
-  - image_path: /assets/images/2019/miniscape London Duo.jpg
-    image_title: 'London Duo, Houses of Parliament and St Paul''s'
-  - image_path: /assets/images/2019/miniscape framed.jpg
-    image_title: 'London Duo: The Gherkin and The London Eye'
   - image_path: /assets/images/2019/kate-hipkiss-christchurch.jpg
     image_title: Christ Church
     image_description:
@@ -55,9 +51,6 @@ images:
     image_description:
   - image_path: /assets/images/2019/Kings Cross.jpg
     image_title: Kings Cross
-    image_description:
-  - image_path: /assets/images/2019/NHM Oxford.jpg
-    image_title: 'Natural History Museum, Oxford'
     image_description:
   - image_path: /assets/images/2019/St Pauls & the Gherkin sml.jpg
     image_title: 'St Paul''s and the Gherkin, small'
