@@ -40,24 +40,21 @@ images:
     image_description: 'Layers of hand-cut card, framed size 43x33 cm, £725.00'
   - image_path: /assets/images/2019/Gherkin V.jpg
     image_title: The Gherkin
-    image_description:
+    image_description: 'Layers of hand-cut card, framed size 29x23 cm, £295.00'
   - image_path: >-
       /assets/images/2019/Kate Hipkiss 'The Great Court, British Museum' layered
       papercut.jpg
     image_title: 'Atrium, the British Museum'
-    image_description:
+    image_description: 'Layers of hand-cut card, framed size 23x29 cm, £295.00'
   - image_path: '/assets/images/2019/Margery Fry Building, Oxford.jpg'
     image_title: 'Margery Fry Building, Oxford'
-    image_description:
-  - image_path: /assets/images/2019/Kings Cross.jpg
-    image_title: Kings Cross
-    image_description:
+    image_description: 'Layers of hand-cut card, framed size 23x29 cm, £295.00'
   - image_path: /assets/images/2019/St Pauls & the Gherkin sml.jpg
     image_title: 'St Paul''s and the Gherkin, small'
-    image_description:
+    image_description: 'Layers of hand-cut card, framed size 20x20 cm, £150.00'
   - image_path: /assets/images/2019/the wheel sml.jpg
     image_title: The Wheel
-    image_description:
+    image_description: 'Layers of hand-cut card, framed size 20x20 cm, £150.00'
 archive: false
 _options:
   image_path:
