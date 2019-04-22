@@ -23,21 +23,21 @@ images:
   - image_path: /assets/images/2019/waxing and waning.jpg
     image_title: Waxing and Waning
     image_description: '8  layers of hand-cut paper, framed size 21x61cm, £650.00'
-  - image_path: /assets/images/2019/Feathering.jpg
-    image_title: Feathering
-    image_description: '13 layers of hand-cut paper, 23x23cm framed, £350.00'
+  - image_path: /assets/images/2019/Kate Hipkiss_Flow.jpg
+    image_title: Flow
+    image_description: '6 layers of hand-cut paper, 27x33cm framed, £510.00'
   - image_path: /assets/images/2019/Tracks I.jpg
     image_title: Waterhole
     image_description: '10 layers of hand-cut paper, 23x41cm framed, £725.00'
+  - image_path: /assets/images/2019/Feathering.jpg
+    image_title: Feathering
+    image_description: '13 layers of hand-cut paper, 23x23cm framed, £350.00'
   - image_path: /assets/images/2019/Tracks II.jpg
     image_title: Tracks
     image_description: '13 layers of hand-cut paper, 23x41cm framed, £725.00'
   - image_path: /assets/images/2019/kate-hipkiss-inflow-ii.jpg
     image_title: Inflow II
     image_description: '17 layers of hand-cut paper, 23x41cm framed, £610.00'
-  - image_path: /assets/images/2019/Kate Hipkiss_Flow.jpg
-    image_title: Flow
-    image_description: '6 layers of hand-cut paper, 27x33cm framed, £510.00'
   - image_path: /assets/images/2019/Hyde Park.jpg
     image_title: 'Connections: Hyde Park II'
     image_description: '7 layers of hand-cut paper, 23x23cm framed, £350.00'
