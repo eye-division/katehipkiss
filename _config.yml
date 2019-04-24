@@ -123,7 +123,7 @@ _options:
 #disqus_shortname: alun-ward
 
 # Google analytics
-# ga_tracking_id: ""
+ga_tracking_id: "UA-138957822-1"
 
 # Google Recaptcha used for contact form - used by seo-tag
 #recaptcha_site_key: "6LcNYBQUAAAAAALGOjCFo1CKxb65aFTFelMJo1YF"
