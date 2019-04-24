@@ -22,7 +22,7 @@ images:
     image_description: '8 layers of hand-cut paper, framed size 33x33cm, £725.00'
   - image_path: /assets/images/2019/waxing and waning.jpg
     image_title: Waxing and Waning
-    image_description: '8  layers of hand-cut paper, framed size 21x61cm, £675.00'
+    image_description: '8  layers of hand-cut paper, framed size 21x61 cm, £675.00'
   - image_path: /assets/images/2019/Kate Hipkiss_Flow.jpg
     image_title: Flow
     image_description: '6 layers of hand-cut paper, 27x33cm framed, £510.00'
