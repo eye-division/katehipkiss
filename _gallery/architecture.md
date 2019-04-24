@@ -16,8 +16,8 @@ images:
     image_title: Oxford Museum of Natural History
     image_description: 'Layers of hand-cut card, framed size 43x33 cm, £725.00'
   - image_path: /assets/images/2019/kate-hipkiss-christchurch.jpg
-    image_title: Christ Church
-    image_description: 'Layers of hand-cut card, framed size 43x33 cm, £725.00'
+    image_title: Christchurch
+    image_description: 'Layers of hand-cut card, framed size 43x33cm, £725.00'
   - image_path: /assets/images/2019/Gherkin V.jpg
     image_title: The Gherkin
     image_description: 'Layers of hand-cut card, framed size 29x23 cm, £295.00'
