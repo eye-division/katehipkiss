@@ -1,7 +1,7 @@
 ---
-title: Abstract
+title: Geological
 display_title: false
-permalink: /gallery/abstract/
+permalink: /gallery/geological/
 gallery_date:
 frontpage: false
 homepage_description_markdown:
