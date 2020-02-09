@@ -12,11 +12,6 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
-  - image_path: /assets/images/2019/into-the-land.jpg
-    image_title: Into the Land
-    image_description: |-
-      6 layers of hand-cut paper, framed size 31x31cm,
-      £550.00
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
     image_description: '8 layers of hand-cut paper, framed size 33x33cm, £725.00'
