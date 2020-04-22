@@ -50,6 +50,12 @@ images:
   - image_path: /assets/images/2019/Iconic Series Ashmolean Museum.jpg
     image_title: Ashmolean
     image_description: 'Layers of hand-cut card, framed size 18x32 cm, £320.00'
+  - image_path: /assets/images/2019/Colloseum layered papercut.jpg
+    image_title:
+    image_description:
+  - image_path: '/assets/images/Kate Hipkiss St Barnabas Church, Jericho.jpg'
+    image_title: 'St Barnabas Church, Jericho'
+    image_description: '15 layers of hand-cut card, framed size 39x39cm, £795.00'
 archive: false
 _options:
   image_path:
