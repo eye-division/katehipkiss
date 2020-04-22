@@ -15,6 +15,9 @@ images:
   - image_path: '/assets/images/Kate Hipkiss St Barnabas Church, Jericho.jpg'
     image_title: 'St Barnabas Church, Jericho'
     image_description: '15 layers of hand-cut card, framed size 39x39cm, £795.00'
+  - image_path: /assets/images/Kate Hipkiss Glasshouse with Magdalen College Tower II.jpg
+    image_title: Glasshouse with Magdalen College Tower
+    image_description: '15 layers of hand-cut card, framed size 43x33 cm, £925.00'
   - image_path: /assets/images/2019/kate-hipkiss-oxford-museum-of-natural-history.jpg
     image_title: Oxford Museum of Natural History
     image_description: 'Layers of hand-cut card, framed size 43x33 cm, £725.00'
@@ -53,12 +56,6 @@ images:
   - image_path: /assets/images/2019/Iconic Series Ashmolean Museum.jpg
     image_title: Ashmolean
     image_description: 'Layers of hand-cut card, framed size 18x32 cm, £320.00'
-  - image_path: /assets/images/2019/Colloseum layered papercut.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/images/Kate Hipkiss Glasshouse with Magdalen College Tower II.jpg
-    image_title: Glasshouse with Magdalen College Tower
-    image_description: '15 layers of hand-cut card, framed size 43x33 cm, £925.00'
 archive: false
 _options:
   image_path:
