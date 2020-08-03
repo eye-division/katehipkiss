@@ -3,7 +3,7 @@ title: Maps
 display_title: false
 permalink: /maps
 gallery_date:
-frontpage: true
+frontpage: false
 homepage_description_markdown: Maps
 frontpagetitle: Maps
 display_image: false
@@ -18,7 +18,7 @@ images:
   - image_path: /assets/images/2020/Kate Hipkiss Breathless detail 2.jpg
     image_title: 'Breathless, detail'
     image_description:
-archive: false
+archive: true
 _options:
   image_path:
     uploads_dir: 'assets/images/:year'
