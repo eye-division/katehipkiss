@@ -1,6 +1,6 @@
 ---
 title: Maps
-display_title: true
+display_title: false
 permalink: /maps
 gallery_date:
 frontpage: true
