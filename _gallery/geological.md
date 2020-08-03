@@ -3,7 +3,7 @@ title: Geological
 display_title: false
 permalink: /gallery/geological/
 gallery_date:
-frontpage: false
+frontpage: true
 homepage_description_markdown:
 frontpagetitle:
 display_image: false
