@@ -2,7 +2,7 @@
 title: Architecture
 display_title: false
 permalink: /gallery/architecture/
-frontpage: false
+frontpage: true
 frontpagetitle: Iconic series
 homepage_description_markdown: Iconic series
 gallery_date: 2018-05-01 00:00:00
