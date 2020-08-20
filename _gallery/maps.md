@@ -33,7 +33,7 @@ images:
   - image_path: /assets/images/2020/large-map-box-norfolk.jpg
     image_title: Large Memory Box
     image_description:
-archive: true
+archive: false
 _options:
   image_path:
     uploads_dir: 'assets/images/:year'
