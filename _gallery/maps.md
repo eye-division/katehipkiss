@@ -30,6 +30,9 @@ images:
   - image_path: /assets/images/2020/russian-doll-boxes-iii.jpg
     image_title: Russian Doll Memory Boxes
     image_description:
+  - image_path: /assets/images/2020/large-map-box-norfolk.jpg
+    image_title: Large Memory Box
+    image_description:
 archive: true
 _options:
   image_path:
