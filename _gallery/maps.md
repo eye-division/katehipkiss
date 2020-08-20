@@ -25,7 +25,7 @@ images:
     image_title: We Came to be Here (detail)
     image_description:
   - image_path: /assets/images/2020/russian-doll-boxes.jpg
-    image_title:
+    image_title: Russian Doll Memory Boxes
     image_description:
 archive: true
 _options:
