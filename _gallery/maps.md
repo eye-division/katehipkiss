@@ -24,6 +24,9 @@ images:
   - image_path: /assets/images/2020/we-came-to-be-here-detail.jpg
     image_title: We Came to be Here (detail)
     image_description:
+  - image_path: /assets/images/2020/russian-doll-boxes.jpg
+    image_title:
+    image_description:
 archive: true
 _options:
   image_path:
