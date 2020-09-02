@@ -3,7 +3,7 @@ title: Maps
 display_title: false
 permalink: /gallery/maps
 gallery_date:
-frontpage: false
+frontpage: true
 homepage_description_markdown: Maps
 frontpagetitle: Maps
 display_image: false
