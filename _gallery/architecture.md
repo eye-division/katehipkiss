@@ -3,8 +3,8 @@ title: Architecture
 display_title: false
 permalink: /gallery/architecture/
 frontpage: true
-frontpagetitle: Iconic series
-homepage_description_markdown: Iconic series
+frontpagetitle: Architecture
+homepage_description_markdown: Architecture
 gallery_date: 2018-05-01 00:00:00
 display_image: false
 main_image_path: /assets/images/2019/iconic-series-royal-albert-hall.jpg
