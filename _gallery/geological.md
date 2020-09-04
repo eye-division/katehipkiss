@@ -3,7 +3,7 @@ title: Geological
 display_title: false
 permalink: /gallery/geological/
 gallery_date:
-frontpage: true
+frontpage: false
 homepage_description_markdown: >-
   The Geological series explores pattern and colour in the landscape and natural
   world on a macro and micro level. Satellite imagery reveals beautiful colours
