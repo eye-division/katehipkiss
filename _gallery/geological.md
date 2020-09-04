@@ -4,7 +4,14 @@ display_title: false
 permalink: /gallery/geological/
 gallery_date:
 frontpage: true
-homepage_description_markdown:
+homepage_description_markdown: >-
+  The Geological series explores pattern and colour in the landscape and natural
+  world on a macro and micro level. Satellite imagery reveals beautiful colours
+  and pattern in the landscape, both natural and man-made, and micro images of
+  plants and natural objects often reveal surprisingly similar structures. I am
+  especially interested in marks on the landscape created by natural forces such
+  as flowing water, or scars created by human activities such as mining and
+  farming; the shaping of our landscape over time.
 frontpagetitle:
 display_image: false
 main_image_path: /assets/images/2019/into-the-land.jpg
