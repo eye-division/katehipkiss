@@ -39,9 +39,6 @@ images:
   - image_path: /assets/images/2019/St Pauls & the Gherkin sml.jpg
     image_title: 'St Paul''s and the Gherkin, small'
     image_description: 'Layers of hand-cut card, framed size 20x20 cm, £150.00'
-  - image_path: /assets/images/2019/the wheel sml.jpg
-    image_title: The Wheel
-    image_description: 'Layers of hand-cut card, framed size 20x20 cm'
   - image_path: /assets/images/2019/iconic-series-royal-albert-hall.jpg
     image_title: Royal Albert Hall
     image_description: 'Layers of hand-cut card, framed size 23x29cm, £295.00'
