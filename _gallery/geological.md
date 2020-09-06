@@ -14,7 +14,7 @@ display_thumb_title: true
 images:
   - image_path: /assets/images/2020/Kate HipkissHalf Moon.jpg
     image_title: Half Moon
-    image_description: '8 layersof hand-cut paper, framed size 53 x 53cm, £1,250.00'
+    image_description: '8 layers of hand-cut paper, framed size 53 x 53cm, £1,250.00'
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
     image_description: '8 layers of hand-cut paper, framed size 33x33cm, £725.00'
