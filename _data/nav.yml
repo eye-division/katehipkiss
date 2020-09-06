@@ -1,7 +1,5 @@
 - title: Home
   href: /home/
-- title: About
-  href: /about/
 - title: Gallery
   href: /gallery/
 - title: Architecture
@@ -10,5 +8,7 @@
   href: /gallery/geological/
 - title: Maps
   href: /gallery/maps
+- title: About
+  href: /about/
 - title: Contact
   href: /contact/
