@@ -51,6 +51,9 @@ images:
   - image_path: /assets/images/2019/Ice Flow.jpg
     image_title: Ice Flow
     image_description: '4 layers of hand-cut paper, framed size 23x23 cm, £295.00'
+  - image_path: /assets/images/2020/Kate HipkissHalf Moon.jpg
+    image_title: Half Moon
+    image_description: '8 layersof hand-cut paper, framed size 53 x 53cm, £1,250.00'
 archive: false
 _options:
   image_path:
@@ -83,4 +86,4 @@ _comments:
   homepage_description_markdown: Text used on homepage if shown
 ---
 
-The Geological series explores pattern and colour in the landscape and natural world on a macro and micro level. Satellite imagery reveals beautiful colours and pattern in the landscape, both natural and man-made, and micro images of plants and natural objects often reveal surprisingly similar structures. I am especially interested in marks on the landscape created by natural forces such as flowing water, or scars created by human activities such as mining and farming; the shaping of our landscape over time.
+<br>The Geological series explores pattern and colour in the landscape and natural world on a macro and micro level. Satellite imagery reveals beautiful colours and pattern in the landscape, both natural and man-made, and micro images of plants and natural objects often reveal surprisingly similar structures. I am especially interested in marks on the landscape created by natural forces such as flowing water, or scars created by human activities such as mining and farming; the shaping of our landscape over time.

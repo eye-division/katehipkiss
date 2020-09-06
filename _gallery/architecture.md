@@ -86,4 +86,4 @@ _comments:
   homepage_description_markdown: Text used on homepage if shown
 ---
 
-The architectural series explores structure and light, which is echoed in my choice of materials. By exploiting the qualities of cut and layered paper, the fall of light becomes central to the work and helps define the image.
+<br>The architectural series explores structure and light, which is echoed in my choice of materials. By exploiting the qualities of cut and layered paper, the fall of light becomes central to the work and helps define the image.
