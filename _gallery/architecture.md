@@ -60,6 +60,9 @@ images:
   - image_path: /assets/images/2020/miniscape London Duo.jpg
     image_title: 'Miniscape: London Duo (Houses of Parliament and St Paul''s)'
     image_description: '6 layers of hand-cut card, framed size 20 x 38cm, £265.00'
+  - image_path: /assets/images/2020/Miniscape Oxford KH.jpg
+    image_title: 'Miniscape: Oxford Skyline'
+    image_description: '6 layers of hand-cut card, framed size 18 x 80cm, £650.00'
 archive: false
 _options:
   image_path:
