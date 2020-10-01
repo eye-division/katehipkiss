@@ -42,21 +42,6 @@ images:
   - image_path: /assets/images/2019/St Pauls & the Gherkin sml.jpg
     image_title: 'St Paul''s and the Gherkin, small'
     image_description: 'Layers of hand-cut card, framed size 20x20 cm, £150.00'
-  - image_path: /assets/images/2019/iconic-series-royal-albert-hall.jpg
-    image_title: Royal Albert Hall
-    image_description: 'Layers of hand-cut card, framed size 23x29cm, £295.00'
-  - image_path: /assets/images/2019/iconic-series-battersea-power-station.jpg
-    image_title: Battersea Power Station
-    image_description: 'Layers of hand-cut card, framed size 23x29 cm, £295.00'
-  - image_path: /assets/images/2019/Kate Hipkiss Radcliffe Camera .jpg
-    image_title: Radcliffe Camera
-    image_description: 'Layers of hand-cut card, framed size 29x23 cm, £295.00'
-  - image_path: /assets/images/2019/Iconic Series Blavatnik Building.jpg
-    image_title: 'Blavatnik Building, Oxford'
-    image_description: 'Layers of hand-cut card, framed size 23x29 cm, £295.00'
-  - image_path: /assets/images/2019/Iconic Series Ashmolean Museum.jpg
-    image_title: Ashmolean
-    image_description: 'Layers of hand-cut card, framed size 18x32 cm, £320.00'
   - image_path: /assets/images/2020/miniscape London Duo.jpg
     image_title: 'Miniscape: London Duo (Houses of Parliament and St Paul''s)'
     image_description: '6 layers of hand-cut card, framed size 20 x 38cm, £265.00'
@@ -66,6 +51,15 @@ images:
   - image_path: /assets/images/2020/miniscape Oxford Duo sml.jpg
     image_title: 'Miniscape: Oxford Duo (Radcliffe Camera and The Sheldonian Theatre)'
     image_description: '6 layers of hand-cut card, framed size 21 x 27cm, £195.00'
+  - image_path: /assets/images/2019/iconic-series-royal-albert-hall.jpg
+    image_title: Royal Albert Hall
+    image_description: 'Layers of hand-cut card, framed size 23x29cm, £295.00'
+  - image_path: /assets/images/2019/iconic-series-battersea-power-station.jpg
+    image_title: Battersea Power Station
+    image_description: 'Layers of hand-cut card, framed size 23x29 cm, £295.00'
+  - image_path: /assets/images/2019/Iconic Series Ashmolean Museum.jpg
+    image_title: Ashmolean
+    image_description: 'Layers of hand-cut card, framed size 18x32 cm, £320.00'
 archive: false
 _options:
   image_path:
