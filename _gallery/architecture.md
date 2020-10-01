@@ -54,6 +54,9 @@ images:
   - image_path: /assets/images/2019/Iconic Series Ashmolean Museum.jpg
     image_title: Ashmolean
     image_description: 'Layers of hand-cut card, framed size 18x32 cm, £320.00'
+  - image_path: '/assets/images/2020/Atrium, Tate Britain.jpg'
+    image_title: 'Atrium, Tate Britain'
+    image_description: '15 layers of hand-cut card, framed size 43 x 33cm, £795.00'
 archive: false
 _options:
   image_path:
