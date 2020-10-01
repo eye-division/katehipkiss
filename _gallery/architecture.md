@@ -12,6 +12,9 @@ main_image_caption: Royal Albert Hall
 thumb_crop: true
 display_thumb_title: true
 images:
+  - image_path: '/assets/images/2020/Atrium, Tate Britain.jpg'
+    image_title: 'Atrium, Tate Britain'
+    image_description: '15 layers of hand-cut card, framed size 43 x 33cm, £795.00'
   - image_path: '/assets/images/2019/Kate Hipkiss St Barnabas Church, Jericho.jpg'
     image_title: 'St Barnabas Church, Jericho'
     image_description: '15 layers of hand-cut card, framed size 39x39cm, £795.00'
@@ -54,9 +57,9 @@ images:
   - image_path: /assets/images/2019/Iconic Series Ashmolean Museum.jpg
     image_title: Ashmolean
     image_description: 'Layers of hand-cut card, framed size 18x32 cm, £320.00'
-  - image_path: '/assets/images/2020/Atrium, Tate Britain.jpg'
-    image_title: 'Atrium, Tate Britain'
-    image_description: '15 layers of hand-cut card, framed size 43 x 33cm, £795.00'
+  - image_path: /assets/images/2020/miniscape London Duo.jpg
+    image_title: 'Miniscape: London Duo (Houses of Parliament and St Paul''s)'
+    image_description: '6 layers of hand-cut card, framed size 20 x 38cm, £265.00'
 archive: false
 _options:
   image_path:
