@@ -63,6 +63,9 @@ images:
   - image_path: /assets/images/2020/Miniscape Oxford KH.jpg
     image_title: 'Miniscape: Oxford Skyline'
     image_description: '6 layers of hand-cut card, framed size 18 x 80cm, £650.00'
+  - image_path: /assets/images/2020/miniscape Oxford Duo sml.jpg
+    image_title: 'Miniscape: Oxford Duo (Radcliffe Camera and The Sheldonian Theatre)'
+    image_description: '6 layers of hand-cut card, framed size 21 x 27cm, £195.00'
 archive: false
 _options:
   image_path:
