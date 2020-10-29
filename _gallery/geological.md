@@ -12,6 +12,12 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
+  - image_path: /assets/images/2020/KH 4.jpg
+    image_title: Fissures
+    image_description: '- 5 layers of hand-cut paper, framed size 23x23 cm, £250.00'
+  - image_path: /assets/images/2019/Ice Flow.jpg
+    image_title: Ice Flow
+    image_description: '4 layers of hand-cut paper, framed size 23x23 cm, £250.00'
   - image_path: /assets/images/2020/Kate HipkissHalf Moon.jpg
     image_title: Half Moon
     image_description: '8 layers of hand-cut paper, framed size 53 x 53cm, £1,250.00'
@@ -45,15 +51,9 @@ images:
   - image_path: /assets/images/2019/the-white-horse.jpg
     image_title: White Horse
     image_description: '68 layers of hand-cut paper, framed size 26 x 35cm, £650.00'
-  - image_path: /assets/images/2019/kate-hipkiss-fissure.jpg
-    image_title: Fissure
-    image_description: '9 layers of hand-cut paper, framed size 23x41 cm, £650.00'
-  - image_path: /assets/images/2019/Ice Flow.jpg
-    image_title: Ice Flow
-    image_description: '4 layers of hand-cut paper, framed size 23x23 cm, £250.00'
-  - image_path: /assets/images/2020/KH 4.jpg
-    image_title: Fissures
-    image_description: '- 5 layers of hand-cut paper, framed size 23x23 cm, £250.00'
+  - image_path: /assets/images/2020/KH 1.jpg
+    image_title: Etosha Pan
+    image_description: '- hand-cut paper, framed size 45x32 cm, £725.00'
 archive: false
 _options:
   image_path:
