@@ -54,6 +54,9 @@ images:
   - image_path: /assets/images/2020/KH 1.jpg
     image_title: Etosha Pan
     image_description: '- hand-cut paper, framed size 45x32 cm, £725.00'
+  - image_path: /assets/images/2020/KH 2.jpg
+    image_title: Red Lake
+    image_description: '- hand-cut paper, framed size 32x32 cm, £650.00'
 archive: false
 _options:
   image_path:
