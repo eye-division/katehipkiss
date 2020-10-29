@@ -45,15 +45,12 @@ images:
   - image_path: /assets/images/2019/the-white-horse.jpg
     image_title: White Horse
     image_description: '68 layers of hand-cut paper, framed size 26 x 35cm, £650.00'
-  - image_path: /assets/images/2019/cracked II.jpg
-    image_title: Cracked
-    image_description: '5 layers of hand-cut paper, framed size 23x23 cm, £295.00'
   - image_path: /assets/images/2019/kate-hipkiss-fissure.jpg
     image_title: Fissure
     image_description: '9 layers of hand-cut paper, framed size 23x41 cm, £650.00'
   - image_path: /assets/images/2019/Ice Flow.jpg
     image_title: Ice Flow
-    image_description: '4 layers of hand-cut paper, framed size 23x23 cm, £295.00'
+    image_description: '4 layers of hand-cut paper, framed size 23x23 cm, £250.00'
 archive: false
 _options:
   image_path:
