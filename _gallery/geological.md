@@ -7,7 +7,7 @@ frontpage: false
 homepage_description_markdown:
 frontpagetitle:
 display_image: false
-main_image_path: /assets/images/2019/Hyde Park.jpg
+main_image_path: /assets/images/2020/KH 4.jpg
 main_image_caption:
 thumb_crop: true
 display_thumb_title: true
