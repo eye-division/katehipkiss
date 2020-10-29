@@ -51,6 +51,9 @@ images:
   - image_path: /assets/images/2019/Ice Flow.jpg
     image_title: Ice Flow
     image_description: '4 layers of hand-cut paper, framed size 23x23 cm, £250.00'
+  - image_path: /assets/images/2020/KH 4.jpg
+    image_title: Fissures
+    image_description: '- 5 layers of hand-cut paper, framed size 23x23 cm, £250.00'
 archive: false
 _options:
   image_path:
