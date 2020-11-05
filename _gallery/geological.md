@@ -54,9 +54,6 @@ images:
   - image_path: /assets/images/2019/kate-hipkiss-inflow-ii.jpg
     image_title: Inflow II
     image_description: '17 layers of hand-cut paper, 23x41cm framed, £610.00'
-  - image_path: /assets/images/2019/the-white-horse.jpg
-    image_title: White Horse
-    image_description: '68 layers of hand-cut paper, framed size 26 x 35cm, £650.00'
 archive: false
 _options:
   image_path:
