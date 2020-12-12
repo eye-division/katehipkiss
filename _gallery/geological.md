@@ -38,7 +38,7 @@ images:
     image_description: '9 layers of hand-cut paper, 23x23cm framed, £250.00'
   - image_path: /assets/images/2019/Hyde Park.jpg
     image_title: 'Connections: Hyde Park II'
-    image_description: '7 layers of hand-cut paper, 23x23cm framed, £350.00'
+    image_description: '7 layers of hand-cut paper, 23x23cm framed, £250.00'
   - image_path: /assets/images/2019/Kate Hipkiss_Flow.jpg
     image_title: Flow
     image_description: '6 layers of hand-cut paper, 27x33cm framed, £510.00'
