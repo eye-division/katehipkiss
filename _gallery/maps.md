@@ -7,11 +7,17 @@ frontpage: true
 homepage_description_markdown: Maps
 frontpagetitle: Maps
 display_image: false
-main_image_path: /assets/images/2020/Kate Hipkiss Breathless 1.jpg
+main_image_path: /assets/images/2021/kate-hipkiss-life-and-times.jpg
 main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
+  - image_path: /assets/images/2021/life-and-times.jpg
+    image_title: Life and Times
+    image_description:
+  - image_path: /assets/images/2021/kate-hipkiss-life-and-times-iii.jpg
+    image_title: 'Life and Times, detail'
+    image_description:
   - image_path: /assets/images/2020/Kate Hipkiss Breathless 1.jpg
     image_title: Breathless
     image_description:
