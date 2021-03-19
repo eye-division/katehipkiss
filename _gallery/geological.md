@@ -48,12 +48,6 @@ images:
   - image_path: /assets/images/2019/Feathering.jpg
     image_title: Feathering
     image_description: '13 layers of hand-cut paper, 23x23cm framed, £350.00'
-  - image_path: /assets/images/2019/Tracks II.jpg
-    image_title: Tracks
-    image_description: '13 layers of hand-cut paper, 23x41cm framed, £725.00'
-  - image_path: /assets/images/2019/kate-hipkiss-inflow-ii.jpg
-    image_title: Inflow II
-    image_description: '17 layers of hand-cut paper, 23x41cm framed, £610.00'
 archive: false
 _options:
   image_path:
