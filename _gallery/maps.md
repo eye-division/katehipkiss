@@ -33,6 +33,9 @@ images:
   - image_path: /assets/images/2020/large-map-box-norfolk.jpg
     image_title: Large Memory Box
     image_description:
+  - image_path: /assets/images/2021/life-and-times.jpg
+    image_title: Life and Times
+    image_description:
 archive: false
 _options:
   image_path:
