@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Exhibitions
-post_date: 2018-09-09 15:21:00
+post_date: 2018-09-09 00:00:00
 main_image_path:
-main_image_caption: Road closed
+main_image_caption:
 comments: false
-tags:
-  - clients
 images:
   - image_path:
     description:
@@ -29,4 +27,3 @@ _comments:
   images: Add and edit images here
   tags:
 ---
-
