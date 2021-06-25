@@ -30,7 +30,7 @@ images:
   - image_path: /assets/images/2021/FieldsinSpring.jpg
     image_title: Fields in Spring
     image_description: Hand-cut layered paper, 21 x 45cm framed, £195.00
-  - image_path: /assets/images/2021/PalmHouse.KewGardens.jpg
+  - image_path: /uploads/PalmHouse.KewGardens.jpg
     image_title: Palm House, Kew Gardens
     image_description: Hand-cut layered paper, 35 x 47cm framed, £875.00
   - image_path: /assets/images/2021/TheWhiteCliffs.jpg
