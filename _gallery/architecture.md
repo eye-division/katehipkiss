@@ -7,8 +7,8 @@ frontpagetitle: Architecture
 homepage_description_markdown: Architecture
 gallery_date: 2018-05-01 00:00:00
 display_image: false
-main_image_path: /assets/images/2020/Atrium, Tate Britain.jpg
-main_image_caption: Royal Albert Hall
+main_image_path: /assets/images/2020/KateHipkissGlasshousewithMagdalenTower.jpg
+main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
