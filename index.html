@@ -2,36 +2,30 @@
 layout: home
 main_image_path:
 main_image_caption:
-show_carousel: false
+show_carousel: true
 show_blog: false
 posts_number: 3
 carousel:
-  - image: /uploads/Tracks I.jpg
+  - image: /uploads/LifeandTimes.jpg
     caption:
     alink:
-  - image: /assets/images/2019/kate-hipkiss-inflow-ii.jpg
-    caption:
-    alink:
-  - image: /assets/images/2019/kate-hipkiss-fissure.jpg
-    caption:
-    alink: /abtract/natural-objects/
 _options:
   layout:
     hidden: true
   image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: assets/images/:year
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: assets/images/:year
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   content:
-    uploads_dir: 'assets/:year'
+    uploads_dir: assets/:year
 _comments:
   main_image_path: Cover image
   main_image_caption: Alt text for cover image
@@ -127,5 +121,3 @@ _comments:
   </section>
 
 {% endif %}
-
-</section>
