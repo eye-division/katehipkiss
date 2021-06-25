@@ -3,7 +3,7 @@ title: Maps
 display_title: false
 permalink: /gallery/maps
 gallery_date:
-frontpage: true
+frontpage: false
 homepage_description_markdown: Maps
 frontpagetitle: Maps
 display_image: false
@@ -16,13 +16,13 @@ images:
     image_title: Life and Times
     image_description:
   - image_path: /assets/images/2021/kate-hipkiss-life-and-times-iii.jpg
-    image_title: 'Life and Times, detail'
+    image_title: Life and Times, detail
     image_description:
   - image_path: /assets/images/2020/Kate Hipkiss Breathless 1.jpg
     image_title: Breathless
     image_description:
   - image_path: /assets/images/2020/Kate Hipkiss Breathless detail 2.jpg
-    image_title: 'Breathless, detail'
+    image_title: Breathless, detail
     image_description:
   - image_path: /assets/images/2020/we-came-to-be-here-i.jpg
     image_title: We Came to be Here
@@ -42,19 +42,19 @@ images:
 archive: false
 _options:
   image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: assets/images/:year
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: assets/images/:year
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   content:
-    uploads_dir: 'assets/:year'
+    uploads_dir: assets/:year
 _comments:
   title: Gallery title
   permalink: Edit the web address here - letters and hyphen only
