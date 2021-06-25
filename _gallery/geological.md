@@ -21,6 +21,30 @@ images:
   - image_path: /assets/images/2019/waxing and waning.jpg
     image_title: Waxing and Waning
     image_description: 8  layers of hand-cut paper, framed size 21x61 cm, £675.00
+  - image_path: /assets/images/2021/Portmeadow.jpg
+    image_title: Portmeadow
+    image_description: Hand-cut paper, 24 x 29cm framed, £195.00
+  - image_path: /assets/images/2021/BlissMill.jpg
+    image_title: Bliss Mill
+    image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
+  - image_path: /assets/images/2021/FieldsinSpring.jpg
+    image_title: Fields in Spring
+    image_description: Hand-cut layered paper, 21 x 45cm framed, £195.00
+  - image_path: /assets/images/2021/PalmHouse.KewGardens.jpg
+    image_title: Palm House, Kew Gardens
+    image_description: Hand-cut layered paper, 35 x 47cm framed, £875.00
+  - image_path: /assets/images/2021/TheWhiteCliffs.jpg
+    image_title: White Cliffs
+    image_description: Hand-cut layered paper, 21 x 26cm framed, £185.00
+  - image_path: /assets/images/2021/KateHipkissOxfordSkyline.jpg
+    image_title: Oxford Skyline
+    image_description: Hand-cut layered paper, 21 x 28cm unframed, £165.00
+  - image_path: /assets/images/2021/KateHipkissPloughedField.jpg
+    image_title: Ploughed Field
+    image_description: Hand-cut layered paper, unframed, £155.00
+  - image_path: /assets/images/2021/KateHipkissReflecting.jpg
+    image_title: Reflecting
+    image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
   - image_path: /assets/images/2019/Hyde Park.jpg
     image_title: 'Connections: Hyde Park II'
     image_description: 7 layers of hand-cut paper, 23x23cm framed, £250.00
@@ -56,4 +80,4 @@ _comments:
   homepage_description_markdown: Text used on homepage if shown
 ---
 
-<br>The Geological series explores pattern and colour in the landscape and natural world on a macro and micro level. Satellite imagery reveals beautiful colours and pattern in the landscape, both natural and man-made, and micro images of plants and natural objects often reveal surprisingly similar structures. I am especially interested in marks on the landscape created by natural forces such as flowing water, or scars created by human activities such as mining and farming; the shaping of our landscape over time.
+<br>&nbsp;
