@@ -30,7 +30,7 @@ images:
     image_description: Layers of hand-cut card, framed size 43x33cm, £725.00
   - image_path: /assets/images/2019/Gherkin V.jpg
     image_title: The Gherkin
-    image_description: Layers of hand-cut card, framed size 29x23 cm, £295.00
+    image_description: Layers of hand-cut card, unframed size 26x20 cm, £265.00
   - image_path: /assets/images/2019/St Pauls & the Gherkin sml.jpg
     image_title: St Paul's and the Gherkin, small
     image_description: Layers of hand-cut card, framed size 20x20 cm, £150.00
@@ -49,7 +49,7 @@ images:
       framed size 21 x 27cm, £195.00
   - image_path: /assets/images/2019/iconic-series-royal-albert-hall.jpg
     image_title: Royal Albert Hall
-    image_description: Layers of hand-cut card, framed size 23x29cm, £295.00
+    image_description: Layers of hand-cut card, unframed size 23x29cm, £295.00
   - image_path: /assets/images/2019/iconic-series-battersea-power-station.jpg
     image_title: Battersea Power Station
     image_description: Layers of hand-cut card, framed size 23x29 cm, £295.00
