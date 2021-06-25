@@ -1,69 +1,69 @@
 ---
-title: Geological
+title: Layered Papercuts
 display_title: false
-permalink: /gallery/geological/
+permalink: /gallery/layered-papercuts/
 gallery_date:
 frontpage: false
 homepage_description_markdown:
 frontpagetitle:
 display_image: false
-main_image_path: /assets/images/2020/KH 4.jpg
+main_image_path: /assets/images/2020/Portmeadowsq.jpg
 main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
-  - image_path: /assets/images/2020/KH 4.jpg
-    image_title: Fissures
-    image_description: '- 5 layers of hand-cut paper, framed size 23x23 cm, £250.00'
-  - image_path: /assets/images/2019/Ice Flow.jpg
-    image_title: Ice Flow
-    image_description: '4 layers of hand-cut paper, framed size 23x23 cm, £250.00'
-  - image_path: /assets/images/2020/KH 1.jpg
-    image_title: Etosha Pan
-    image_description: '- hand-cut paper, framed size 45x32 cm, £725.00'
-  - image_path: /assets/images/2020/KH 2.jpg
-    image_title: Red Lake
-    image_description: '- hand-cut paper, framed size 32x32 cm, £650.00'
   - image_path: /assets/images/2020/Kate HipkissHalf Moon.jpg
     image_title: Half Moon
-    image_description: '8 layers of hand-cut paper, framed size 53 x 53cm, £1,250.00'
+    image_description: 8 layers of hand-cut paper, framed size 53 x 53cm, £1,250.00
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
-    image_description: '8 layers of hand-cut paper, framed size 33x33cm, £725.00'
+    image_description: 8 layers of hand-cut paper, framed size 33x33cm, £725.00
   - image_path: /assets/images/2019/waxing and waning.jpg
     image_title: Waxing and Waning
-    image_description: '8  layers of hand-cut paper, framed size 21x61 cm, £675.00'
-  - image_path: /assets/images/2019/Connections- jardin des tuileries full .jpg
-    image_title: 'Connections: Jardin des Tuileries'
-    image_description: '9 layers of hand-cut paper, 23x23cm framed, £250.00'
+    image_description: 8  layers of hand-cut paper, framed size 21x61 cm, £675.00
+  - image_path: /assets/images/2021/Portmeadow.jpg
+    image_title: Portmeadow
+    image_description: Hand-cut paper, 24 x 29cm framed, £195.00
+  - image_path: /assets/images/2021/BlissMill.jpg
+    image_title: Bliss Mill
+    image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
+  - image_path: /assets/images/2021/FieldsinSpring.jpg
+    image_title: Fields in Spring
+    image_description: Hand-cut layered paper, 21 x 45cm framed, £195.00
+  - image_path: /assets/images/2021/PalmHouse.KewGardens.jpg
+    image_title: Palm House, Kew Gardens
+    image_description: Hand-cut layered paper, 35 x 47cm framed, £875.00
+  - image_path: /assets/images/2021/TheWhiteCliffs.jpg
+    image_title: White Cliffs
+    image_description: Hand-cut layered paper, 21 x 26cm framed, £185.00
+  - image_path: /assets/images/2021/KateHipkissOxfordSkyline.jpg
+    image_title: Oxford Skyline
+    image_description: Hand-cut layered paper, 21 x 28cm unframed, £165.00
+  - image_path: /assets/images/2021/KateHipkissPloughedField.jpg
+    image_title: Ploughed Field
+    image_description: Hand-cut layered paper, unframed, £155.00
+  - image_path: /assets/images/2021/KateHipkissReflecting.jpg
+    image_title: Reflecting
+    image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
   - image_path: /assets/images/2019/Hyde Park.jpg
     image_title: 'Connections: Hyde Park II'
-    image_description: '7 layers of hand-cut paper, 23x23cm framed, £250.00'
-  - image_path: /assets/images/2019/Kate Hipkiss_Flow.jpg
-    image_title: Flow
-    image_description: '6 layers of hand-cut paper, 27x33cm framed, £510.00'
-  - image_path: /assets/images/2019/Tracks I.jpg
-    image_title: Waterhole
-    image_description: '10 layers of hand-cut paper, 23x41cm framed, £725.00'
-  - image_path: /assets/images/2019/Feathering.jpg
-    image_title: Feathering
-    image_description: '13 layers of hand-cut paper, 23x23cm framed, £350.00'
+    image_description: 7 layers of hand-cut paper, 23x23cm framed, £250.00
 archive: false
 _options:
   image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: assets/images/:year
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: assets/images/:year
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   content:
-    uploads_dir: 'assets/:year'
+    uploads_dir: assets/:year
 _comments:
   title: Gallery title
   permalink: Edit the web address here - letters and hyphen only
@@ -80,4 +80,4 @@ _comments:
   homepage_description_markdown: Text used on homepage if shown
 ---
 
-<br>The Geological series explores pattern and colour in the landscape and natural world on a macro and micro level. Satellite imagery reveals beautiful colours and pattern in the landscape, both natural and man-made, and micro images of plants and natural objects often reveal surprisingly similar structures. I am especially interested in marks on the landscape created by natural forces such as flowing water, or scars created by human activities such as mining and farming; the shaping of our landscape over time.
+<br>&nbsp;
