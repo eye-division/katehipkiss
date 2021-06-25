@@ -1,7 +1,7 @@
 ---
-title: Geological
+title: Layered Papercuts
 display_title: false
-permalink: /gallery/geological/
+permalink: /gallery/layered-papercuts/
 gallery_date:
 frontpage: false
 homepage_description_markdown:
