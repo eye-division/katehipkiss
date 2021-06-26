@@ -4,7 +4,7 @@ display_title: false
 permalink: /gallery/maps
 gallery_date:
 frontpage: false
-homepage_description_markdown: Maps
+homepage_description_markdown:
 frontpagetitle: Maps
 display_image: false
 main_image_path:
