@@ -39,6 +39,9 @@ images:
   - image_path: /assets/images/2020/large-map-box-norfolk.jpg
     image_title: Large Memory Box
     image_description: Cut OS Map, 15 x 15 x 15cm, £250.00
+  - image_path: /uploads/KateHipkiss122WaystoNotMakeaCube(detail).jpg
+    image_title: 122 Ways to Not Make a Cube
+    image_description: 'Cut Maps, 4 x 128 x 120cm '
 archive: false
 _options:
   image_path:
