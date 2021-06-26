@@ -48,6 +48,9 @@ images:
   - image_path: /uploads/KateHipkissbook(detail).jpg
     image_title: Concertina Book of 122 Ways to Not Make a Cube
     image_description: Mi-Teintes Paper, 13.5 x 1674cm
+  - image_path: /uploads/KateHipkissBookI.jpg
+    image_title: Concertina Book (detail)
+    image_description:
 archive: false
 _options:
   image_path:
