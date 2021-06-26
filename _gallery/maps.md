@@ -7,37 +7,49 @@ frontpage: false
 homepage_description_markdown: Maps
 frontpagetitle: Maps
 display_image: false
-main_image_path:
-main_image_caption:
+main_image_path: /assets/images/2021/kate-hipkiss-life-and-times.jpg
+main_image_caption: Concertina Book of 122 Ways to Not Make a Cube
 thumb_crop: true
 display_thumb_title: true
 images:
   - image_path: /assets/images/2021/life-and-times.jpg
     image_title: Life and Times
-    image_description:
+    image_description: Altered Atlas, 37.5 x 27 x 3cm, Sold
   - image_path: /assets/images/2021/kate-hipkiss-life-and-times-iii.jpg
     image_title: Life and Times, detail
     image_description:
   - image_path: /assets/images/2020/Kate Hipkiss Breathless 1.jpg
     image_title: Breathless
-    image_description:
+    image_description: Altered Atlas, 4 x 33 x 37cm, £850.00
   - image_path: /assets/images/2020/Kate Hipkiss Breathless detail 2.jpg
     image_title: Breathless, detail
     image_description:
   - image_path: /assets/images/2020/we-came-to-be-here-i.jpg
     image_title: We Came to be Here
-    image_description:
+    image_description: Altered Atlas, 33 x 37 x 19cm, £1,500.00
   - image_path: /assets/images/2020/we-came-to-be-here-detail.jpg
     image_title: We Came to be Here (detail)
     image_description:
   - image_path: /assets/images/2020/russian-doll-boxes.jpg
-    image_title: Russian Doll Memory Boxes
-    image_description:
+    image_title: Leave
+    image_description: Cut Map of Europe, 6.5 x 6.5 x 6.5cm, £425.00
   - image_path: /assets/images/2020/russian-doll-boxes-iii.jpg
     image_title: Russian Doll Memory Boxes
     image_description:
   - image_path: /assets/images/2020/large-map-box-norfolk.jpg
     image_title: Large Memory Box
+    image_description: Cut OS Map, 15 x 15 x 15cm, £250.00
+  - image_path: /uploads/KateHipkiss122WaystoNotMakeaCube(detail).jpg
+    image_title: 122 Ways to Not Make a Cube
+    image_description: 'Cut Maps, 4 x 128 x 120cm '
+  - image_path: /uploads/KateHipkiss122WaystoNotMakeaCube.jpg
+    image_title: 122 Ways to Not Make a Cube (detail)
+    image_description:
+  - image_path: /uploads/KateHipkissbook(detail).jpg
+    image_title: Concertina Book of 122 Ways to Not Make a Cube
+    image_description: Mi-Teintes Paper, 13.5 x 1674cm
+  - image_path: /uploads/KateHipkissBookI.jpg
+    image_title: Concertina Book (detail)
     image_description:
 archive: false
 _options:
