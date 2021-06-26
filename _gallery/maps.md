@@ -14,7 +14,7 @@ display_thumb_title: true
 images:
   - image_path: /assets/images/2021/life-and-times.jpg
     image_title: Life and Times
-    image_description:
+    image_description: Altered Atlas, 37.5 x 27 x 3cm, Sold
   - image_path: /assets/images/2021/kate-hipkiss-life-and-times-iii.jpg
     image_title: Life and Times, detail
     image_description:
