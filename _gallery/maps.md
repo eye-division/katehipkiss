@@ -38,7 +38,7 @@ images:
     image_description:
   - image_path: /assets/images/2020/large-map-box-norfolk.jpg
     image_title: Large Memory Box
-    image_description:
+    image_description: Cut OS Map, 15 x 15 x 15cm, £250.00
 archive: false
 _options:
   image_path:
