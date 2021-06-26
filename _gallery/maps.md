@@ -7,7 +7,7 @@ frontpage: false
 homepage_description_markdown: Maps
 frontpagetitle: Maps
 display_image: false
-main_image_path: /assets/images/2021/kate-hipkiss-life-and-times.jpg
+main_image_path:
 main_image_caption:
 thumb_crop: true
 display_thumb_title: true
