@@ -45,7 +45,7 @@ images:
   - image_path: /uploads/KateHipkiss122WaystoNotMakeaCube.jpg
     image_title: 122 Ways to Not Make a Cube (detail)
     image_description:
-  - image_path: /uploads/KateHipkissbook(detail).jpg
+  - image_path: /assets/images/2021/kate-hipkiss-book-detail.jpg
     image_title: Concertina Book of 122 Ways to Not Make a Cube
     image_description: Mi-Teintes Paper, 13.5 x 1674cm
   - image_path: /uploads/KateHipkissBookI.jpg
