@@ -7,8 +7,8 @@ frontpage: false
 homepage_description_markdown: Maps
 frontpagetitle: Maps
 display_image: false
-main_image_path:
-main_image_caption:
+main_image_path: /assets/images/2021/kate-hipkiss-life-and-times.jpg
+main_image_caption: Concertina Book of 122 Ways to Not Make a Cube
 thumb_crop: true
 display_thumb_title: true
 images:
@@ -45,6 +45,9 @@ images:
   - image_path: /uploads/KateHipkiss122WaystoNotMakeaCube.jpg
     image_title: 122 Ways to Not Make a Cube (detail)
     image_description:
+  - image_path: /uploads/KateHipkissbook(detail).jpg
+    image_title: Concertina Book of 122 Ways to Not Make a Cube
+    image_description: Mi-Teintes Paper, 13.5 x 1674cm
 archive: false
 _options:
   image_path:
