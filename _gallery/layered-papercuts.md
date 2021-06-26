@@ -1,5 +1,5 @@
 ---
-title:
+title: Layered Papercuts
 display_title: false
 permalink: /gallery/layered-papercuts/
 gallery_date:
@@ -7,7 +7,7 @@ frontpage: false
 homepage_description_markdown:
 frontpagetitle:
 display_image: false
-main_image_path:
+main_image_path: /assets/images/2021/Portmeadowsq.jpg
 main_image_caption:
 thumb_crop: true
 display_thumb_title: true
