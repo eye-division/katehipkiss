@@ -5,7 +5,7 @@ permalink: /gallery/maps
 gallery_date:
 frontpage: false
 homepage_description_markdown:
-frontpagetitle: Maps
+frontpagetitle:
 display_image: false
 main_image_path:
 main_image_caption: Concertina Book of 122 Ways to Not Make a Cube
@@ -16,7 +16,7 @@ images:
     image_title: Life and Times
     image_description: Altered Atlas, 37.5 x 27 x 3cm, Sold
   - image_path: /assets/images/2021/kate-hipkiss-life-and-times-iii.jpg
-    image_title: Life and Times, detail
+    image_title: Life and Times (detail)
     image_description:
   - image_path: /assets/images/2020/Kate Hipkiss Breathless 1.jpg
     image_title: Breathless
