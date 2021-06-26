@@ -42,6 +42,9 @@ images:
   - image_path: /uploads/KateHipkiss122WaystoNotMakeaCube(detail).jpg
     image_title: 122 Ways to Not Make a Cube
     image_description: 'Cut Maps, 4 x 128 x 120cm '
+  - image_path: /uploads/KateHipkiss122WaystoNotMakeaCube.jpg
+    image_title: 122 Ways to Not Make a Cube (detail)
+    image_description:
 archive: false
 _options:
   image_path:
