@@ -20,7 +20,7 @@ images:
     image_description:
   - image_path: /assets/images/2020/Kate Hipkiss Breathless 1.jpg
     image_title: Breathless
-    image_description:
+    image_description: Altered Atlas, 4 x 33 x 37cm, £850.00
   - image_path: /assets/images/2020/Kate Hipkiss Breathless detail 2.jpg
     image_title: Breathless, detail
     image_description:
