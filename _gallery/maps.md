@@ -1,5 +1,5 @@
 ---
-title: Maps
+title:
 display_title: false
 permalink: /gallery/maps
 gallery_date:
