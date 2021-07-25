@@ -60,6 +60,9 @@ images:
   - image_path: /uploads/KateHipkissRenew.jpg
     image_title: Renew
     image_description: Altered Atlas, 16.5 x 38.5 x 27.5cm, £1,400.00
+  - image_path: /uploads/4.jpg
+    image_title: Renew, detail
+    image_description:
 archive: false
 _options:
   image_path:
