@@ -18,6 +18,18 @@ images:
   - image_path: /assets/images/2021/kate-hipkiss-life-and-times-iii.jpg
     image_title: Life and Times (detail)
     image_description:
+  - image_path: /uploads/KateHipkissRenew.jpg
+    image_title: Renew
+    image_description: Altered Atlas, 16.5 x 38.5 x 27.5cm, £1,400.00
+  - image_path: /uploads/4.jpg
+    image_title: Renew, detail
+    image_description:
+  - image_path: /uploads/macquette1.jpg
+    image_title: Macquette
+    image_description:
+  - image_path: /uploads/Macquette2.jpg
+    image_title: Macquette, detail
+    image_description:
   - image_path: /assets/images/2020/Kate Hipkiss Breathless 1.jpg
     image_title: Breathless
     image_description: Altered Atlas, 4 x 33 x 37cm, £850.00
@@ -50,18 +62,6 @@ images:
     image_description: Mi-Teintes Paper, 13.5 x 1674cm
   - image_path: /uploads/KateHipkissBookI.jpg
     image_title: Concertina Book (detail)
-    image_description:
-  - image_path: /uploads/macquette1.jpg
-    image_title: Macquette
-    image_description:
-  - image_path: /uploads/Macquette2.jpg
-    image_title: Macquette, detail
-    image_description:
-  - image_path: /uploads/KateHipkissRenew.jpg
-    image_title: Renew
-    image_description: Altered Atlas, 16.5 x 38.5 x 27.5cm, £1,400.00
-  - image_path: /uploads/4.jpg
-    image_title: Renew, detail
     image_description:
 archive: false
 _options:
