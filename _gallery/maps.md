@@ -54,6 +54,9 @@ images:
   - image_path: /uploads/macquette1.jpg
     image_title: Macquette
     image_description:
+  - image_path: /uploads/Macquette2.jpg
+    image_title: Macquette, detail
+    image_description:
 archive: false
 _options:
   image_path:
