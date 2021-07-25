@@ -57,6 +57,9 @@ images:
   - image_path: /uploads/Macquette2.jpg
     image_title: Macquette, detail
     image_description:
+  - image_path: /uploads/KateHipkissRenew.jpg
+    image_title: Renew
+    image_description: Altered Atlas, 16.5 x 38.5 x 27.5cm, £1,400.00
 archive: false
 _options:
   image_path:
