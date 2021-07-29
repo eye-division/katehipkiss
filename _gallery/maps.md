@@ -1,7 +1,7 @@
 ---
 title:
 display_title: false
-permalink: /gallery/maps
+permalink: /gallery/altered-maps
 gallery_date:
 frontpage: false
 homepage_description_markdown:
