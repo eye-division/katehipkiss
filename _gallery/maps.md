@@ -66,9 +66,6 @@ images:
   - image_path: /uploads/KateHipkissBookI.jpg
     image_title: Concertina Book (detail)
     image_description:
-  - image_path:
-    image_title:
-    image_description:
 archive: false
 _options:
   image_path:
