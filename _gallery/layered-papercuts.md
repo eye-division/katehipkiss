@@ -18,12 +18,15 @@ images:
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
     image_description: 8 layers of hand-cut paper, framed size 33x33cm, £725.00
-  - image_path: /assets/images/2019/waxing and waning.jpg
-    image_title: Waxing and Waning
-    image_description: 8  layers of hand-cut paper, framed size 21x61 cm, £675.00
+  - image_path: /uploads/KateHipkissStillWater.jpg
+    image_title: Still Water
+    image_description: Hand-cut layered paper, 21 x 45cm framed size, £295.00
   - image_path: /assets/images/2021/Portmeadow.jpg
     image_title: Portmeadow
     image_description: Hand-cut paper, 24 x 29cm framed, £195.00
+  - image_path: /assets/images/2019/waxing and waning.jpg
+    image_title: Waxing and Waning
+    image_description: 8  layers of hand-cut paper, framed size 21x61 cm, £675.00
   - image_path: /assets/images/2021/BlissMill.jpg
     image_title: Bliss Mill
     image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
@@ -35,16 +38,13 @@ images:
     image_description: Hand-cut layered paper, 21 x 26cm framed, £185.00
   - image_path: /assets/images/2021/KateHipkissOxfordSkyline.jpg
     image_title: Oxford Skyline
-    image_description: Hand-cut layered paper, 21 x 28cm unframed, £165.00
+    image_description: Hand-cut layered paper, 23 x 29cm framed, £195.00
   - image_path: /assets/images/2021/KateHipkissPloughedField.jpg
     image_title: Ploughed Field
     image_description: Hand-cut layered paper, unframed, £155.00
   - image_path: /assets/images/2021/KateHipkissReflecting.jpg
     image_title: Reflecting
     image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
-  - image_path: /assets/images/2019/Hyde Park.jpg
-    image_title: 'Connections: Hyde Park II'
-    image_description: 7 layers of hand-cut paper, 23x23cm framed, £250.00
 archive: false
 _options:
   image_path:
