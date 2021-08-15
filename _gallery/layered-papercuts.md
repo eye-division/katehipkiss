@@ -47,7 +47,7 @@ images:
     image_description: 7 layers of hand-cut paper, 23x23cm framed, £250.00
   - image_path: /uploads/KateHipkissStillWater.jpg
     image_title: Still Water
-    image_description: Hand-ut, layered paper, 21 x 45cm framed size, £295.00
+    image_description: Hand-cut layered paper, 21 x 45cm framed size, £295.00
 archive: false
 _options:
   image_path:
