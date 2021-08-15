@@ -24,6 +24,9 @@ images:
   - image_path: /uploads/4.jpg
     image_title: Renew, detail
     image_description:
+  - image_path: /uploads/KateHipkissBesideOurselves.jpg
+    image_title: Beside Ourselves
+    image_description: Hand-cut OS map, 19 x 24 x 24cm, £595.00
   - image_path: /uploads/macquette1.jpg
     image_title: Macquette
     image_description:
@@ -62,6 +65,9 @@ images:
     image_description: Mi-Teintes Paper, 13.5 x 1674cm
   - image_path: /uploads/KateHipkissBookI.jpg
     image_title: Concertina Book (detail)
+    image_description:
+  - image_path:
+    image_title:
     image_description:
 archive: false
 _options:
