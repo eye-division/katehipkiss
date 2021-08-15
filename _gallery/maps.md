@@ -63,6 +63,9 @@ images:
   - image_path: /uploads/KateHipkissBookI.jpg
     image_title: Concertina Book (detail)
     image_description:
+  - image_path: /uploads/KateHipkissBesideOurselves.jpg
+    image_title: Beside Ourselves
+    image_description: Hand-cut OS map, 19 x 24 x 24cm, £595.00
 archive: false
 _options:
   image_path:
