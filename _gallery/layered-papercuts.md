@@ -36,9 +36,6 @@ images:
   - image_path: /assets/images/2021/TheWhiteCliffs.jpg
     image_title: White Cliffs
     image_description: Hand-cut layered paper, 21 x 26cm framed, £185.00
-  - image_path: /assets/images/2021/KateHipkissOxfordSkyline.jpg
-    image_title: Oxford Skyline
-    image_description: Hand-cut layered paper, 23 x 29cm framed, £195.00
   - image_path: /assets/images/2021/KateHipkissPloughedField.jpg
     image_title: Ploughed Field
     image_description: Hand-cut layered paper, unframed, £155.00
