@@ -18,6 +18,9 @@ images:
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
     image_description: 8 layers of hand-cut paper, framed size 33x33cm, £725.00
+  - image_path: /uploads/CastleEileanDonanIII.jpg
+    image_title: Castle Eilean Donan
+    image_description: Hand-cut layered paper, 21 x 61cm framed £625.00
   - image_path: /uploads/KateHipkissStillWater.jpg
     image_title: Still Water
     image_description: Hand-cut layered paper, 21 x 45cm framed size, £295.00
@@ -42,15 +45,6 @@ images:
   - image_path: /assets/images/2021/KateHipkissReflecting.jpg
     image_title: Reflecting
     image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
-  - image_path: /uploads/CastleEileanDonanIII.jpg
-    image_title: Castle Eilean Donan
-    image_description: Hand-cut layered paper, 21 x 61cm framed £625.00
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
 archive: false
 _options:
   image_path:
