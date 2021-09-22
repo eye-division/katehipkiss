@@ -18,6 +18,9 @@ images:
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
     image_description: 8 layers of hand-cut paper, framed size 33x33cm, £725.00
+  - image_path: /uploads/CastleEileanDonanIII.jpg
+    image_title: Castle Eilean Donan
+    image_description: Hand-cut layered paper, 21 x 61cm framed £625.00
   - image_path: /uploads/KateHipkissStillWater.jpg
     image_title: Still Water
     image_description: Hand-cut layered paper, 21 x 45cm framed size, £295.00
@@ -29,13 +32,13 @@ images:
     image_description: 8  layers of hand-cut paper, framed size 21x61 cm, £675.00
   - image_path: /assets/images/2021/BlissMill.jpg
     image_title: Bliss Mill
-    image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
+    image_description: Hand-cut layered paper, 24 x 29cm framed, SOLD
   - image_path: /uploads/PalmHouse.KewGardens.jpg
     image_title: Palm House, Kew Gardens
     image_description: Hand-cut layered paper, 35 x 47cm framed, £875.00
   - image_path: /assets/images/2021/TheWhiteCliffs.jpg
     image_title: White Cliffs
-    image_description: Hand-cut layered paper, 21 x 26cm framed, £185.00
+    image_description: Hand-cut layered paper, 21 x 26cm framed, SOLD
   - image_path: /assets/images/2021/KateHipkissPloughedField.jpg
     image_title: Ploughed Field
     image_description: Hand-cut layered paper, unframed, £155.00
