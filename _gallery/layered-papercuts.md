@@ -17,7 +17,7 @@ images:
     image_description: Hand-cut layered paper, 29x24cm framed, £215.00
   - image_path: /uploads/CastleEileanDonanIII.jpg
     image_title: Castle Eilean Donan
-    image_description: Hand-cut layered paper, 21 x 61cm framed £625.00
+    image_description: 'Hand-cut layered paper, 21 x 61cm framed '
   - image_path: /uploads/KateHipkissStillWater.jpg
     image_title: Still Water
     image_description: Hand-cut layered paper, 21 x 45cm framed size, £295.00
