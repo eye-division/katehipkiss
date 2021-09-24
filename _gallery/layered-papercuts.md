@@ -33,12 +33,12 @@ images:
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
     image_description: 8 layers of hand-cut paper, framed size 33x33cm, £725.00
-  - image_path: /assets/images/2021/BlissMill.jpg
-    image_title: Bliss Mill
-    image_description: Hand-cut layered paper, 24 x 29cm framed, SOLD
   - image_path: /assets/images/2020/Kate HipkissHalf Moon.jpg
     image_title: Half Moon
     image_description: 8 layers of hand-cut paper, framed size 53 x 53cm, £1,250.00
+  - image_path: /assets/images/2021/BlissMill.jpg
+    image_title: Bliss Mill
+    image_description: Hand-cut layered paper, 24 x 29cm framed, SOLD
   - image_path: /uploads/PalmHouse.KewGardens.jpg
     image_title: Palm House, Kew Gardens
     image_description: Hand-cut layered paper, 35 x 47cm framed, £875.00
@@ -83,4 +83,3 @@ _comments:
   homepage_description_markdown: Text used on homepage if shown
 ---
 
-<br>
