@@ -48,6 +48,9 @@ images:
   - image_path: /uploads/KateHipkissOnwards.jpg
     image_title: Onwards
     image_description: Hand-cut layered paper, 29x24cm framed, £215.00
+  - image_path: /uploads/KateHipkissWhiteHorse.jpg
+    image_title: White Horse
+    image_description: Hand-cut layered paper, 29x24cm framed, £215.00
 archive: false
 _options:
   image_path:
