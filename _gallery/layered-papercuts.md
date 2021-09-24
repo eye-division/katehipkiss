@@ -21,9 +21,15 @@ images:
   - image_path: /uploads/CastleEileanDonanIII.jpg
     image_title: Castle Eilean Donan
     image_description: Hand-cut layered paper, 21 x 61cm framed £625.00
+  - image_path: /uploads/KateHipkissWhiteHorse.jpg
+    image_title: White Horse
+    image_description: Hand-cut layered paper, 29x24cm framed, £215.00
   - image_path: /uploads/KateHipkissStillWater.jpg
     image_title: Still Water
     image_description: Hand-cut layered paper, 21 x 45cm framed size, £295.00
+  - image_path: /uploads/KateHipkissOnwards.jpg
+    image_title: Onwards
+    image_description: Hand-cut layered paper, 29x24cm framed, £215.00
   - image_path: /assets/images/2021/Portmeadow.jpg
     image_title: Portmeadow
     image_description: Hand-cut paper, 24 x 29cm framed, £195.00
