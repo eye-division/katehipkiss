@@ -45,6 +45,9 @@ images:
   - image_path: /assets/images/2021/KateHipkissReflecting.jpg
     image_title: Reflecting
     image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
+  - image_path: /uploads/KateHipkissOnwards.jpg
+    image_title: Onwards
+    image_description: Hand-cut layered paper, 29x24cm framed, £215.00
 archive: false
 _options:
   image_path:
