@@ -14,7 +14,7 @@ display_thumb_title: true
 images:
   - image_path: /uploads/Kate-Hipkiss-Under-Snow-(Dreaming-Spires).jpg
     image_title: Under Snow (Dreaming Spires)
-    image_description: Hand-cut layered paper, 23x41cm framed, £325.00
+    image_description: Hand-cut layered paper, 23x41cm framed, £325.00 SOLD
   - image_path: /Kate-Hipkiss-St-Giles-in-Winter.jpg
     image_title: St Giles in Winter
     image_description: Hand-cut layered paper, 24x30cm framed, £225.00
