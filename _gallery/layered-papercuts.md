@@ -78,6 +78,9 @@ images:
   - image_path: /Mini-Crescent-Moon.jpg
     image_title: Mini Crescent Moon
     image_description: Hand-cut layered paper, 21x21cm framed, £125.00
+  - image_path: /uploads/White-Cliffs.jpg
+    image_title: Towards the White Cliffs
+    image_description: Hand-cut layered paper, 23x23cm framed, £165.00
 archive: false
 _options:
   image_path:
