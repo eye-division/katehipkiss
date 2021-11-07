@@ -53,7 +53,7 @@ images:
     image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
   - image_path: /uploads/Across-the-Fields.jpg
     image_title: Across the Fields
-    image_description: Hand-cut layered paper, 18x23cm framed, £165.00
+    image_description: Hand-cut layered paper, 18x23cm framed, £175.00
   - image_path: /uploads/Dunstanburgh-Castle.jpg
     image_title: Dunstanburgh Castle
     image_description: Hand-cut layered paper, 23x34cm framed, £250.00
