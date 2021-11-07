@@ -57,6 +57,9 @@ images:
   - image_path: /uploads/Dunstanburgh-Castle.jpg
     image_title: Dunstanburgh Castle
     image_description: Hand-cut layered paper, 23x34cm framed, £250.00
+  - image_path: /uploads/Glasshouse-sml.jpg
+    image_title: Glasshouse
+    image_description: Hand-cut layered paper, 23x18cm framed, £165.00
 archive: false
 _options:
   image_path:
