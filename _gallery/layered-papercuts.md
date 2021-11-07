@@ -60,9 +60,6 @@ images:
   - image_path: /Mini-Half-Moon.jpg
     image_title: Mini Half Moon
     image_description: Hand-cut layered paper, 21x21cm framed, £175.00
-  - image_path: /assets/images/2019/waxing and waning.jpg
-    image_title: Waxing and Waning
-    image_description: 8  layers of hand-cut paper, framed size 21x61 cm, £675.00 SOLD
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
     image_description: 8 layers of hand-cut paper, framed size 33x33cm, £725.00
