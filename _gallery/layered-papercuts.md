@@ -29,7 +29,7 @@ images:
     image_description: Hand-cut paper, 24 x 29cm framed, £195.00
   - image_path: /assets/images/2019/waxing and waning.jpg
     image_title: Waxing and Waning
-    image_description: 8  layers of hand-cut paper, framed size 21x61 cm, £675.00
+    image_description: 8  layers of hand-cut paper, framed size 21x61 cm, £675.00 SOLD
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
     image_description: 8 layers of hand-cut paper, framed size 33x33cm, £725.00
@@ -51,6 +51,9 @@ images:
   - image_path: /assets/images/2021/KateHipkissReflecting.jpg
     image_title: Reflecting
     image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
+  - image_path: /uploads/Across-the-Fields.jpg
+    image_title: Across the Fields
+    image_description: Hand-cut layered paper, 18x23cm framed, £165.00
 archive: false
 _options:
   image_path:
