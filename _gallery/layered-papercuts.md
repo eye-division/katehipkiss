@@ -12,39 +12,66 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
+  - image_path: /uploads/Kate-Hipkiss-Under-Snow-(Dreaming-Spires).jpg
+    image_title: Under Snow (Dreaming Spires)
+    image_description: Hand-cut layered paper, 23x41cm framed, £325.00
+  - image_path: /Kate-Hipkiss-St-Giles-in-Winter.jpg
+    image_title: St Giles in Winter
+    image_description: Hand-cut layered paper, 24x30cm framed, £225.00
+  - image_path: /uploads/Dunstanburgh-Castle.jpg
+    image_title: Dunstanburgh Castle
+    image_description: Hand-cut layered paper, 23x34cm framed, £250.00
   - image_path: /uploads/KateHipkissWhiteHorse.jpg
     image_title: White Horse
     image_description: Hand-cut layered paper, 29x24cm framed, £215.00
   - image_path: /uploads/CastleEileanDonanIII.jpg
     image_title: Castle Eilean Donan
     image_description: 'Hand-cut layered paper, 21 x 61cm framed '
+  - image_path: /uploads/Glasshouse-sml.jpg
+    image_title: Glasshouse
+    image_description: Hand-cut layered paper, 23x18cm framed, £165.00
+  - image_path: /uploads/Windmill-sml.jpg
+    image_title: Great Haseley Windmill
+    image_description: Hand-cut layered paper, 23x23cm framed, £155.00
+  - image_path: /uploads/White-Cliffs.jpg
+    image_title: Towards the White Cliffs
+    image_description: Hand-cut layered paper, 23x23cm framed, £165.00
+  - image_path: /Top-of.the-Hill-(Brill-Windmill).jpg
+    image_title: Top of the Hill (Brill Windmill)
+    image_description: Hand-cut layered paper, 24x30cm framed, £225.00
   - image_path: /uploads/KateHipkissStillWater.jpg
     image_title: Still Water
     image_description: Hand-cut layered paper, 21 x 45cm framed size, £295.00
+  - image_path: /uploads/Across-the-Fields.jpg
+    image_title: Across the Fields
+    image_description: Hand-cut layered paper, 18x23cm framed, £165.00
   - image_path: /uploads/KateHipkissOnwards.jpg
     image_title: Onwards
     image_description: Hand-cut layered paper, 29x24cm framed, £215.00
   - image_path: /assets/images/2021/Portmeadow.jpg
     image_title: Portmeadow
     image_description: Hand-cut paper, 24 x 29cm framed, £195.00
+  - image_path: /Mini-Full-Moon-sml.jpg
+    image_title: Mini Full Moon
+    image_description: Hand-cut layered paper, 21x21cm framed, £225.00
+  - image_path: /Mini-Crescent-Moon.jpg
+    image_title: Mini Crescent Moon
+    image_description: Hand-cut layered paper, 21x21cm framed, £125.00
+  - image_path: /Mini-Half-Moon.jpg
+    image_title: Mini Half Moon
+    image_description: Hand-cut layered paper, 21x21cm framed, £175.00
   - image_path: /assets/images/2019/waxing and waning.jpg
     image_title: Waxing and Waning
-    image_description: 8  layers of hand-cut paper, framed size 21x61 cm, £675.00
+    image_description: 8  layers of hand-cut paper, framed size 21x61 cm, £675.00 SOLD
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
     image_description: 8 layers of hand-cut paper, framed size 33x33cm, £725.00
   - image_path: /assets/images/2020/Kate HipkissHalf Moon.jpg
     image_title: Half Moon
     image_description: 8 layers of hand-cut paper, framed size 53 x 53cm, £1,250.00
-  - image_path: /assets/images/2021/BlissMill.jpg
-    image_title: Bliss Mill
-    image_description: Hand-cut layered paper, 24 x 29cm framed, SOLD
   - image_path: /uploads/PalmHouse.KewGardens.jpg
     image_title: Palm House, Kew Gardens
     image_description: Hand-cut layered paper, 35 x 47cm framed, £875.00
-  - image_path: /assets/images/2021/TheWhiteCliffs.jpg
-    image_title: White Cliffs
-    image_description: Hand-cut layered paper, 21 x 26cm framed, SOLD
   - image_path: /assets/images/2021/KateHipkissPloughedField.jpg
     image_title: Ploughed Field
     image_description: Hand-cut layered paper, unframed, £155.00
