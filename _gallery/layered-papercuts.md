@@ -81,6 +81,9 @@ images:
   - image_path: /uploads/White-Cliffs.jpg
     image_title: Towards the White Cliffs
     image_description: Hand-cut layered paper, 23x23cm framed, £165.00
+  - image_path: /uploads/Kate-Hipkiss-Under-Snow-(Dreaming-Spires).jpg
+    image_title: Under Snow (Dreaming Spires)
+    image_description: Hand-cut layered paper, 23x41cm framed, £325.00
 archive: false
 _options:
   image_path:
