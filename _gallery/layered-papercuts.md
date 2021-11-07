@@ -69,6 +69,9 @@ images:
   - image_path: /Top-of.the-Hill-(Brill-Windmill).jpg
     image_title: Top of the Hill (Brill Windmill)
     image_description: Hand-cut layered paper, 24x30cm framed, £225.00
+  - image_path: /Mini-Full-Moon-sml.jpg
+    image_title: Mini Full Moon
+    image_description: Hand-cut layered paper, 21x21cm framed, £225.00
 archive: false
 _options:
   image_path:
