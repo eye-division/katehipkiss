@@ -60,6 +60,9 @@ images:
   - image_path: /uploads/Glasshouse-sml.jpg
     image_title: Glasshouse
     image_description: Hand-cut layered paper, 23x18cm framed, £165.00
+  - image_path: /uploads/Windmill-sml.jpg
+    image_title: Great Haseley Windmill
+    image_description: Hand-cut layered paper, 23x23cm framed, £155.00
 archive: false
 _options:
   image_path:
