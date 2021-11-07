@@ -63,6 +63,9 @@ images:
   - image_path: /uploads/Windmill-sml.jpg
     image_title: Great Haseley Windmill
     image_description: Hand-cut layered paper, 23x23cm framed, £155.00
+  - image_path: /Kate-Hipkiss-St-Giles-in-Winter.jpg
+    image_title: St Giles in Winter
+    image_description: Hand-cut layered paper, 24x30cm framed, £225.00
 archive: false
 _options:
   image_path:
