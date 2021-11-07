@@ -66,6 +66,9 @@ images:
   - image_path: /Kate-Hipkiss-St-Giles-in-Winter.jpg
     image_title: St Giles in Winter
     image_description: Hand-cut layered paper, 24x30cm framed, £225.00
+  - image_path: /Top-of.the-Hill-(Brill-Windmill).jpg
+    image_title: Top of the Hill (Brill Windmill)
+    image_description: Hand-cut layered paper, 24x30cm framed, £225.00
 archive: false
 _options:
   image_path:
