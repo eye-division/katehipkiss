@@ -44,7 +44,7 @@ images:
     image_description: Hand-cut layered paper, 21 x 45cm framed size, £295.00
   - image_path: /uploads/Across-the-Fields.jpg
     image_title: Across the Fields
-    image_description: Hand-cut layered paper, 18x23cm framed, £165.00
+    image_description: Hand-cut layered paper, 18x23cm framed, £185.00
   - image_path: /uploads/KateHipkissOnwards.jpg
     image_title: Onwards
     image_description: Hand-cut layered paper, 29x24cm framed, £215.00
