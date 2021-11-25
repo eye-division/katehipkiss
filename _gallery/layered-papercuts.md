@@ -32,7 +32,7 @@ images:
     image_description: Hand-cut layered paper, 26x18cm framed, £175.00
   - image_path: /uploads/Windmill-sml.jpg
     image_title: Great Haseley Windmill
-    image_description: Hand-cut layered paper, 23x23cm framed, £155.00
+    image_description: Hand-cut layered paper, 23x23cm framed, £165.00
   - image_path: /uploads/White-Cliffs.jpg
     image_title: Towards the White Cliffs
     image_description: Hand-cut layered paper, 23x23cm framed, £165.00
