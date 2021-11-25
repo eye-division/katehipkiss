@@ -29,13 +29,13 @@ images:
     image_description: Hand-cut layered paper, 21 x 61cm framed, £525.00
   - image_path: /uploads/Glasshouse-sml.jpg
     image_title: Glasshouse
-    image_description: Hand-cut layered paper, 23x18cm framed, £165.00
+    image_description: Hand-cut layered paper, 26x18cm framed, £175.00
   - image_path: /uploads/Windmill-sml.jpg
     image_title: Great Haseley Windmill
-    image_description: Hand-cut layered paper, 23x23cm framed, £155.00
+    image_description: Hand-cut layered paper, 23x23cm framed, £165.00
   - image_path: /uploads/White-Cliffs.jpg
     image_title: Towards the White Cliffs
-    image_description: Hand-cut layered paper, 23x23cm framed, £165.00
+    image_description: Hand-cut layered paper, 23x23cm framed, £185.00
   - image_path: /Top-of.the-Hill-(Brill-Windmill).jpg
     image_title: Top of the Hill (Brill Windmill)
     image_description: Hand-cut layered paper, 24x30cm framed, £225.00
@@ -44,7 +44,7 @@ images:
     image_description: Hand-cut layered paper, 21 x 45cm framed size, £295.00
   - image_path: /uploads/Across-the-Fields.jpg
     image_title: Across the Fields
-    image_description: Hand-cut layered paper, 18x23cm framed, £165.00
+    image_description: Hand-cut layered paper, 18x23cm framed, £185.00
   - image_path: /uploads/KateHipkissOnwards.jpg
     image_title: Onwards
     image_description: Hand-cut layered paper, 29x24cm framed, £215.00
