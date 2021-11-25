@@ -35,7 +35,7 @@ images:
     image_description: Hand-cut layered paper, 23x23cm framed, £165.00
   - image_path: /uploads/White-Cliffs.jpg
     image_title: Towards the White Cliffs
-    image_description: Hand-cut layered paper, 23x23cm framed, £165.00
+    image_description: Hand-cut layered paper, 23x23cm framed, £185.00
   - image_path: /Top-of.the-Hill-(Brill-Windmill).jpg
     image_title: Top of the Hill (Brill Windmill)
     image_description: Hand-cut layered paper, 24x30cm framed, £225.00
