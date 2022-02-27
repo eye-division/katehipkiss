@@ -12,12 +12,6 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
-  - image_path: /uploads/Kate-Hipkiss-Under-Snow-(Dreaming-Spires).jpg
-    image_title: Under Snow (Dreaming Spires)
-    image_description: Hand-cut layered paper, 23x41cm framed, £325.00 SOLD
-  - image_path: /Kate-Hipkiss-St-Giles-in-Winter.jpg
-    image_title: St Giles in Winter
-    image_description: Hand-cut layered paper, 24x30cm framed, £225.00
   - image_path: /uploads/Dunstanburgh-Castle.jpg
     image_title: Dunstanburgh Castle
     image_description: Hand-cut layered paper, 23x34cm framed, £250.00
@@ -54,12 +48,6 @@ images:
   - image_path: /Mini-Full-Moon-sml.jpg
     image_title: Mini Full Moon
     image_description: Hand-cut layered paper, 21x21cm framed, £225.00
-  - image_path: /Mini-Crescent-Moon.jpg
-    image_title: Mini Crescent Moon
-    image_description: Hand-cut layered paper, 21x21cm framed, £125.00
-  - image_path: /Mini-Half-Moon.jpg
-    image_title: Mini Half Moon
-    image_description: Hand-cut layered paper, 21x21cm framed, £175.00
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
     image_description: 8 layers of hand-cut paper, framed size 33x33cm, £725.00
@@ -75,6 +63,12 @@ images:
   - image_path: /assets/images/2021/KateHipkissReflecting.jpg
     image_title: Reflecting
     image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
+  - image_path: /uploads/Kate-Hipkiss-Under-Snow-(Dreaming-Spires).jpg
+    image_title: Under Snow (Dreaming Spires)
+    image_description: Hand-cut layered paper, 23x41cm framed, £325.00 SOLD
+  - image_path: /Kate-Hipkiss-St-Giles-in-Winter.jpg
+    image_title: St Giles in Winter
+    image_description: Hand-cut layered paper, 24x30cm framed, £225.00
 archive: false
 _options:
   image_path:
