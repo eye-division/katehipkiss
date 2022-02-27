@@ -39,12 +39,6 @@ images:
   - image_path: /assets/images/2020/Kate Hipkiss Breathless detail 2.jpg
     image_title: Breathless (detail)
     image_description:
-  - image_path: /assets/images/2020/we-came-to-be-here-i.jpg
-    image_title: We Came to be Here
-    image_description: Altered Atlas, 33 x 37 x 19cm, £1,500.00
-  - image_path: /assets/images/2020/we-came-to-be-here-detail.jpg
-    image_title: We Came to be Here (detail)
-    image_description:
   - image_path: /assets/images/2020/russian-doll-boxes.jpg
     image_title: Leave
     image_description: Cut Map of Europe, 6.5 x 6.5 x 6.5cm, £425.00
