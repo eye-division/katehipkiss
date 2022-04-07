@@ -12,6 +12,9 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
+  - image_path: /assets/images/2022/kate-hipkiss-ploughed-fields-dorset-sml.jpg
+    image_title: Ploughed Fields - Hand-cut paper, 24 x 32cm framed, £325.00
+    image_description:
   - image_path: /uploads/Dunstanburgh-Castle.jpg
     image_title: Dunstanburgh Castle
     image_description: Hand-cut layered paper, 23x34cm framed, £250.00
@@ -63,8 +66,9 @@ images:
   - image_path: /assets/images/2021/KateHipkissReflecting.jpg
     image_title: Reflecting
     image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
-  - image_path: /assets/images/2022/kate-hipkiss-ploughed-fields-dorset-sml.jpg
-    image_title: Ploughed Fields - Hand-cut paper, 24 x 32cm framed, £325.00
+  - image_path: >-
+      /assets/images/2022/kate-hipkiss-distant-spires-handcut-layered-paper-23x34cm-295-00.jpg
+    image_title: Distant Spires - Hand-cut paper, 21 x 34cm framed, £250.00
     image_description:
 archive: false
 _options:
