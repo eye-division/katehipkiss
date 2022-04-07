@@ -20,8 +20,8 @@ images:
     image_title: Distant Spires
     image_description: Hand-cut layered paper, 21 x 34cm framed, £250.00
   - image_path: /assets/images/2022/kate-hipkiss-across-christchurch-meadow.jpg
-    image_title: Across Christchurch Meadow - Hand-cut paper, 28 x 28cm framed, £385.00
-    image_description:
+    image_title: Across Christchurch Meadow
+    image_description: Hand-cut layered paper, 28 x 28cm framed, £385.00
   - image_path: /uploads/Dunstanburgh-Castle.jpg
     image_title: Dunstanburgh Castle
     image_description: Hand-cut layered paper, 23x34cm framed, £250.00
