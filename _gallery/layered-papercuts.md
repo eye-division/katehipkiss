@@ -13,8 +13,8 @@ thumb_crop: true
 display_thumb_title: true
 images:
   - image_path: /assets/images/2022/kate-hipkiss-ploughed-fields-dorset-sml.jpg
-    image_title: Ploughed Fields - Hand-cut paper, 24 x 32cm framed, £325.00
-    image_description:
+    image_title: Ploughed Fields
+    image_description: Hand-cut layered paper, 24 x 32cm framed, £325.00
   - image_path: >-
       /assets/images/2022/kate-hipkiss-distant-spires-handcut-layered-paper-23x34cm-295-00.jpg
     image_title: Distant Spires - Hand-cut paper, 21 x 34cm framed, £250.00
