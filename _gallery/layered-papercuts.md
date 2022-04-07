@@ -63,12 +63,9 @@ images:
   - image_path: /assets/images/2021/KateHipkissReflecting.jpg
     image_title: Reflecting
     image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
-  - image_path: /uploads/Kate-Hipkiss-Under-Snow-(Dreaming-Spires).jpg
-    image_title: Under Snow (Dreaming Spires)
-    image_description: Hand-cut layered paper, 23x41cm framed, £325.00 SOLD
-  - image_path: /Kate-Hipkiss-St-Giles-in-Winter.jpg
-    image_title: St Giles in Winter
-    image_description: Hand-cut layered paper, 24x30cm framed, £225.00
+  - image_path: /assets/images/2022/kate-hipkiss-ploughed-fields-dorset-sml.jpg
+    image_title: Ploughed Fields - Hand-cut paper, 24 x 32cm framed, £325.00
+    image_description:
 archive: false
 _options:
   image_path:
