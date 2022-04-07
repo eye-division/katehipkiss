@@ -15,6 +15,10 @@ images:
   - image_path: /assets/images/2022/kate-hipkiss-ploughed-fields-dorset-sml.jpg
     image_title: Ploughed Fields - Hand-cut paper, 24 x 32cm framed, £325.00
     image_description:
+  - image_path: >-
+      /assets/images/2022/kate-hipkiss-distant-spires-handcut-layered-paper-23x34cm-295-00.jpg
+    image_title: Distant Spires - Hand-cut paper, 21 x 34cm framed, £250.00
+    image_description:
   - image_path: /uploads/Dunstanburgh-Castle.jpg
     image_title: Dunstanburgh Castle
     image_description: Hand-cut layered paper, 23x34cm framed, £250.00
@@ -39,6 +43,9 @@ images:
   - image_path: /uploads/KateHipkissStillWater.jpg
     image_title: Still Water
     image_description: Hand-cut layered paper, 21 x 45cm framed size, £295.00
+  - image_path: /uploads/PalmHouse.KewGardens.jpg
+    image_title: Palm House, Kew Gardens
+    image_description: Hand-cut layered paper, 35 x 47cm framed, £875.00
   - image_path: /uploads/Across-the-Fields.jpg
     image_title: Across the Fields
     image_description: Hand-cut layered paper, 18x23cm framed, £185.00
@@ -57,18 +64,11 @@ images:
   - image_path: /assets/images/2020/Kate HipkissHalf Moon.jpg
     image_title: Half Moon
     image_description: 8 layers of hand-cut paper, framed size 53 x 53cm, £1,250.00
-  - image_path: /uploads/PalmHouse.KewGardens.jpg
-    image_title: Palm House, Kew Gardens
-    image_description: Hand-cut layered paper, 35 x 47cm framed, £875.00
   - image_path: /assets/images/2021/KateHipkissPloughedField.jpg
     image_title: Ploughed Field
     image_description: Hand-cut layered paper, unframed, £155.00
-  - image_path: /assets/images/2021/KateHipkissReflecting.jpg
-    image_title: Reflecting
-    image_description: Hand-cut layered paper, 24 x 29cm framed, £215.00
-  - image_path: >-
-      /assets/images/2022/kate-hipkiss-distant-spires-handcut-layered-paper-23x34cm-295-00.jpg
-    image_title: Distant Spires - Hand-cut paper, 21 x 34cm framed, £250.00
+  - image_path: /assets/images/2022/kate-hipkiss-across-christchurch-meadow.jpg
+    image_title: Across Christchurch Meadow - Hand-cut paper, 28 x 28cm framed, £385.00
     image_description:
 archive: false
 _options:
