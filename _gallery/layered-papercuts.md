@@ -52,6 +52,9 @@ images:
   - image_path: /uploads/Across-the-Fields.jpg
     image_title: Across the Fields
     image_description: Hand-cut layered paper, 18x23cm framed, £185.00
+  - image_path: /assets/images/2022/bothy.jpg
+    image_title: Bothy
+    image_description: Hand-cut layered paper, 23 x 23cm framed, £185.00
   - image_path: /uploads/KateHipkissOnwards.jpg
     image_title: Onwards
     image_description: Hand-cut layered paper, 29x24cm framed, £215.00
@@ -70,9 +73,9 @@ images:
   - image_path: /assets/images/2021/KateHipkissPloughedField.jpg
     image_title: Ploughed Field
     image_description: Hand-cut layered paper, unframed, £155.00
-  - image_path: /assets/images/2022/bothy.jpg
-    image_title: Bothy
-    image_description: Hand-cut layered paper, 23 x 23cm framed, £185.00
+  - image_path: /assets/images/2022/sml-brightwell-barrow.jpg
+    image_title: Brightwell Barrow
+    image_description: Hand-cut layered paper, 23 x 45.5cm framed, £350.00
 archive: false
 _options:
   image_path:
