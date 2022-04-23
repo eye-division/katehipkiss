@@ -18,6 +18,9 @@ images:
   - image_path: /assets/images/2022/spires-south-park.jpg
     image_title: Spires, South Park
     image_description: Hand-cut layered paper, 23 x 23cm framed, £185.00
+  - image_path: /assets/images/2022/valley-farmhouse.jpg
+    image_title: Valley Farmhouse
+    image_description: Hand-cut layered paper, 21 x 26cm framed, £185.00
   - image_path: /assets/images/2022/sml-early-april-fields.jpg
     image_title: Early April
     image_description: Hand-cut layered paper, 23 x 23cm framed, £165.00
@@ -82,9 +85,9 @@ images:
   - image_path: /assets/images/2021/KateHipkissPloughedField.jpg
     image_title: Ploughed Field
     image_description: Hand-cut layered paper, unframed, £155.00
-  - image_path: /assets/images/2022/valley-farmhouse.jpg
-    image_title: Valley Farmhouse
-    image_description: Hand-cut layered paper, 21 x 26cm framed, £185.00
+  - image_path: /assets/images/2022/stonehenge.jpg
+    image_title: Stonehenge
+    image_description: Hand-cut layered paper, 23 x 41cm framed, £325.00
 archive: false
 _options:
   image_path:
