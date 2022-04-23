@@ -12,8 +12,11 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
+  - image_path: /assets/images/2022/sml-brightwell-barrow.jpg
+    image_title: Brightwell Barrow
+    image_description: Hand-cut layered paper, 23 x 45.5cm framed, £350.00
   - image_path: /assets/images/2022/kate-hipkiss-ploughed-fields-dorset-sml.jpg
-    image_title: Ploughed Fields
+    image_title: Springtime Ploughed Fields
     image_description: Hand-cut layered paper, 24 x 32cm framed, £325.00
   - image_path: >-
       /assets/images/2022/kate-hipkiss-distant-spires-handcut-layered-paper-23x34cm-295-00.jpg
@@ -73,9 +76,6 @@ images:
   - image_path: /assets/images/2021/KateHipkissPloughedField.jpg
     image_title: Ploughed Field
     image_description: Hand-cut layered paper, unframed, £155.00
-  - image_path: /assets/images/2022/sml-brightwell-barrow.jpg
-    image_title: Brightwell Barrow
-    image_description: Hand-cut layered paper, 23 x 45.5cm framed, £350.00
 archive: false
 _options:
   image_path:
