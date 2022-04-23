@@ -15,9 +15,13 @@ images:
   - image_path: /assets/images/2022/sml-brightwell-barrow.jpg
     image_title: Brightwell Barrow
     image_description: Hand-cut layered paper, 23 x 45.5cm framed, £350.00
-  - image_path: /assets/images/2022/spires-south-park.jpg
-    image_title: Spires, South Park
-    image_description: Hand-cut layered paper, 23 x 23cm framed, £185.00
+  - image_path: >-
+      /assets/images/2022/kate-hipkiss-distant-spires-handcut-layered-paper-23x34cm-295-00.jpg
+    image_title: Distant Spires
+    image_description: Hand-cut layered paper, 21 x 34cm framed, £250.00
+  - image_path: /assets/images/2022/stonehenge.jpg
+    image_title: Stonehenge
+    image_description: Hand-cut layered paper, 23 x 41cm framed, £325.00
   - image_path: /assets/images/2022/valley-farmhouse.jpg
     image_title: Valley Farmhouse
     image_description: Hand-cut layered paper, 21 x 26cm framed, £185.00
@@ -27,10 +31,9 @@ images:
   - image_path: /assets/images/2022/kate-hipkiss-ploughed-fields-dorset-sml.jpg
     image_title: Springtime Ploughed Fields
     image_description: Hand-cut layered paper, 24 x 32cm framed, £325.00
-  - image_path: >-
-      /assets/images/2022/kate-hipkiss-distant-spires-handcut-layered-paper-23x34cm-295-00.jpg
-    image_title: Distant Spires
-    image_description: Hand-cut layered paper, 21 x 34cm framed, £250.00
+  - image_path: /assets/images/2022/spires-south-park.jpg
+    image_title: Spires, South Park
+    image_description: Hand-cut layered paper, 23 x 23cm framed, £185.00
   - image_path: /assets/images/2022/kate-hipkiss-across-christchurch-meadow.jpg
     image_title: Across Christchurch Meadow
     image_description: Hand-cut layered paper, 28 x 28cm framed, £385.00
@@ -85,9 +88,6 @@ images:
   - image_path: /assets/images/2021/KateHipkissPloughedField.jpg
     image_title: Ploughed Field
     image_description: Hand-cut layered paper, unframed, £155.00
-  - image_path: /assets/images/2022/stonehenge.jpg
-    image_title: Stonehenge
-    image_description: Hand-cut layered paper, 23 x 41cm framed, £325.00
 archive: false
 _options:
   image_path:
