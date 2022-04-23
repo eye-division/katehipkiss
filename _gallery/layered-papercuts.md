@@ -12,6 +12,9 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
+  - image_path: /assets/images/2022/kate-hipkiss-across-christchurch-meadow.jpg
+    image_title: Across Christchurch Meadow
+    image_description: Hand-cut layered paper, 28 x 28cm framed, £385.00
   - image_path: /assets/images/2022/sml-brightwell-barrow.jpg
     image_title: Brightwell Barrow
     image_description: Hand-cut layered paper, 23 x 45.5cm framed, £350.00
@@ -34,9 +37,6 @@ images:
   - image_path: /assets/images/2022/spires-south-park.jpg
     image_title: Spires, South Park
     image_description: Hand-cut layered paper, 23 x 23cm framed, £185.00
-  - image_path: /assets/images/2022/kate-hipkiss-across-christchurch-meadow.jpg
-    image_title: Across Christchurch Meadow
-    image_description: Hand-cut layered paper, 28 x 28cm framed, £385.00
   - image_path: /uploads/Dunstanburgh-Castle.jpg
     image_title: Dunstanburgh Castle
     image_description: Hand-cut layered paper, 23x34cm framed, £250.00
