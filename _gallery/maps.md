@@ -8,10 +8,16 @@ homepage_description_markdown:
 frontpagetitle:
 display_image: false
 main_image_path:
-main_image_caption: Concertina Book of 122 Ways to Not Make a Cube
+main_image_caption: Renew
 thumb_crop: true
 display_thumb_title: true
 images:
+  - image_path: /assets/images/2022/beneath-our-feet-sml-ii.jpg
+    image_title: Beneath Our Feet
+    image_description: Altered OS Maps, mountboard and wood frame
+  - image_path: /assets/images/2022/beneath-our-feet-sml.jpg
+    image_title: Beneath Our Feet, detail
+    image_description:
   - image_path: /assets/images/2021/life-and-times.jpg
     image_title: Life and Times
     image_description: Altered Atlas, 37.5 x 27 x 3cm, Sold
@@ -60,6 +66,9 @@ images:
   - image_path: /uploads/KateHipkissBookI.jpg
     image_title: Concertina Book (detail)
     image_description:
+  - image_path: /assets/images/2022/breathe-sml.jpg
+    image_title: Breathe
+    image_description: Altered Atlas
 archive: false
 _options:
   image_path:
