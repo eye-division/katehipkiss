@@ -69,6 +69,12 @@ images:
   - image_path: /assets/images/2022/breathe-sml.jpg
     image_title: Breathe
     image_description: Altered Atlas
+  - image_path:
+    image_title:
+    image_description:
+  - image_path: /assets/images/2022/breathe-detail-sml.jpg
+    image_title: Breathe (detail)
+    image_description:
 archive: false
 _options:
   image_path:
