@@ -41,9 +41,9 @@ images:
     image_description:
   - image_path: /assets/images/2020/russian-doll-boxes.jpg
     image_title: Leave
-    image_description: Cut Map of Europe, 6.5 x 6.5 x 6.5cm, £425.00
+    image_description: Cut Map of Europe, 6.5 x 6.5 x 6.5cm, Sold
   - image_path: /assets/images/2020/russian-doll-boxes-iii.jpg
-    image_title: Russian Doll Memory Boxes
+    image_title: Leave
     image_description:
   - image_path: /assets/images/2020/large-map-box-norfolk.jpg
     image_title: Large Memory Box

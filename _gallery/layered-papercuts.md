@@ -34,9 +34,6 @@ images:
   - image_path: /assets/images/2022/kate-hipkiss-ploughed-fields-dorset-sml.jpg
     image_title: Springtime Ploughed Fields
     image_description: Hand-cut layered paper, 24 x 32cm framed
-  - image_path: /assets/images/2022/spires-south-park.jpg
-    image_title: Spires, South Park
-    image_description: Hand-cut layered paper, 23 x 23cm framed
   - image_path: /uploads/Dunstanburgh-Castle.jpg
     image_title: Dunstanburgh Castle
     image_description: Hand-cut layered paper, 23x34cm framed
