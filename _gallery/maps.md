@@ -16,7 +16,7 @@ images:
     image_title: Beneath Our Feet
     image_description: Altered OS Maps, mountboard and wood frame
   - image_path: /assets/images/2022/beneath-our-feet-sml.jpg
-    image_title: Beneath Our Feet, detail
+    image_title: Beneath Our Feet (detail)
     image_description:
   - image_path: /assets/images/2022/breathe-sml.jpg
     image_title: Breathe
@@ -24,11 +24,14 @@ images:
   - image_path: /assets/images/2022/breathe-detail-sml.jpg
     image_title: Breathe (detail)
     image_description:
+  - image_path: /assets/images/2022/we-came-to-be-here-sml.jpg
+    image_title: We Came to be Here
+    image_description: Altered Maps
   - image_path: /uploads/KateHipkissRenew.jpg
     image_title: Renew
     image_description: Altered Atlas, 16.5 x 38.5 x 27.5cm, £1,400.00
   - image_path: /uploads/4.jpg
-    image_title: Renew, detail
+    image_title: Renew (detail)
     image_description:
   - image_path: /assets/images/2021/life-and-times.jpg
     image_title: Life and Times
@@ -43,7 +46,7 @@ images:
     image_title: Macquette
     image_description:
   - image_path: /uploads/Macquette2.jpg
-    image_title: Macquette, detail
+    image_title: Macquette (detail)
     image_description:
   - image_path: /assets/images/2020/Kate Hipkiss Breathless 1.jpg
     image_title: Breathless
