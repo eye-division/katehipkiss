@@ -42,12 +42,6 @@ images:
   - image_path: /uploads/KateHipkissBesideOurselves.jpg
     image_title: Beside Ourselves
     image_description: Hand-cut OS map, 19 x 24 x 24cm, £595.00
-  - image_path: /uploads/macquette1.jpg
-    image_title: Macquette
-    image_description:
-  - image_path: /uploads/Macquette2.jpg
-    image_title: Macquette (detail)
-    image_description:
   - image_path: /assets/images/2020/Kate Hipkiss Breathless 1.jpg
     image_title: Breathless
     image_description: Altered Atlas, 4 x 33 x 37cm, £850.00
