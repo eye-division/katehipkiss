@@ -45,7 +45,7 @@ images:
     image_description: Hand-cut layered paper, 21 x 61cm framed
   - image_path: /uploads/Glasshouse-sml.jpg
     image_title: Glasshouse
-    image_description: Hand-cut layered paper, 26x18cm framed
+    image_description: Hand-cut layered paper, 26x21cm framed
   - image_path: /uploads/Windmill-sml.jpg
     image_title: Great Haseley Windmill
     image_description: Hand-cut layered paper, 23x23cm framed
@@ -63,7 +63,7 @@ images:
     image_description: Hand-cut layered paper, 35 x 47cm framed
   - image_path: /uploads/Across-the-Fields.jpg
     image_title: Across the Fields
-    image_description: Hand-cut layered paper, 18x23cm framed
+    image_description: Hand-cut layered paper, 21x26cm framed
   - image_path: /assets/images/2022/bothy.jpg
     image_title: Bothy
     image_description: Hand-cut layered paper, 23 x 23cm framed
