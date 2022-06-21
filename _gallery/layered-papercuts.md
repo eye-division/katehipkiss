@@ -21,7 +21,7 @@ images:
   - image_path: >-
       /assets/images/2022/kate-hipkiss-distant-spires-handcut-layered-paper-23x34cm-295-00.jpg
     image_title: Distant Spires
-    image_description: Hand-cut layered paper, 21 x 34cm framed size
+    image_description: Hand-cut layered paper, 21 x 34cm framed size  SOLD
   - image_path: /assets/images/2022/stonehenge.jpg
     image_title: Stonehenge
     image_description: Hand-cut layered paper, 23 x 41cm framed size
@@ -39,7 +39,7 @@ images:
     image_description: Hand-cut layered paper, 23x34cm framed
   - image_path: /uploads/KateHipkissWhiteHorse.jpg
     image_title: White Horse
-    image_description: Hand-cut layered paper, 29x24cm framed
+    image_description: Hand-cut layered paper, 29x24cm framed  SOLD
   - image_path: /uploads/CastleEileanDonanIII.jpg
     image_title: Castle Eilean Donan
     image_description: Hand-cut layered paper, 21 x 61cm framed
@@ -63,7 +63,7 @@ images:
     image_description: Hand-cut layered paper, 35 x 47cm framed size
   - image_path: /uploads/Across-the-Fields.jpg
     image_title: Across the Fields
-    image_description: Hand-cut layered paper, 21x26cm framed size
+    image_description: Hand-cut layered paper, 21x26cm framed size  SOLD
   - image_path: /assets/images/2022/bothy.jpg
     image_title: Bothy
     image_description: Hand-cut layered paper, 23 x 23cm framed size
