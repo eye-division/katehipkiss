@@ -26,7 +26,7 @@ images:
     image_title: Stonehenge
     image_description: Hand-cut layered paper, 23 x 41cm framed size SOLD
   - image_path: /assets/images/2022/valley-farmhouse.jpg
-    image_title: Valley Farmhouse
+    image_title: Hughenden Valley
     image_description: Hand-cut layered paper, 21 x 26cm framed size
   - image_path: /assets/images/2022/sml-early-april-fields.jpg
     image_title: Early April
