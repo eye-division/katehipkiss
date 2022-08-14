@@ -29,28 +29,24 @@ images:
   - image_path: /assets/images/2022/sml-brightwell-barrow.jpg
     image_title: Brightwell Barrow
     image_description: Hand-cut layered paper, 23 x 45.5cm framed size
-  - image_path: >-
-      /assets/images/2022/kate-hipkiss-distant-spires-handcut-layered-paper-23x34cm-295-00.jpg
-    image_title: Distant Spires
-    image_description: Hand-cut layered paper, 21 x 34cm framed size  SOLD
-  - image_path: /assets/images/2022/stonehenge.jpg
-    image_title: Stonehenge
-    image_description: Hand-cut layered paper, 23 x 41cm framed size SOLD
+  - image_path: /assets/images/2022/kate-hipkiss-ploughed-fields-dorset-sml.jpg
+    image_title: Springtime Ploughed Fields
+    image_description: Hand-cut layered paper, 24 x 32cm framed size
+  - image_path: /uploads/KateHipkissStillWater.jpg
+    image_title: Still Water
+    image_description: Hand-cut layered paper, 21 x 45cm framed size
+  - image_path: /uploads/White-Cliffs.jpg
+    image_title: Towards the White Cliffs
+    image_description: Hand-cut layered paper, 23x23cm framed size
   - image_path: /assets/images/2022/valley-farmhouse.jpg
     image_title: Hughenden Valley
     image_description: Hand-cut layered paper, 21 x 26cm framed size
   - image_path: /assets/images/2022/sml-early-april-fields.jpg
     image_title: Early April
     image_description: Hand-cut layered paper, 23 x 23cm framed size
-  - image_path: /assets/images/2022/kate-hipkiss-ploughed-fields-dorset-sml.jpg
-    image_title: Springtime Ploughed Fields
-    image_description: Hand-cut layered paper, 24 x 32cm framed size
   - image_path: /uploads/Dunstanburgh-Castle.jpg
     image_title: Dunstanburgh Castle
     image_description: Hand-cut layered paper, 23x34cm framed
-  - image_path: /uploads/KateHipkissWhiteHorse.jpg
-    image_title: White Horse
-    image_description: Hand-cut layered paper, 29x24cm framed  SOLD
   - image_path: /uploads/CastleEileanDonanIII.jpg
     image_title: Castle Eilean Donan
     image_description: Hand-cut layered paper, 21 x 61cm framed
@@ -60,15 +56,9 @@ images:
   - image_path: /uploads/Windmill-sml.jpg
     image_title: Great Haseley Windmill
     image_description: Hand-cut layered paper, 23x23cm framed size
-  - image_path: /uploads/White-Cliffs.jpg
-    image_title: Towards the White Cliffs
-    image_description: Hand-cut layered paper, 23x23cm framed size
   - image_path: /Top-of.the-Hill-(Brill-Windmill).jpg
     image_title: Top of the Hill (Brill Windmill)
     image_description: Hand-cut layered paper, 24x30cm framed size
-  - image_path: /uploads/KateHipkissStillWater.jpg
-    image_title: Still Water
-    image_description: Hand-cut layered paper, 21 x 45cm framed size
   - image_path: /uploads/PalmHouse.KewGardens.jpg
     image_title: Palm House, Kew Gardens
     image_description: Hand-cut layered paper, 35 x 47cm framed size
