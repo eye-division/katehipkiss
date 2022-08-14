@@ -14,7 +14,7 @@ display_thumb_title: true
 images:
   - image_path: /assets/images/2022/grazing-on-portmeadow.jpg
     image_title: Grazing on Portmeadow
-    image_description: ' - Hand-cut layered paper, 23 x 41cm framed size'
+    image_description: Hand-cut layered paper, 23 x 41cm framed size
   - image_path: /assets/images/2022/stag-broadway-tower.jpg
     image_title: Stag. Broadway Tower
     image_description: Hand-cut layered paper, 27 x 31.5cm framed size
