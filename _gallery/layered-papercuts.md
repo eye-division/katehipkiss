@@ -14,15 +14,13 @@ display_thumb_title: true
 images:
   - image_path: /assets/images/2022/grazing-on-portmeadow.jpg
     image_title: Grazing on Portmeadow
-    image_description: Grazing on Portmeadow - Hand-cut layered paper, 23 x 41cm framed size
+    image_description: ' - Hand-cut layered paper, 23 x 41cm framed size'
   - image_path: /assets/images/2022/stag-broadway-tower.jpg
     image_title: Stag. Broadway Tower
-    image_description: Stag, Broadway Tower - Hand-cut layered paper, 27 x 31.5cm framed size
+    image_description: ' - Hand-cut layered paper, 27 x 31.5cm framed size'
   - image_path: /assets/images/2022/east-banqueting-house-chipping-campden.jpg
     image_title: East Banqueting House, Chipping Campden
-    image_description: >-
-      East Banqueting House, Chipping Campden - Hand-cut layered paper, 24 x
-      30cm framed size
+    image_description: ' - Hand-cut layered paper, 24 x 30cm framed size'
   - image_path: /assets/images/2022/kate-hipkiss-across-christchurch-meadow.jpg
     image_title: Across Christchurch Meadow
     image_description: Hand-cut layered paper, 28 x 28cm framed size
