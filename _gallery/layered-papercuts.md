@@ -17,7 +17,7 @@ images:
     image_description: ' - Hand-cut layered paper, 23 x 41cm framed size'
   - image_path: /assets/images/2022/stag-broadway-tower.jpg
     image_title: Stag. Broadway Tower
-    image_description: ' - Hand-cut layered paper, 27 x 31.5cm framed size'
+    image_description: Hand-cut layered paper, 27 x 31.5cm framed size
   - image_path: /assets/images/2022/east-banqueting-house-chipping-campden.jpg
     image_title: East Banqueting House, Chipping Campden
     image_description: ' - Hand-cut layered paper, 24 x 30cm framed size'
