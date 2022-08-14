@@ -30,12 +30,15 @@ images:
   - image_path: /assets/images/2022/kate-hipkiss-ploughed-fields-dorset-sml.jpg
     image_title: Springtime Ploughed Fields
     image_description: Hand-cut layered paper, 24 x 32cm framed size
-  - image_path: /uploads/KateHipkissStillWater.jpg
+  - image_path: /assets/images/2022/kate-hipkiss-still-water.jpg
     image_title: Still Water
     image_description: Hand-cut layered paper, 21 x 45cm framed size
   - image_path: /uploads/White-Cliffs.jpg
     image_title: Towards the White Cliffs
     image_description: Hand-cut layered paper, 23x23cm framed size
+  - image_path: /assets/images/2022/cornfields.jpg
+    image_title: Cornfields
+    image_description: Hand-cut layered paper, 22 x 40cm framed size
   - image_path: /assets/images/2022/valley-farmhouse.jpg
     image_title: Hughenden Valley
     image_description: Hand-cut layered paper, 21 x 26cm framed size
