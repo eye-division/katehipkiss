@@ -36,6 +36,9 @@ images:
   - image_path: /uploads/White-Cliffs.jpg
     image_title: Towards the White Cliffs
     image_description: Hand-cut layered paper, 23x23cm framed size
+  - image_path: /assets/images/2022/cornfields.jpg
+    image_title: Cornfields
+    image_description: Hand-cut layered paper, 22 x 40cm framed size
   - image_path: /assets/images/2022/valley-farmhouse.jpg
     image_title: Hughenden Valley
     image_description: Hand-cut layered paper, 21 x 26cm framed size
@@ -81,9 +84,6 @@ images:
   - image_path: /assets/images/2020/Kate HipkissHalf Moon.jpg
     image_title: Half Moon
     image_description: 8 layers of hand-cut paper, framed size 53 x 53cm
-  - image_path: /assets/images/2022/cornfields.jpg
-    image_title: Cornfields
-    image_description: Hand-cut layered paper, 22 x 40cm framed size
 archive: false
 _options:
   image_path:
