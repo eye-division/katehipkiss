@@ -81,6 +81,9 @@ images:
   - image_path: /assets/images/2020/Kate HipkissHalf Moon.jpg
     image_title: Half Moon
     image_description: 8 layers of hand-cut paper, framed size 53 x 53cm
+  - image_path: /assets/images/2022/cornfields.jpg
+    image_title: Cornfields
+    image_description: Hand-cut layered paper, 22 x 40cm framed size
 archive: false
 _options:
   image_path:
