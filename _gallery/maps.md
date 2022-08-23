@@ -12,12 +12,12 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
-  - image_path: /assets/images/2022/beneath-our-feet-sml-ii.jpg
-    image_title: Beneath Our Feet
-    image_description: Altered OS Maps, mountboard and wood frame
-  - image_path: /assets/images/2022/beneath-our-feet-sml.jpg
-    image_title: Beneath Our Feet (detail)
-    image_description:
+  - image_path: /assets/images/2022/kate-hipkiss-beneath-the-noise.jpg
+    image_title: Beneath the Noise
+    image_description: Altered OS Maps
+  - image_path: /assets/images/2022/kate-hipkiss-beneath-the-noise-detail.jpg
+    image_title: Beneath the Noise (detail)
+    image_description: Altered OS Maps
   - image_path: /assets/images/2022/breathe-sml.jpg
     image_title: Breathe
     image_description: Altered Atlas
@@ -27,6 +27,12 @@ images:
   - image_path: /assets/images/2022/we-came-to-be-here-sml.jpg
     image_title: We Came to be Here
     image_description: Altered Maps
+  - image_path: /assets/images/2022/beneath-our-feet-sml-ii.jpg
+    image_title: Beneath Our Feet
+    image_description: Altered OS Maps, mountboard and wood frame
+  - image_path: /assets/images/2022/beneath-our-feet-sml.jpg
+    image_title: Beneath Our Feet (detail)
+    image_description:
   - image_path: /uploads/KateHipkissRenew.jpg
     image_title: Renew
     image_description: Altered Atlas, 16.5 x 38.5 x 27.5cm, £1,400.00
@@ -63,12 +69,6 @@ images:
   - image_path: /uploads/KateHipkiss122WaystoNotMakeaCube.jpg
     image_title: 122 Ways to Not Make a Cube (detail)
     image_description:
-  - image_path: /assets/images/2022/kate-hipkiss-beneath-the-noise.jpg
-    image_title: Beneath the Noise
-    image_description: Altered OS Maps
-  - image_path: /assets/images/2022/kate-hipkiss-beneath-the-noise-detail.jpg
-    image_title: Beneath the Noise (detail)
-    image_description: Altered OS Maps
 archive: false
 _options:
   image_path:
