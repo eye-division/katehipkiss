@@ -66,9 +66,9 @@ images:
   - image_path: /assets/images/2022/kate-hipkiss-beneath-the-noise.jpg
     image_title: Beneath the Noise
     image_description: Altered OS Maps
-  - image_path:
-    image_title:
-    image_description:
+  - image_path: /assets/images/2022/kate-hipkiss-beneath-the-noise-detail.jpg
+    image_title: Beneath the Noise (detail)
+    image_description: Altered OS Maps
 archive: false
 _options:
   image_path:
