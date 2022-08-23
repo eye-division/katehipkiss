@@ -63,6 +63,12 @@ images:
   - image_path: /uploads/KateHipkiss122WaystoNotMakeaCube.jpg
     image_title: 122 Ways to Not Make a Cube (detail)
     image_description:
+  - image_path: /assets/images/2022/kate-hipkiss-beneath-the-noise.jpg
+    image_title: Beneath the Noise
+    image_description: Altered OS Maps
+  - image_path:
+    image_title:
+    image_description:
 archive: false
 _options:
   image_path:
@@ -94,5 +100,4 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
-
 <br>The map works explore individual and collective memory, the known/unknown and absence/presence. I make intricate, often fragmentary, objects from cut maps, layering and intertwining the networks of roads, sometimes still attached to the atlas they came from. &nbsp;Process is central to my work and the symbiotic relationship between the thought process, the source material and the making process is increasingly significant. The slow pace of making is reflected in the objects I make and communicates a deeper time. My work bridges memory, imagination and reality as our implicit understanding of the source material is brought into focus and we question the information that remains.
