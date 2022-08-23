@@ -12,12 +12,12 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
-  - image_path: /assets/images/2022/beneath-our-feet-sml-ii.jpg
-    image_title: Beneath Our Feet
-    image_description: Altered OS Maps, mountboard and wood frame
-  - image_path: /assets/images/2022/beneath-our-feet-sml.jpg
-    image_title: Beneath Our Feet (detail)
-    image_description:
+  - image_path: /assets/images/2022/kate-hipkiss-beneath-the-noise.jpg
+    image_title: Beneath the Noise
+    image_description: Altered OS Maps
+  - image_path: /assets/images/2022/kate-hipkiss-beneath-the-noise-detail.jpg
+    image_title: Beneath the Noise (detail)
+    image_description: Altered OS Maps
   - image_path: /assets/images/2022/breathe-sml.jpg
     image_title: Breathe
     image_description: Altered Atlas
@@ -27,6 +27,12 @@ images:
   - image_path: /assets/images/2022/we-came-to-be-here-sml.jpg
     image_title: We Came to be Here
     image_description: Altered Maps
+  - image_path: /assets/images/2022/beneath-our-feet-sml-ii.jpg
+    image_title: Beneath Our Feet
+    image_description: Altered OS Maps, mountboard and wood frame
+  - image_path: /assets/images/2022/beneath-our-feet-sml.jpg
+    image_title: Beneath Our Feet (detail)
+    image_description:
   - image_path: /uploads/KateHipkissRenew.jpg
     image_title: Renew
     image_description: Altered Atlas, 16.5 x 38.5 x 27.5cm, £1,400.00
@@ -94,5 +100,4 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
-
 <br>The map works explore individual and collective memory, the known/unknown and absence/presence. I make intricate, often fragmentary, objects from cut maps, layering and intertwining the networks of roads, sometimes still attached to the atlas they came from. &nbsp;Process is central to my work and the symbiotic relationship between the thought process, the source material and the making process is increasingly significant. The slow pace of making is reflected in the objects I make and communicates a deeper time. My work bridges memory, imagination and reality as our implicit understanding of the source material is brought into focus and we question the information that remains.
