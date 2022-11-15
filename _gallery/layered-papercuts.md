@@ -87,6 +87,9 @@ images:
   - image_path: /assets/images/2022/turl-street-under-snow.jpg
     image_title: Turl Street Under Snow
     image_description: '- Hand-cut layered paper, 28 x 23cm framed size'
+  - image_path: /assets/images/2022/stonehenge-with-dark-sky-and-full-moon.jpg
+    image_title: Moonlit Stonehenge
+    image_description: '- Hand-cut layered paper, 24.5 x 37.5cm framed size'
 archive: false
 _options:
   image_path:
