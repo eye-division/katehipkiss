@@ -96,6 +96,9 @@ images:
   - image_path: /assets/images/2022/langdale-valley.jpg
     image_title: Langdale Valley
     image_description: '- Hand-cut layered paper, 21 x 45cm framed size'
+  - image_path: /assets/images/2022/national-theatre-southbank.jpg
+    image_title: National Theatre, Southbank
+    image_description: '- Hand-cut layered paper, 23 x 28cm framed size'
 archive: false
 _options:
   image_path:
