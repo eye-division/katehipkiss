@@ -81,9 +81,9 @@ images:
   - image_path: /assets/images/2022/moonlight-over-dreaming-spires-ii.jpg
     image_title: Moonlight Over Dreaming Spires
     image_description: '- Hand-cut layered paper, 20 x 25cm framed size'
-  - image_path:
-    image_title:
-    image_description:
+  - image_path: /assets/images/2022/park-town-postbox.jpg
+    image_title: Park Town Postbox
+    image_description: '- Hand-cut layered paper, 28 x 23cm framed size'
 archive: false
 _options:
   image_path:
