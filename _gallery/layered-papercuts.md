@@ -90,6 +90,9 @@ images:
   - image_path: /assets/images/2022/stonehenge-with-dark-sky-and-full-moon.jpg
     image_title: Moonlit Stonehenge
     image_description: '- Hand-cut layered paper, 24.5 x 37.5cm framed size'
+  - image_path: /assets/images/2022/kate-hipkiss-bliss-mill-in-the-snow.jpg
+    image_title: Bliss Mill in the Snow
+    image_description: '- Hand-cut layered paper, 26.5 x 35cm framed size'
 archive: false
 _options:
   image_path:
