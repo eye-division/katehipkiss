@@ -93,6 +93,9 @@ images:
   - image_path: /assets/images/2022/kate-hipkiss-bliss-mill-in-the-snow.jpg
     image_title: Bliss Mill in the Snow
     image_description: '- Hand-cut layered paper, 26.5 x 35cm framed size'
+  - image_path: /assets/images/2022/langdale-valley.jpg
+    image_title: Langdale Valley
+    image_description: '- Hand-cut layered paper, 21 x 45cm framed size'
 archive: false
 _options:
   image_path:
