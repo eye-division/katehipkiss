@@ -63,9 +63,6 @@ images:
   - image_path: /uploads/PalmHouse.KewGardens.jpg
     image_title: Palm House, Kew Gardens
     image_description: Hand-cut layered paper, 35 x 47cm framed size
-  - image_path: /uploads/Across-the-Fields.jpg
-    image_title: Across the Fields
-    image_description: Hand-cut layered paper, 21x26cm framed size  SOLD
   - image_path: /assets/images/2022/bothy.jpg
     image_title: Bothy
     image_description: Hand-cut layered paper, 23 x 23cm framed size
@@ -81,9 +78,27 @@ images:
   - image_path: /assets/images/2019/The Moon II.jpg
     image_title: The Moon
     image_description: 8 layers of hand-cut paper, framed size 33x33cm
-  - image_path: /assets/images/2020/Kate HipkissHalf Moon.jpg
-    image_title: Half Moon
-    image_description: 8 layers of hand-cut paper, framed size 53 x 53cm
+  - image_path: /assets/images/2022/moonlight-over-dreaming-spires-ii.jpg
+    image_title: Moonlight Over Dreaming Spires
+    image_description: '- Hand-cut layered paper, 20 x 25cm framed size'
+  - image_path: /assets/images/2022/park-town-postbox.jpg
+    image_title: Park Town Postbox
+    image_description: '- Hand-cut layered paper, 28 x 23cm framed size'
+  - image_path: /assets/images/2022/turl-street-under-snow.jpg
+    image_title: Turl Street Under Snow
+    image_description: '- Hand-cut layered paper, 28 x 23cm framed size'
+  - image_path: /assets/images/2022/stonehenge-with-dark-sky-and-full-moon.jpg
+    image_title: Moonlit Stonehenge
+    image_description: '- Hand-cut layered paper, 24.5 x 37.5cm framed size'
+  - image_path: /assets/images/2022/kate-hipkiss-bliss-mill-in-the-snow.jpg
+    image_title: Bliss Mill in the Snow
+    image_description: '- Hand-cut layered paper, 26.5 x 35cm framed size'
+  - image_path: /assets/images/2022/langdale-valley.jpg
+    image_title: Langdale Valley
+    image_description: '- Hand-cut layered paper, 21 x 45cm framed size'
+  - image_path: /assets/images/2022/national-theatre-southbank.jpg
+    image_title: National Theatre, Southbank
+    image_description: '- Hand-cut layered paper, 23 x 28cm framed size'
 archive: false
 _options:
   image_path:
