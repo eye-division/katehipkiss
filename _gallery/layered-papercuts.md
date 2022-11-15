@@ -84,6 +84,9 @@ images:
   - image_path: /assets/images/2022/park-town-postbox.jpg
     image_title: Park Town Postbox
     image_description: '- Hand-cut layered paper, 28 x 23cm framed size'
+  - image_path: /assets/images/2022/turl-street-under-snow.jpg
+    image_title: Turl Street Under Snow
+    image_description: '- Hand-cut layered paper, 28 x 23cm framed size'
 archive: false
 _options:
   image_path:
