@@ -12,45 +12,45 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
-  - image_path: /assets/images/2022/turl-street-under-snow.jpg
-    image_title: Turl Street Under Snow
-    image_description: '- Hand-cut layered paper, 28 x 23cm framed size'
   - image_path: /assets/images/2022/stonehenge-with-dark-sky-and-full-moon.jpg
     image_title: Moonlit Stonehenge
     image_description: '- Hand-cut layered paper, 24.5 x 37.5cm framed size'
-  - image_path: /assets/images/2022/national-theatre-southbank.jpg
-    image_title: National Theatre, Southbank
-    image_description: '- Hand-cut layered paper, 23 x 28cm framed size'
-  - image_path: /assets/images/2022/park-town-postbox.jpg
-    image_title: Park Town Postbox
-    image_description: '- Hand-cut layered paper, 28 x 23cm framed size'
   - image_path: /assets/images/2022/moonlight-over-dreaming-spires-ii.jpg
     image_title: Moonlight Over Dreaming Spires
     image_description: '- Hand-cut layered paper, 20 x 25cm framed size'
   - image_path: /assets/images/2022/kate-hipkiss-bliss-mill-in-the-snow.jpg
     image_title: Bliss Mill in the Snow
     image_description: '- Hand-cut layered paper, 26.5 x 35cm framed size'
+  - image_path: /assets/images/2019/The Moon II.jpg
+    image_title: The Moon
+    image_description: 8 layers of hand-cut paper, framed size 33x33cm
+  - image_path: /assets/images/2022/national-theatre-southbank.jpg
+    image_title: National Theatre, Southbank
+    image_description: '- Hand-cut layered paper, 23 x 28cm framed size'
+  - image_path: /assets/images/2022/turl-street-under-snow.jpg
+    image_title: Turl Street Under Snow
+    image_description: '- Hand-cut layered paper, 28 x 23cm framed size'
+  - image_path: /assets/images/2022/park-town-postbox.jpg
+    image_title: Park Town Postbox
+    image_description: '- Hand-cut layered paper, 28 x 23cm framed size'
+  - image_path: /assets/images/2022/kate-hipkiss-across-christchurch-meadow.jpg
+    image_title: Across Christchurch Meadow
+    image_description: Hand-cut layered paper, 28 x 28cm framed size
   - image_path: /assets/images/2022/grazing-on-portmeadow.jpg
     image_title: Grazing on Portmeadow
     image_description: Hand-cut layered paper, 23 x 41cm framed size
   - image_path: /assets/images/2022/stag-broadway-tower.jpg
     image_title: Stag. Broadway Tower
     image_description: Hand-cut layered paper, 27 x 31.5cm framed size
-  - image_path: /assets/images/2022/langdale-valley.jpg
-    image_title: Langdale Valley
-    image_description: '- Hand-cut layered paper, 21 x 45cm framed size'
-  - image_path: /assets/images/2019/The Moon II.jpg
-    image_title: The Moon
-    image_description: 8 layers of hand-cut paper, framed size 33x33cm
   - image_path: /assets/images/2022/east-banqueting-house-chipping-campden.jpg
     image_title: East Banqueting House, Chipping Campden
     image_description: Hand-cut layered paper, 24 x 30cm framed size
-  - image_path: /assets/images/2022/kate-hipkiss-across-christchurch-meadow.jpg
-    image_title: Across Christchurch Meadow
-    image_description: Hand-cut layered paper, 28 x 28cm framed size
   - image_path: /assets/images/2022/sml-brightwell-barrow.jpg
     image_title: Brightwell Barrow
     image_description: Hand-cut layered paper, 23 x 45.5cm framed size
+  - image_path: /assets/images/2022/langdale-valley.jpg
+    image_title: Langdale Valley
+    image_description: '- Hand-cut layered paper, 21 x 45cm framed size'
   - image_path: /assets/images/2022/kate-hipkiss-ploughed-fields-dorset-sml.jpg
     image_title: Springtime Ploughed Fields
     image_description: Hand-cut layered paper, 24 x 32cm framed size
