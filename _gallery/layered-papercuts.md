@@ -90,9 +90,6 @@ images:
   - image_path: /assets/images/2022/bothy.jpg
     image_title: Bothy
     image_description: Hand-cut layered paper, 23 x 23cm framed size
-  - image_path: /assets/images/2021/Portmeadow.jpg
-    image_title: Portmeadow
-    image_description: Hand-cut paper, 24 x 29cm framed size
   - image_path: /Mini-Full-Moon-sml.jpg
     image_title: Mini Full Moon
     image_description: Hand-cut layered paper, 21x21cm framed size
