@@ -5,6 +5,7 @@ main_image_caption:
 show_carousel: true
 show_blog: false
 posts_number: 0
+show_galleries: false
 carousel:
   - image: /uploads/kate-hipkiss-we-came-to-be-here-black-background-sq.jpg
     caption:
@@ -31,6 +32,7 @@ _comments:
   main_image_caption: Alt text for cover image
   carousel: Edit the slideshow
   show_carouse: Show the slideshow
+  show_galleries: Show gallery links and thumbnails
   show_blog: Show your latest posts on the homepage
   posts_number: How many posts to show
   alink: Optional web link from the slide
@@ -39,60 +41,63 @@ _comments:
 {% if page.main_image_path %}
   <!-- parallax picture please -->
     <figure>
-    {% assign alt_text = page.title %}
-    {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
-    {% include img.html src=page.main_image_path alt=alt_text %}
-    <figcaption>{{ alt_text }}</figcaption>
+      {% assign alt_text = page.title %}
+      {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
+      {% include img.html src=page.main_image_path alt=alt_text %}
+      <figcaption>{{ alt_text }}</figcaption>
     </figure>
-  {% endif %}
+{% endif %}
 
-  <div class="editable">
-    <p>&nbsp;</p>
-  </div>
+<div class="editable">
+  <p>&nbsp;</p>
+</div>
 
- {% if page.show_carousel and page.carousel %}
-    <section class="slideshow">
+{% if page.show_carousel and page.carousel %}
+  <section class="slideshow">
 
-      <div class="flexslider">
-          <ul class="slides">
-            {% for slides in page.carousel %}
-            <li>
-              {% if slides.alink %}
-                 <a href="{{ site.baseurl }}{{ slides.alink }}" title="View project">
-              {% endif %}
-              {% include img.html src=slides.image width=960 alt=slides.caption %}
-              {% if slides.alink %}
-                </a>
-              {% endif %}
-              {% if slides.caption %}
-                <p class="flex-caption">{% if slides.alink %}<a href="{{ site.baseurl }}{{ slides.alink }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.alink %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
-              {% endif %}
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
-      {% endif %}
+    <div class="flexslider">
+      <ul class="slides">
+        {% for slides in page.carousel %}
+        <li>
+          {% if slides.alink %}
+              <a href="{{ site.baseurl }}{{ slides.alink }}" title="View project">
+          {% endif %}
+          {% include img.html src=slides.image width=960 alt=slides.caption %}
+          {% if slides.alink %}
+            </a>
+          {% endif %}
+          {% if slides.caption %}
+            <p class="flex-caption">{% if slides.alink %}<a href="{{ site.baseurl }}{{ slides.alink }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.alink %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+{% endif %}
 
-    
-<section class="gallery--list">
+{% if page.show_galleries %}
 
-<!-- order galleries by date -->
-{% assign galleries = site.gallery | sort: 'gallery_date' | reverse %}
+  <section class="gallery--list">
 
-{% for gallery in galleries %}
+  <!-- order galleries by date -->
+  {% assign galleries = site.gallery | sort: 'gallery_date' | reverse %}
 
-     <div class="gallery--box">
+  {% for gallery in galleries %}
 
-          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link">
-            {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
-            <h4 class="cover--title mb0">{{ gallery.title }}</h4>
-          </a>
+      <div class="gallery--box">
 
-     </div>
+            <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link">
+              {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
+              <h4 class="cover--title mb0">{{ gallery.title }}</h4>
+            </a>
 
-{% endfor %}
-</section>
+      </div>
+
+  {% endfor %}
+  </section>
+
+{% endif %}
 
 {% if page.show_blog %}
 
