@@ -37,3 +37,57 @@
 
 // 7. Shame - nowhere found for this yet
 @import 'shame';
+
+div.highlight {
+    margin-bottom: 1rem;
+}
+
+@include desktop {
+    .navbar-item {
+        &.is-hoverable:hover {
+            .navbar-dropdown {
+                display: block;
+            }
+        }
+    }
+}
+ 
+  
+.contents {
+    box-shadow: $box-shadow;
+    padding: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.hero-darken {
+    background-color: rgba($hero-darken, 0.5);
+}
+.hero.is-medium .hero-body {
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+.content {
+    figure {
+        margin: 0;
+    }
+}
+
+.callout {
+    &-icon {
+        width: 4rem;
+        height: 4rem;
+        margin-bottom: 0.75rem;
+    }
+}
+
+// Alpine.js hide on initial load
+[x-cloak] { display: none !important; }
+
+// Cloudcannon editor
+.editor-content {
+    display: none;
+}
+
+.cms-editor-active .editor-content {
+    display: block;
+}

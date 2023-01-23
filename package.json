@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "bulma-block-list": "^0.6.0"
+  }
+}

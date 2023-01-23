@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+$family-sans-serif: 'Montserrat', sans-serif;
+$primary: #188eac !default;
+
+$tabs-link-active-color: $primary;
+$tabs-link-active-border-bottom-color: $primary;
+
+$modal-content-width: 800px;
+
+@import "../node_modules/bulma/bulma.sass";
+$hero-darken: $dark !default;
+
+@import
+  "bourbon/bourbon",
+  "neat/neat",
+  "base/base"
+;
+
+
+@import "layout";
+@import "syntax";
+@import "showcase";
+@import "../node_modules/bulma-block-list/src/block-list.scss";
+@import "flexslider";

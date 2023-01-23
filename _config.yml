@@ -1,14 +1,27 @@
-# External gems - updated to plugins in jekyll v3.6
 plugins:
- # - jekyll-archives # Sorry, not GitHub pages friendly!
- # - jekyll-assets
- # - autoprefixer-rails
-   - jekyll-seo-tag
-   - jekyll-sitemap
-   - jekyll/tagging
-   - jekyll-tagging-related_posts
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+  - jekyll-redirect-from
+
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Site settings
+lang: en
+tagline: UK artist
+
+theme: bulma-clean-theme
+
 title: "Kate Hipkiss"
 subtitle: "Paper artist"
 name: "Kate Hipkiss"
@@ -32,10 +45,15 @@ show_social_top: true
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 
 #inter_post_navigation: false
 permalink: pretty
 highlightjs_theme: "monokai-sublime"
+
+# Pagination for Jekyll 3
+paginate: 5
+paginate_path: "/blog/page:num"
 
 # Image CDN
 imagecdn:
@@ -44,20 +62,28 @@ imagecdn:
 
 # Collections Example
 collections:
+    products:
+      output: true
     gallery:
-        output: true
-        permalink: /gallery/:path/
-        #_hide_content: true
+      output: true
+      permalink: /gallery/:path/
+      #_hide_content: true
 
 
 # Defaults Example
 defaults:
     -
-        scope:
-            path: ""
-            type: "gallery"
-        values:
-            layout: "gallery"
+      scope:
+          path: ""
+          type: "gallery"
+      values:
+          layout: "gallery"
+    -
+      scope:
+          path: ""
+          type: "products"
+      values:
+          layout: "product"
 
 # https://docs.cloudcannon.com/editing/options/
 _options:
@@ -101,6 +127,8 @@ _options:
     image: true
     styles: /css/editor.scss
 
+cloudcannon:
+    data: true
 
 # Payment settings
 # Environment settings
