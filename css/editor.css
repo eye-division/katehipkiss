@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-/// https://docs.cloudcannon.com/editing/options/
+/// https://cloudcannon.com/documentation/articles/using-rich-text-inputs-to-edit-your-data/?ssg=Jekyll
 
 p.callout { /* Can be applied to blocks of content */
   margin: 10px;
