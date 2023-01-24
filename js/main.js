@@ -58,6 +58,9 @@
             
             document.getElementById('featuredmodal').src = result
             $('#featuredmodal').removeAttr('width').removeAttr('height');
+
+            document.getElementById('featured').src = result
+            $('#featured').removeAttr('width').removeAttr('height');
         })
     }
 
