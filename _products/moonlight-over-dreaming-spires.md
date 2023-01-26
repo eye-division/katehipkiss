@@ -5,16 +5,14 @@ price: 295
 featured_image: /assets/moonlight-over-dreaming-spires-sml.jpg
 featured_image_title: Moonlight Over Dreaming Spires
 images:
-  - image_path: /assets/images/2022/sml-early-april-fields.jpg
-    image_title: Early April Fields
+  - image_path: /assets/moonlight-over-dreaming-spires-sml.jpg
+    image_title: Moonlight Over Dreaming Spires
     image_description: |-
-      9 layers of hand-cut paper
-      10 x 10cm image size
-      23 x 23cm framed size
-  - image_path: /assets/images/2022/grazing-on-portmeadow.jpg
-    image_title: detail Grazing on Port Meadow
-    image_description: description of work
-  - image_path: /assets/images/2022/cornfields.jpg
-    image_title: Cornfields
+      Handcut, layered paper
+      12 x 15cm image size
+      21 x 29cm framed size
+      White frame and black mount
+  - image_path: /assets/moonlight-over-dreaming-spires-side-view.jpg
+    image_title: detail
     image_description:
 ---
