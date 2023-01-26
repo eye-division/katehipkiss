@@ -18,4 +18,4 @@ images:
     image_title: Cornfields
     image_description:
 ---
-Here is my text for Early April Fields
+Handcut, layered paper<br>10 x10cm image<br>23 x 23cm framed<br>White mount and frame
