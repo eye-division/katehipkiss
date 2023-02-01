@@ -59,7 +59,7 @@
             document.getElementById('featured').src = result
             $('#featured').removeAttr('width').removeAttr('height');
 
-            document.getElementById('zoom').style.backgroundImage = "url('" + this.src + ")";
+            document.getElementById('zoom').style.backgroundImage = "url('" + result + ")";
 
         })
     }
