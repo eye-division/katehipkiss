@@ -41,16 +41,22 @@ _comments:
 
 <div class="gallery">
 
-    {% for product in site.products %}
+    
 
-        <section class="gallery--list">
+  <section class="gallery--list">
 
-          <a href="{{ product.url }}" title="{{ product.name }}" class="gallery--link">
-            {% include img.html src=product.featured_image width=200 height=200 fit=crop alt=product.name %}
-            <h4 class="cover--title mb0">{{ product.name }}</h4>
-          </a>
-            
-        </section>
-      
+      {% for product in site.products %}
+
+      <div class="gallery--box">
+
+        <a href="{{ product.url }}" title="{{ product.name }}" class="gallery--link">
+          {% include img.html src=product.featured_image width=200 height=200 fit=crop alt=product.name %}
+          <h4 class="cover--title mb0">{{ product.name }}</h4>
+        </a>
+
+      </div>
     {% endfor %}
+  </section>
+      
+    
 </div>

@@ -32,7 +32,6 @@ description: "Kate Hipkiss Eye Gallery site"
 baseurl: ""
 # the base hostname & protocol for your site
 url: "https://www.katehipkiss.co.uk"
-asset_url: "/assets/"
 
 logo: "/assets/logo.png"
 show_logo: false
