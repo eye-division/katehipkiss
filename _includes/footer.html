@@ -36,11 +36,4 @@
 {% if site.recaptcha_site_key and jekyll.environment == 'production' %}
 <script src="//www.google.com/recaptcha/api.js" async defer></script>
 {% endif %}
-<script defer src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.1.0/jquery.fitvids.min.js"></script>
-<script src="/js/jquery.flexslider-min.js" defer></script>
-<script src="//cdn.jsdelivr.net/npm/lightbox2@2.10.0/dist/js/lightbox.min.js" defer></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
 <script src="/js/main.js"></script>
-{% if site.disqus_shortname %}
-<script id="dsq-count-scr" src="//{{ site.disqus_shortname }}.disqus.com/count.js" async></script>
-{% endif %}
