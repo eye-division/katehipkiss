@@ -7,8 +7,10 @@ layout: default
 	{% if page.main_image_path %}
 		<figure>
 		{% assign alt_text = page.title %}
-		{% if page.image_caption %} {% assign alt_text = page.image_caption %} {% endif %}
-		{% include img.html src=page.main_image_path alt=alt_text fit=clip max-h=600 %}
+		{% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
+
+		<img src="{{site.imagecdn[jekyll.environment]}}{{page.main_image_path}}?fit=clip&h=600&auto=compress,format" alt="{{alt_text}}" {% unless site.imagecdn[jekyll.environment] %}height="600" {% endunless %}>
+
 		<figcaption>{{ alt_text }}</figcaption>
 		</figure>
 	{% endif %}
