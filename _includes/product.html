@@ -1,5 +1,19 @@
 <div class="columns is-multiline">
 
+    <div class="product__information column is-one-third-tablet">
+
+
+        <header>
+            <h1 class="is-size-3">{{ page.name }}</h1>
+        </header>
+      
+       <p class="product__description">{{ page.content }}</p>
+
+       <!-- include button -->
+       {% include product-definition.html %}
+
+    </div>
+
     <div class="mt1 column is-two-thirds-tablet">
 
         {% if page.featured_image %}
@@ -34,15 +48,6 @@
             {% endfor %}
     
           </section>
-    </div>
-
-    <div class="product__information column is-one-third-tablet">
-        {% assign name = page.name %}
-       <p class="product__description">{{ page.content }}</p>
-
-       <!-- include button -->
-       {% include product-definition.html %}
-
     </div>
 
 </div>

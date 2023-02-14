@@ -1,0 +1,56 @@
+---
+layout: page
+title: "Collections"
+permalink: /collections/
+main_image_path:
+main_image_caption:
+frontpage: false
+homepage_description_markdown:
+frontpagetitle:
+_options:
+  layout:
+    hidden: true
+  permalink:
+    hidden: true
+  image_path:
+    uploads_dir: "assets/images/:year"
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg,image/png,image/gif
+  main_image_path:
+    uploads_dir: "assets/images/:year"
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg,image/png,image/gif
+  content:
+    uploads_dir: "assets/:year"
+_comments:
+  title: Gallery title
+  main_image_path: Image used to represent your gallery
+  frontpage: Show this gallery on the homepag
+  frontpagetitle: Title for homepage display
+  homepage_description_markdown: Text used on homepage if shown
+---
+
+<div class="editable">
+<p class="intro"></p>
+
+</div>
+
+<div class="gallery">
+
+{% for collection in site.collections %}
+
+  {% if collection.label != 'posts' %}
+      
+    <a href="{{ collection.url }}"><h2>{{ collection.realname }}</h2></a>
+
+  {% endif %}
+
+{% endfor %}
+
+      
+    
+</div>

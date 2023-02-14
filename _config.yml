@@ -62,12 +62,21 @@ imagecdn:
 
 # Collections Example
 collections:
-    products:
-      output: true
+
     gallery:
-      output: true
+      output: false
       permalink: /gallery/:path/
       #_hide_content: true
+    layeredpapercuts:
+      output: true
+      #permalink: /layeredpapercuts/:path/
+      realname: 'Layered Papercuts'
+      url: /layeredpapercuts/
+    alteredmaps:
+      output: true
+      #permalink: /:name
+      realname: 'Altered Maps'
+      url: /alteredmaps/
 
 
 # Defaults Example
@@ -81,7 +90,13 @@ defaults:
     -
       scope:
           path: ""
-          type: "products"
+          type: "alteredmaps"
+      values:
+          layout: "product"
+    -
+      scope:
+          path: ""
+          type: "layeredpapercuts"
       values:
           layout: "product"
 
