@@ -57,6 +57,7 @@ paginate_path: "/blog/page:num"
 # Image CDN
 imagecdn:
   staging: "https://ed-katehipkiss-dev.imgix.net"
+  test: "https://ed-katehipkiss-test.imgix.net"
   production: "https://ed-katehipkiss.imgix.net"
 
 # Collections Example
