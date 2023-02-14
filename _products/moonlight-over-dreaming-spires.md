@@ -11,5 +11,8 @@ images:
   - image_path: /assets/moonlight-over-dreaming-spires-side-view.jpg
     image_title: detail
     image_description:
+  - image_path: /assets/asset-1-2x-80.jpg
+    image_title: Test
+    image_description:
 ---
 Handcut, layered paper<br>12 x 15cm image size<br>21 x 29cm framed size<br>White frame and black mount
