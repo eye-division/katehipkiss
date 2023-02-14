@@ -17,14 +17,15 @@
     <div class="mt1 column is-two-thirds-tablet">
 
         {% if page.featured_image %}
-            
-            <figure class="zoom" id="zoom" style="background-image: url( {{ page.featured_image }} )">
+            <div class="block mx-5 p-5">
+                
+                <figure class="zoom" id="zoom" style="background-image: url( {{ page.featured_image }} )">
 
-                {% include img.html src=page.featured_image width=400 height=400 fit=crop id="featured" alt=page.name %}
+                    {% include img.html src=page.featured_image width=400 height=400 fit=crop id="featured" alt=page.name %}
+                
+                </figure>
               
-            </figure>
-              
-
+            </div>
         {% endif %}
         
         <section class="columns">

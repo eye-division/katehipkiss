@@ -4,18 +4,18 @@ layout: default
 <div class="page">
 
 	{% if page.main_image_path %}
-		<figure>
-		{% assign alt_text = page.title %}
-		{% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
-		
-		{% if site.imagecdn[jekyll.environment]%}
-			<img src="{{site.imagecdn[jekyll.environment]}}{{page.main_image_path}}?fit=clip&h=600&auto=compress,format" alt="{{alt_text}}" />
-		{% else %}
-			<img src="{{page.main_image_path}}" alt="{{alt_text}}" height="600" />
-		{% endif %}
-		
 
-		<figcaption>{{ alt_text }}</figcaption>
+		<figure class="has-text-centered">
+			{% assign alt_text = page.title %}
+			{% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
+			
+			{% if site.imagecdn[jekyll.environment]%}
+				<img src="{{site.imagecdn[jekyll.environment]}}{{page.main_image_path}}?fit=clip&h=600&auto=compress,format" alt="{{alt_text}}" />
+			{% else %}
+				<img src="{{page.main_image_path}}" alt="{{alt_text}}" height="600" />
+			{% endif %}
+			
+			<figcaption>{{ alt_text }}</figcaption>
 		</figure>
 	{% endif %}
 
