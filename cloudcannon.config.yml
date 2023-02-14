@@ -1,2 +1,2 @@
 paths:
-    uploads: "assets"
+    uploads: "assets/images/{date|year}"
