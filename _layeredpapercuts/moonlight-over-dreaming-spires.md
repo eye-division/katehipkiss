@@ -15,4 +15,4 @@ images:
     image_title: Test
     image_description:
 ---
-Handcut, layered paper<br>12 x 15cm image size<br>21 x 29cm framed size<br>White frame and black mount
+Handcut, layered paper<br>12 x 15cm image size<br>21 x 29cm framed size<br>Black frame and white mount
