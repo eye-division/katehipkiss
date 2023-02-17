@@ -15,4 +15,4 @@ images:
     image_title:
     image_description:
 ---
-Handcut, layered paper<br>12 x 15cm image size21 x 29cm framed sizeWhite frame and black mount
+Handcut, layered paper<br>9 x 9cm image size<br>23 x 23cm framed size<br>White frame and white mount
