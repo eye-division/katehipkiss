@@ -1,12 +1,12 @@
 ---
-identifier: Towards-the-White-Horse
-name: Towards the White Horse
+identifier: Towards-the-White-Cliffs
+name: Towards the White Cliffs
 price: 425
 featured_image: /assets/images/kate-hipkiss-white-cliffs-ws.jpg
-featured_image_title: Towards the White Horse
+featured_image_title: Towards the White Cliffs
 images:
   - image_path: /assets/images/kate-hipkiss-white-cliffs-ws-1.jpg
-    image_title: Towards the White Horse
+    image_title: Towards the White Cliffs
     image_description:
   - image_path: /assets/images/kate-hipkiss-white-cliffs-framed-ws.jpg
     image_title: ''
