@@ -2,16 +2,16 @@
 identifier: Bothy
 name: Bothy
 price: 215
-featured_image: /assets/images/bothy.jpg
+featured_image: /assets/images/2023/kate-hipkiss-bothy-ws.jpg
 featured_image_title: Bothy
 images:
-  - image_path: /assets/images/bothy-1.jpg
+  - image_path: /assets/images/2023/kate-hipkiss-bothy-ws-1.jpg
     image_title: Bothy
     image_description:
-  - image_path: /assets/images/bothy-framed.jpg
+  - image_path: /assets/images/2023/kate-hipkiss-bothy-framed.jpg
     image_title: ''
     image_description:
-  - image_path: /assets/images/bothy-framed-side-view.jpg
+  - image_path: /assets/images/2023/kate-hipkiss-bothy-framed-side-view.jpg
     image_title:
     image_description:
 ---
