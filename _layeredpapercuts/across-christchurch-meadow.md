@@ -16,6 +16,14 @@ images:
     image_title:
     image_description:
 ---
-Handcut, layered paper<br><br>14 x 14cm image size<br>28 x 28cm framed size<br><br>White frame and white mount
+##### £450.00<br>
 
-£450.00
+12 layers of handcut, layered paper<br><br>A view from Christ Church Meadow in Oxford with the tops of the Radcliffe Camera, St Mary's Church and&nbsp; Merton College seen over the tree tops.
+
+##### Size
+
+28 x 28cm framed size<br>14 x 14cm image size<br><br>White frame and white mount
+
+###### Shipping
+
+Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
