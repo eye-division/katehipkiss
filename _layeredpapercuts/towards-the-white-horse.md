@@ -16,7 +16,7 @@ images:
     image_title:
     image_description:
 ---
-#### £425
+£425
 
 Handcut, layered paper<br><br>**Size**<br>27 x 32cm framed size
 
