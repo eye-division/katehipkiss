@@ -2,23 +2,23 @@
 identifier: moonlight-over-dreaming-spires
 name: Moonlight Over Dreaming Spires
 price: 295
-featured_image: /assets/moonlight-over-dreaming-spires-sml.jpg
+featured_image: /assets/images/2023/moonlight-over-dreaming-spires-ws.jpg
 featured_image_title: Moonlight Over Dreaming Spires
 images:
-  - image_path: /assets/moonlight-over-dreaming-spires-sml.jpg
+  - image_path: /assets/images/2023/moonlight-over-dreaming-spires-ws-1.jpg
     image_title: Moonlight Over Dreaming Spires
     image_description:
-  - image_path: /assets/moonlight-over-dreaming-spires-side-view.jpg
-    image_title: detail
+  - image_path: /assets/images/2023/moonlight-over-dreaming-spires-framed-ws.jpg
+    image_title: ''
     image_description:
-  - image_path: /assets/asset-1-2x-80.jpg
-    image_title: Test
+  - image_path: /assets/images/2023/moonlight-over-dreaming-spires-framed-side-view-ws.jpg
+    image_title: ''
     image_description:
 ---
-#### £295.00<br>
+#### £295.00
 
 Handcut, layered paper
 
-#### Size<br>
+#### Size
 
 12 x 15cm image size<br>21 x 29cm framed size<br><br>Black frame and white mount
