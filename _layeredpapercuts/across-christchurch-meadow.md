@@ -16,7 +16,7 @@ images:
     image_title:
     image_description:
 ---
-##### £450.00<br>
+##### £450.00
 
 12 layers of handcut, layered paper<br><br>A view from Christ Church Meadow in Oxford with the tops of the Radcliffe Camera, St Mary's Church and&nbsp; Merton College seen over the tree tops.
 
