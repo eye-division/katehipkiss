@@ -15,6 +15,8 @@ images:
     image_title:
     image_description:
 ---
-Handcut, layered paper<br><br>9 x 9cm image size<br>23 x 23cm framed size<br>White frame and white mount
+**£215.00**
 
-£215.00
+Handcut, layered paper<br><br>**Size**<br>23 x 23cm framed size<br><br>White frame and white mount
+
+**Postage**<br>Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
