@@ -8,13 +8,6 @@ images:
   - image_path: /assets/images/waxing-and-waning-ii-ws.jpg
     image_title: Waxing and Waning
     image_description:
-  - image_path: /assets/images/2023/kate-hipkiss-across-christchurch-meadow-framed-ws.jpg
-    image_title: ''
-    image_description:
-  - image_path: >-
-      /assets/images/2023/kate-hipkiss-across-christchurch-meadow-framed-side-view-ws.jpg
-    image_title:
-    image_description:
 ---
 **£695.00**
 
