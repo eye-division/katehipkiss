@@ -1,5 +1,5 @@
 ---
-identifier: moonlight-over-dreaming-spires
+identifier: Moonlight-Over-Dreaming-Spires
 name: Moonlight Over Dreaming Spires
 price: 295
 featured_image: /assets/images/2023/moonlight-over-dreaming-spires-ws.jpg
