@@ -15,3 +15,12 @@ images:
     image_title:
     image_description:
 ---
+**£275**
+
+Handcut, layered paper
+
+**Size**<br>26 x 21cm framed size
+
+Black frame with a white mount
+
+<br>**Postage**<br>Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
