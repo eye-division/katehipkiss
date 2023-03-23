@@ -40,22 +40,22 @@ _comments:
 </div>
 
 <div class="gallery">
+
   <section class="gallery--list">
+
     {% for collection in site.collections %}
 
       {% if collection.label != 'posts' %}
         <div class="gallery--box">  
           
-          <a href="{{ collection.url }}"><h2>{{ collection.realname }}</h2></a>
+          <a href="{{ collection.url }}" title="{{ collection.realname }}" class="gallery--link">{% include img.html src=collection_image width=200 height=200 fit=crop alt=collection.realname %} <h4 class="cover--title mb0">{{ collection.realname }}</h4></a>
 
         </div>
     
       {% endif %}
   
     {% endfor %}
+
   </section>
-
-
-      
     
 </div>

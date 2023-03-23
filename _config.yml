@@ -66,18 +66,6 @@ collections:
     gallery:
       output: false
       permalink: /gallery/:path/
-      #_hide_content: true
-    layeredpapercuts:
-      output: true
-      #permalink: /layeredpapercuts/:path/
-      realname: 'Layered Papercuts'
-      
-    alteredbooks:
-      output: true
-      #permalink: /:name
-      realname: 'Altered Books'
-      
-      
 
 
 # Defaults Example

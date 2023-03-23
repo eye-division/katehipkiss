@@ -4,9 +4,12 @@ paths:
 collections_config:
     layeredpapercuts:
         name: Layered Papercuts
+        output: true
         description: Collection of layered papercuts
-        url: /layeredpapercuts/
+        path: /layeredpapercuts/ 
         icon: image
+        realname: 'Layered Papercuts'
+        collection_image: /assets/stag.jpg
         schemas:
             default:
                 path: schemas/product.md
@@ -23,10 +26,12 @@ collections_config:
                 comment: Add different views of your picture
     alteredbooks:
         name: Altered Books
+        output: true
         description: Collection of altered books
-        url: /alteredbooks/
+        path: /alteredbooks/
         icon: image
-        collection_image: 
+        realname: 'Altered Books'
+        collection_image: /assets/breathe.jpg
         schemas:
             default:
                 path: schemas/product.md
