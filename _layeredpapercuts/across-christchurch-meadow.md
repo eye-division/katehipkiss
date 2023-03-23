@@ -1,9 +1,10 @@
 ---
-identifier: Across-Christchurch-Meadow
+identifier: across-christchurch-meadow
 name: Across Christchurch Meadow
 price: 450
 featured_image: /assets/images/2023/sml-across-christchurch-meadow.jpg
 featured_image_title: Across Christchurch Meadow
+button_text: Across Christchurch Meadow
 images:
   - image_path: /assets/images/2023/sml-across-christchurch-meadow-1.jpg
     image_title: Across Christchurch Meadow
@@ -15,6 +16,9 @@ images:
       /assets/images/2023/kate-hipkiss-across-christchurch-meadow-framed-side-view-ws.jpg
     image_title:
     image_description:
+_inputs:
+  identifier:
+    comment: lowercase letters and hyphens only, no spaces
 ---
 ##### £450.00
 
