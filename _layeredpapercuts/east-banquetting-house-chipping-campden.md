@@ -1,9 +1,9 @@
 ---
-identifier: East-Banquetting-House-Chipping-Campden
-name: East Banquetting House, Chipping Campden
+identifier: East-Banqueting-House-Chipping-Campden
+name: East Banqueting House, Chipping Campden
 price: 0
 featured_image: /assets/images/east-banqueting-house-chipping-campden-ws.jpg
-featured_image_title: East Banquetting House, Chipping Campden
+featured_image_title: East Banqueting House, Chipping Campden
 images:
   - image_path: /assets/images/east-banqueting-house-chipping-campden-ws-1.jpg
     image_title: East Banquetting House, Chipping Campden
