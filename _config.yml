@@ -63,10 +63,6 @@ imagecdn:
 # Collections Example
 collections:
 
-    gallery:
-      output: false
-      permalink: /gallery/:path/
-      #_hide_content: true
     layeredpapercuts:
       output: true
       #permalink: /layeredpapercuts/:path/
@@ -83,12 +79,7 @@ collections:
 
 # Defaults Example
 defaults:
-    -
-      scope:
-          path: ""
-          type: "gallery"
-      values:
-          layout: "gallery"
+
     -
       scope:
           path: ""

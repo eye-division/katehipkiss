@@ -9,8 +9,11 @@
       
        <p class="product__description">{{ page.content }}</p>
 
-       <!-- include button -->
-       {% include product-definition.html %}
+       {% if page.price and page.price != 0 %}
+
+            {% include product-definition.html %}
+
+       {% endif %}
 
     </div>
 
