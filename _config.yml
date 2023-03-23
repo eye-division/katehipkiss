@@ -71,12 +71,13 @@ collections:
       output: true
       #permalink: /layeredpapercuts/:path/
       realname: 'Layered Papercuts'
-      url: /layeredpapercuts/
+      
     alteredbooks:
       output: true
       #permalink: /:name
       realname: 'Altered Books'
-      url: /alteredbooks/
+      
+      
 
 
 # Defaults Example

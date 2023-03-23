@@ -5,6 +5,8 @@ collections_config:
     layeredpapercuts:
         name: Layered Papercuts
         description: Collection of layered papercuts
+        url: /layeredpapercuts/
+        icon: image
         schemas:
             default:
                 path: schemas/product.md
@@ -22,8 +24,20 @@ collections_config:
     alteredbooks:
         name: Altered Books
         description: Collection of altered books
+        url: /alteredbooks/
+        icon: image
+        collection_image: 
         schemas:
             default:
                 path: schemas/product.md
         add_options:
             - name: Add Altered Book
+        _inputs:
+            identifier:
+                comment: A unique identifier for Snipcart. Lowercase letters, digits and hyphens only, no spaces
+            price:
+                comment: Digits only
+            button_text:
+                comment: Optional text to add to the buy button
+            images:
+                comment: Add different views of your picture
