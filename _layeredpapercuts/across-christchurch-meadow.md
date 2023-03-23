@@ -4,7 +4,6 @@ name: Across Christchurch Meadow
 price: 450
 featured_image: /assets/images/2023/sml-across-christchurch-meadow.jpg
 featured_image_title: Across Christchurch Meadow
-button_text: Across Christchurch Meadow
 images:
   - image_path: /assets/images/2023/sml-across-christchurch-meadow-1.jpg
     image_title: Across Christchurch Meadow
@@ -21,10 +20,10 @@ images:
 
 12 layers of handcut, layered paper<br><br>A view from Christ Church Meadow in Oxford with the tops of the Radcliffe Camera, St Mary's Church and&nbsp; Merton College seen over the tree tops.
 
-##### Size
+#### Size
 
 28 x 28cm framed size<br>14 x 14cm image size<br><br>White frame and white mount
 
-###### Shipping
+#### Shipping
 
 Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
