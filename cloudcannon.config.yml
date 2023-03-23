@@ -6,7 +6,6 @@ collections_config:
         name: Layered Papercuts
         output: true
         description: Collection of layered papercuts
-        path: /layeredpapercuts/ 
         icon: image
         realname: 'Layered Papercuts'
         collection_image: /assets/stag.jpg
@@ -28,7 +27,6 @@ collections_config:
         name: Altered Books
         output: true
         description: Collection of altered books
-        path: /alteredbooks/
         icon: image
         realname: 'Altered Books'
         collection_image: /assets/breathe.jpg
