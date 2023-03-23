@@ -72,13 +72,14 @@ collections:
       #permalink: /layeredpapercuts/:path/
       realname: 'Layered Papercuts'
       url: /layeredpapercuts/
+      collection_image: /assets/images/stag.jpg
     alteredbooks:
       output: true
       #permalink: /:name
       realname: 'Altered Books'
       url: /alteredbooks/
+      collection_image: /assets/images/breathe.jpg
       
-
 
 # Defaults Example
 defaults:
