@@ -16,9 +16,6 @@ images:
       /assets/images/2023/kate-hipkiss-across-christchurch-meadow-framed-side-view-ws.jpg
     image_title:
     image_description:
-_inputs:
-  identifier:
-    comment: lowercase letters and hyphens only, no spaces
 ---
 ##### £450.00
 

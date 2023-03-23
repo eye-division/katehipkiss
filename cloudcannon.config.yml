@@ -1,2 +1,23 @@
 paths:
     uploads: "assets/images/{date|year}"
+
+collections_config:
+    layeredpapercuts:
+        name: Layered Papercuts
+        description: Collection of layered papercuts
+        add_options:
+            - name: Add Layered Papercut
+        _inputs:
+            identifier:
+                comment: A unique identifier for Snipcart. Lowercase letters, digits and hyphens only, no spaces
+            price:
+                comment: Digits only
+            button_text:
+                comment: Optional text to add to the buy button
+            images:
+                comment: Add different views of your picture
+    alteredmaps:
+        name: Altered Maps
+        description: Collection of altered maps
+        add_options:
+            - name: Add Altered Map
