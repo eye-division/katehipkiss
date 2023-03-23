@@ -17,7 +17,7 @@
 
     </div>
 
-    <div class="mt1 column is-two-thirds-tablet">
+    <div class="mt1 column pb-6 is-two-thirds-tablet">
 
         {% if page.featured_image %}
             <div class="block mx-5 p-5">
@@ -31,11 +31,11 @@
             </div>
         {% endif %}
         
-        <section class="columns">
+        <section class="columns is-multiline is-mobile is-vcentered">
 
             {% for thisimage in page.images %}
       
-                <div class="column">
+                <div class="column is-half-mobile  is-centered">
       
                     <figure class="image is-128x128">
                            
