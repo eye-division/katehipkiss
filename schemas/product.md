@@ -1,5 +1,4 @@
 ---
-layout: "product"
 identifier: 
 name: 
 price: 
