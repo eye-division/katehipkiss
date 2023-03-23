@@ -5,6 +5,9 @@ collections_config:
     layeredpapercuts:
         name: Layered Papercuts
         description: Collection of layered papercuts
+        schemas:
+            default:
+                path: schemas/product.md
         add_options:
             - name: Add Layered Papercut
         _inputs:
@@ -16,8 +19,11 @@ collections_config:
                 comment: Optional text to add to the buy button
             images:
                 comment: Add different views of your picture
-    alteredmaps:
-        name: Altered Maps
-        description: Collection of altered maps
+    alteredbooks:
+        name: Altered Books
+        description: Collection of altered books
+        schemas:
+            default:
+                path: schemas/product.md
         add_options:
-            - name: Add Altered Map
+            - name: Add Altered Book

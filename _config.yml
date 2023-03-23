@@ -72,11 +72,11 @@ collections:
       #permalink: /layeredpapercuts/:path/
       realname: 'Layered Papercuts'
       url: /layeredpapercuts/
-    alteredmaps:
+    alteredbooks:
       output: true
       #permalink: /:name
-      realname: 'Altered Maps'
-      url: /alteredmaps/
+      realname: 'Altered Books'
+      url: /alteredbooks/
 
 
 # Defaults Example
@@ -90,7 +90,7 @@ defaults:
     -
       scope:
           path: ""
-          type: "alteredmaps"
+          type: "alteredbooks"
       values:
           layout: "product"
     -
