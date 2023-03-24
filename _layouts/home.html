@@ -10,8 +10,9 @@ layout: default
 			{% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
 			
 			{% if site.imagecdn[jekyll.environment]%}
+				<img src="{{ page.main_image_path  | imgix_url: fit: clip, h: 400 }}" class="lazyload"  alt="{{alt_text}}">
 				
-				<img src="{{site.imagecdn[jekyll.environment]}}{{page.main_image_path}}?fit=clip&h=400&auto=compress,format" alt="{{alt_text}}" class="lazyload" />
+
 			{% else %}
 				<img src="{{page.main_image_path}}" alt="{{alt_text}}" height="400" class="lazyload" />
 			{% endif %}

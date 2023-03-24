@@ -5,7 +5,7 @@ plugins:
   - jekyll-seo-tag
   - kramdown-parser-gfm
   - jekyll-redirect-from
-
+  - jekyll/imgix
 exclude: 
   - Gemfile
   - clean-theme.gemspec
@@ -59,6 +59,10 @@ imagecdn:
   staging: "https://ed-katehipkiss-dev.imgix.net"
   test: "https://ed-katehipkiss-test.imgix.net"
   production: "https://ed-katehipkiss.imgix.net"
+
+imgix:
+  source: ed-katehipkiss.imgix.net # imgix source address
+  #secure_url_token:  # (optional) The Secure URL Token associated with your source
 
 # Collections Example
 collections:
