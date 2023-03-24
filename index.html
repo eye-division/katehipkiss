@@ -45,7 +45,18 @@ _comments:
         <div class="gallery--box">  
           
           <a href="{{ collection.url }}" title="{{ collection.realname }}" class="gallery--link">
-            {% include img.html src=collection.collection_image width=200 height=200 fit=crop alt=collection.realname %} 
+            
+            
+            {% if site.imagecdn[jekyll.environment]%}
+              <img src="{{ collection.collection_image | imgix_url: fit: crop, h: 200, w: 200 }}" class="lazyload"  alt="{{ collection.realname }}">
+              
+
+            {% else %}
+
+              <img src="{{ collection.collection_image }}" alt="{{ collection.realname }}" height="200" width="200" class="lazyload" />
+
+            {% endif %}
+
             <h4 class="cover--title mb0">{{ collection.realname }}</h4>
           </a>
 
