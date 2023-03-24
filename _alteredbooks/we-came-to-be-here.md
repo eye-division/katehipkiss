@@ -11,10 +11,10 @@ images:
     image_title: We Came to be Here
     image_description:
   - image_path: /assets/images/we-came-to-be-here-detail-ws.jpg
-    image_title: ''
+    image_title: 'We Came to be Here'
     image_description:
   - image_path: /assets/images/kate-hipkiss-we-came-to-be-here-in-case-ws.jpg
-    image_title: ''
+    image_title: 'We Came to be Here'
     image_description:
 ---
 ‘We Came to be Here’ reflects upon early human migration across the globe from Africa (the central globe) and our need as humans to push outwards; to grow, multiply and control, and the impact of this behaviour on the planet.
