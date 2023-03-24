@@ -23,4 +23,8 @@ images:
 
 In this work 12 globes nestle one inside another; too dense to see through to the middle and too closely packed to move. Glimpses of text are like vestiges of place and memory.
 
-Globe size: 11cm<br><br>Shipping<br><br>Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
+Globe size: 11cm
+
+#### Shipping
+
+Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
