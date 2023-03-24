@@ -50,7 +50,17 @@ _comments:
       <div class="gallery--box">
 
         <a href="{{ product.url }}" title="{{ product.name }}" class="gallery--link">
-          {% include img.html src=product.featured_image width=200 height=200 fit=crop alt=product.name %}
+
+          {% if site.imagecdn[jekyll.environment]%}
+              
+            <img src="{{ product.featured_image | imgix_url: fit: crop, h: 200, w: 200 }}" class="lazyload"  alt="{{ product.name }}">
+            
+          {% else %}
+
+            <img src="{{ product.featured_image }}" alt="{{ product.name }}" height="200" width="200" class="lazyload" />
+
+          {% endif %}
+
           <h4 class="cover--title mb0">{{ product.name }}</h4>
         </a>
 
