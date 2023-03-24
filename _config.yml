@@ -61,7 +61,7 @@ imagecdn:
   production: "https://ed-katehipkiss.imgix.net"
 
 imgix:
-  source: ed-katehipkiss.imgix.net # imgix source address
+  source: ed-katehipkiss-test.imgix.net # imgix source address
   #secure_url_token:  # (optional) The Secure URL Token associated with your source
 
 # Collections Example
