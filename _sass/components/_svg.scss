@@ -1,6 +1,6 @@
-
-/// SVG icons
+// SVG icons
 .icon {
+    fill: lighten($base-font-color,40%);
     display: inline-block;
     width: 30px;
     height: 30px;
@@ -16,7 +16,7 @@ a:active .icon { /// hover colour
     height: 20px;
 }
 .icon--post {
-    fill: $action-color;
+    fill: $navigation-color;
 }
 .icon--inactive {
     fill: $medium-gray;

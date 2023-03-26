@@ -1,6 +1,6 @@
 <div class="columns is-mobile is-multiline product__columns">
 
-    <div class="product__information column is-one-third-tablet">
+    <div class="product__information column is-one-third-tablet has-text-centered-mobile">
 
 
         <header>
@@ -15,23 +15,23 @@
 
        {% endif %}
 
-    </div>
+    </div><!-- end info column -->
 
     <div class="mt1 column pb-6 is-two-thirds-tablet">
 
         {% if page.featured_image %}
 
-            <div class="block mx-5 p-5">
+            <div class="block">
                 
                 <figure class="zoom" id="zoom" style="background-image: url( {{ page.featured_image }} )">
 
                     {% if site.imagecdn[jekyll.environment]%}
               
-                        <img src="{{ page.featured_image | imgix_url: fit: crop, h: 400, w: 400 }}" class="lazyload"  alt="{{ page.name }}" id="featured">
+                        <img src="{{ page.featured_image | imgix_url: fit: crop, h: 400, w: 400 }}" class="lazyload product__image" alt="{{ page.name }}" id="featured">
                         
                     {% else %}
 
-                        <img src="{{ page.featured_image }}" alt="{{ page.name }}" height="400" width="400" class="lazyload" id="featured">
+                        <img src="{{ page.featured_image }}" alt="{{ page.name }}" height="400" width="400" class="lazyload product__image" id="featured">
 
                     {% endif %}
 
@@ -78,18 +78,28 @@
                         
                     </figure>
       
-                </div>
+                </div> <!-- end column -->
       
             {% endfor %}
     
             
           </section>
-          <div class="has-text-centered mt-6">
-
-                <p><a href="../" class="button is-dark is-rounded">Return to category</a></p>
-
-            </div>
-    </div>
+          
+    </div> <!-- end image column -->
 
 </div>
 
+<div class="columns is-mobile is-multiline product__columns">
+    <div class="column is-one-third-tablet">
+    </div>
+
+    <div class="mt1 column pb-6 is-two-thirds-tablet">
+
+        <div class="has-text-centered mt-6">
+
+            <p><a href="../" class="button is-dark is-rounded">Return to category</a></p>
+        
+        </div>
+        
+    </div>
+</div>
