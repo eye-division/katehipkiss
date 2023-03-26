@@ -2,7 +2,7 @@
 _schema: default
 identifier: Breathe
 name: Breathe
-price: 2,500.00
+price: '2500'
 featured_image: /assets/images/breathe-ws.jpg
 featured_image_title: Breathe
 button_text:
