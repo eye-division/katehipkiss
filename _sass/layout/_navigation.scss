@@ -90,11 +90,11 @@ nav {
         color: $navigation-color;
         display: inline-block;
         @include grid-media ($small) {
-            padding-right: 1.5em;
+            padding: 0 0.5em;
         }
         &:hover {
+            border-bottom: 1px solid $medium-gray;
             color: $navigation-color-hover;
-            text-decoration: none;
         }
     }
 
@@ -103,9 +103,10 @@ nav {
             padding-right: 1em;
         }
     }
-    &.active a {
+    &.active {
         a {
-            color: $action-hover-color
+            color: $action-hover-color;
+            border-bottom: 1px solid $medium-gray;
         }
     }
 }

@@ -27,7 +27,7 @@
         {% for link in site.data.nav %}
 
           {% unless link.href == "/" and page.url == "/" %}
-            <li class="nav--link{% if page.url == link.href %} active{% endif %}">
+            <li class="nav--link{% unless link.title == "Home" %}{% if page.url contains link.href %} active{% endif %}{% endunless %}">
               <a href="{{ link.href | prepend: site.baseurl }}"  class="">{{ link.title }}</a>
             </li>
           {% endunless %}

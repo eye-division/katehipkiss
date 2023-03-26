@@ -6,7 +6,7 @@
     <ul class="menu-list">
         {% for item in menu.items %}
         <li>
-            <a href="{{ item.link | relative_url }}" class="{% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
+            <a href="{{ item.link | relative_url }}" class="{% if page.url contains link.href %}is-active{% endif %}">{{ item.name }}</a>
             {% if item.items %}
             <ul>
                 {% for subitem in item.items %}
@@ -19,3 +19,5 @@
     </ul>
 {% endfor %}
 </aside>
+
+
