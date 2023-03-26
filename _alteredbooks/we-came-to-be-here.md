@@ -23,7 +23,7 @@ In this work 12 globes nestle one inside another; too dense to see through to th
 
 #### Size
 
-11cm diametre
+11cm diameter
 
 #### Shipping
 
