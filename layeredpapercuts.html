@@ -52,7 +52,7 @@ _comments:
         <a href="{{ product.url }}" title="{{ product.name }}" class="gallery--link">
           {% if site.imagecdn[jekyll.environment]%}
               
-            <img src="{{ product.featured_image | imgix_url: fit: crop, h: 200, w: 200 }}" class="lazyload"  alt="{{ product.name }}">
+            <img src="{{ product.featured_image | imgix_url: fit: crop, h: 200, w: 200, auto: format }}" class="lazyload"  alt="{{ product.name }}">
             
           {% else %}
 

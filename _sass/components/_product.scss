@@ -2,7 +2,12 @@
 // This file contains styles that are specific to shopping and PayPal
 // -----------------------------------------------------------------------------
 
-
+.product__columns {
+  flex-direction: column-reverse;
+  @include grid-media ($small) {
+    flex-direction: row;
+  }
+}
 .product-description {
   @include grid-media ($small) {
     width: 400px;
