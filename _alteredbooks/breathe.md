@@ -25,6 +25,4 @@ The work focuses on the 20 countries with the highest CO2 emissions around the w
 
 39(h) x 30(w) x 20(d) cm
 
-#### Shipping
-
-Free packing and postage with the UK mainland.Please contact me before purchase for a quote for shipping outside mainland UK.
+This piece of work has been awarded 3rd prize and is currently being exhibited in the [Viviane Fontaine International Paper Triennale](https://www.musee-charmey.ch/en/international-paper-triennial-2/){: target="_blank" rel="noopener"} in Switzerland. Please contact me for further details.
