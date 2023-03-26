@@ -2,7 +2,7 @@
 _schema: default
 identifier: Breathe
 name: Breathe
-price: '2500'
+price:
 featured_image: /assets/images/breathe-ws.jpg
 featured_image_title: Breathe
 button_text:
@@ -26,3 +26,5 @@ The work focuses on the 20 countries with the highest CO2 emissions around the w
 39(h) x 30(w) x 20(d) cm
 
 This piece of work has been awarded 3rd prize and is currently being exhibited in the [Viviane Fontaine International Paper Triennial](https://www.musee-charmey.ch/en/international-paper-triennial-2/){: target="_blank" rel="noopener"} in Switzerland. Please contact me for further details.
+
+#### £2,500.00
