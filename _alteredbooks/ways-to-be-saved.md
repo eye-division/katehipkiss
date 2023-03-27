@@ -1,6 +1,6 @@
 ---
 _schema: default
-identifier: Wats-To-Be-Saved
+identifier: Ways-To-Be-Saved
 name: Ways To Be Saved
 price:
 featured_image: /assets/images/ways-to-be-saved-ws.jpg
