@@ -1,4 +1,15 @@
 
+.ft-image {
+
+    @include grid-media ($small) { // 488px
+
+    }
+    @include grid-media ($large) { // 960px
+        max-width: 500px;
+        max-height: 500px;
+    }
+}
+
 /// 100% width Gallery blocks
 .gallery--cover {
     margin: 0 auto 2em auto;
