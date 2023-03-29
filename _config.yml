@@ -62,7 +62,7 @@ imagecdn:
 
 imgix:
   source: ed-katehipkiss-test.imgix.net # imgix source address
-  #secure_url_token:  # (optional) The Secure URL Token associated with your source
+  secure_url_token: gBZDC8qqvxGTapUb # (optional) The Secure URL Token associated with your source
 
 # Collections Example
 collections:
