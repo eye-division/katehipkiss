@@ -26,8 +26,13 @@
                 <figure class="zoom" id="zoom" style="background-image: url( {{ page.featured_image }} )">
 
                     {% if site.imagecdn[jekyll.environment]%}
-              
-                        <img src="{{ page.featured_image | imgix_url: fit: crop, h: 800, w: 800 }}" class="lazyload product__image" alt="{{ page.name }}" id="featured">
+
+                        <img srcset="{{ page.featured_image | imgix\_url: w: 800, h: 800 }} 1x,
+                        {{ page.featured_image | imgix\_url: w: 800, h: 800, dpr: 2 }} 2x,
+                        {{ page.featured_image | imgix\_url: w: 800, h: 800, dpr: 3 }} 3x"
+                        src="{{ page.featured_image | imgix\_url: fit: crop, h: 800, w: 800, auto: format }}" sizes="100vw" class="lazyload product__image" alt="{{ page.name }}" id="featured">
+
+                        
                         
                     {% else %}
 
