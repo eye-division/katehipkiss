@@ -33,6 +33,9 @@
           {% endunless %}
 
         {% endfor %}
+
+       
+
         {% if site.show_social_top %}
         {% for social in site.social %}
 
@@ -48,8 +51,10 @@
         {% endfor %}
         {% endif %}
         
+        {% include snipcart-summary.html %}
+        
       </ul>
-      {% include snipcart-summary.html %}
+      
 
     </nav>
   </div>
