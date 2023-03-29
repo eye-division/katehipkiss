@@ -39,7 +39,7 @@
 
               document.getElementById('featured').src = this.src
               let original = document.getElementById('featured').src
-              let result = original.replace(/100/g, 1200)
+              let result = original.replace(/128/g, 1200)
 
               document.getElementById('featured').src = result
               $('#featured').removeAttr('width').removeAttr('height');

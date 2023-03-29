@@ -52,7 +52,7 @@
 
                             {% if site.imagecdn[jekyll.environment]%}
                 
-                                <img src="{{ thisimage.image_path | imgix_url: fit: crop }}" class="lazyload thumbnail active"  alt="{{ thisimage.image_title }}">
+                                <img src="{{ thisimage.image_path | imgix_url: fit: crop, h: 128, w: 128 }}" class="lazyload thumbnail active"  alt="{{ thisimage.image_title }}">
                                 
                             {% else %}
 
@@ -60,12 +60,11 @@
 
                             {% endif %}
 
-
                         {% else %}
 
                             {% if site.imagecdn[jekyll.environment]%}
-                
-                                <img src="{{ thisimage.image_path | imgix_url: fit: crop }}" class="lazyload thumbnail"  alt="{{ thisimage.image_title }}">
+
+                                <img src="{{ thisimage.image_path | imgix_url: fit: crop, h: 128, w: 128 }}" class="lazyload thumbnail"  alt="{{ thisimage.image_title }}">
                                 
                             {% else %}
 
