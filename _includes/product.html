@@ -27,11 +27,11 @@
 
                     {% if site.imagecdn[jekyll.environment]%}
               
-                        <img src="{{ page.featured_image | imgix_url: fit: crop, h: 400, w: 400 }}" class="lazyload product__image" alt="{{ page.name }}" id="featured">
+                        <img src="{{ page.featured_image | imgix_url: fit: crop, h: 800, w: 800 }}" class="lazyload product__image" alt="{{ page.name }}" id="featured">
                         
                     {% else %}
 
-                        <img src="{{ page.featured_image }}" alt="{{ page.name }}" height="400" width="400" class="lazyload product__image" id="featured">
+                        <img src="{{ page.featured_image }}" alt="{{ page.name }}" height="800" width="800" class="lazyload product__image" id="featured">
 
                     {% endif %}
 
