@@ -19,7 +19,7 @@ images:
 ---
 ### **£250.00**
 
-<br>A Scottish Bothy nestled in a valley of heather with snow-covered mountains in the distance.
+<br>A Scottish Bothy nestled next to a stream in a valley of heather with snow-covered mountains in the distance.
 
 Handcut, layered paper
 
