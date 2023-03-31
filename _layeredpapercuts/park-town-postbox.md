@@ -4,7 +4,7 @@ identifier: Park-Town-Postbox
 name: Park Town Postbox
 price: 325
 featured_image: /assets/images/park-town-postbox-ws-1.jpg
-featured_image_title: Across Christchurch Meadow
+featured_image_title: Park Town Postbox
 button_text:
 images:
   - image_path: /assets/images/park-town-postbox-ws-2.jpg
