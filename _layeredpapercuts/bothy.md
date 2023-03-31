@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-### £250.00
+### **£250.00**
 
 <br>A Scottish Bothy nestled next to a stream in a valley of heather with snow-covered mountains in the distance.
 
