@@ -22,6 +22,8 @@ images:
 ---
 ### £295.00
 
+A view across Broad Street in Oxford of Blackwell's book shop with The White Horse pub nestling in the middle.
+
 #### Size
 
 23 x 23cm framed size
