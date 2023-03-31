@@ -20,11 +20,11 @@ images:
     image_title:
     image_description:
 ---
-#### £295.00
+### £295.00
 
 #### Size
 
-23 x 23cm framed size<br>14 x 14cm image size
+23 x 23cm framed size
 
 White frame and white mount
 
