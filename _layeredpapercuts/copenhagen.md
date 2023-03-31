@@ -16,7 +16,7 @@ images:
   - image_path: /assets/images/copenhagen-framed-ws.jpg
     image_title: ''
     image_description:
-  - image_path: /assets/images/copenhagen-side-view-ws-1.jpg
+  - image_path: /assets/images/2023/copenhagen-framed-side-view-ws.jpg
     image_title: ''
     image_description:
 ---
