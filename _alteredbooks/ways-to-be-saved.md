@@ -25,8 +25,6 @@ images:
 ---
 ### **£2,500.00**
 
-####
-
 #### Size
 
 40(w) x 27.5(d) x 14(h)cm<br>50(w) x 37(d) x 21(h)cm (size of case)
