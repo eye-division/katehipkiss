@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-### **£425**
+### **£425.00**
 
 <br>A beautiful view on the walk across the fields from Craster in Northumberland to Dunstanburgh Castle.
 
