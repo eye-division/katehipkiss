@@ -7,7 +7,7 @@ featured_image: /assets/images/kate-hipkiss-amsterdam-ws.jpg
 featured_image_title: Dancing Houses, Amsterdam
 button_text:
 images:
-  - image_path: /assets/images/amsterdam-side-view-ws.jpg
+  - image_path: /assets/images/kate-hipkiss-amsterdam-ws.jpg
     image_title:
     image_description:
   - image_path: /assets/images/amsterdam-side-view-ws-1.jpg
