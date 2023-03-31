@@ -17,16 +17,16 @@ images:
     image_title:
     image_description:
 ---
-### **£275**
+### **£275.00**
 
 A corner of the beautiful Palm House at Kew Gardens with lush layers of tropical plants.
 
 Handcut, layered paper
 
-#### **Size**
+#### Size
 
 26 x 21cm framed size<br>Black frame with a white mount
 
-#### <br>**Shipping**
+#### Shipping
 
 Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
