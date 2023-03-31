@@ -22,7 +22,7 @@ images:
 ---
 ### £295.00
 
-Some of the vibrant houses along the harbour in Copenhagen
+Some of Copenhagen's&nbsp; vibrant houses alongside the harbour.
 
 Handcut, layered paper
 
