@@ -2,7 +2,7 @@
 _schema: default
 identifier: Bothy
 name: Bothy
-price: 215
+price: 250
 featured_image: /assets/images/2023/kate-hipkiss-bothy-ws.jpg
 featured_image_title: Bothy
 button_text:
@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-### **£215.00**
+### **£250.00**
 
 <br>A Scottish Bothy nestled in a valley of heather with snow-covered mountains in the distance.
 
