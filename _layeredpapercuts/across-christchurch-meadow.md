@@ -1,4 +1,5 @@
 ---
+_schema: default
 identifier: across-christchurch-meadow
 name: Across Christchurch Meadow
 price: 450
@@ -17,9 +18,9 @@ images:
     image_title:
     image_description:
 ---
-##### £450.00
+### £450.00
 
-12 layers of handcut, layered paper<br><br>A view from Christ Church Meadow in Oxford with the tops of the Radcliffe Camera, St Mary's Church and&nbsp; Merton College seen over the tree tops.
+12 layers of handcut, layered paper<br><br>A view from Christchurch Meadow in Oxford with the tops of the Radcliffe Camera, St Mary's Church and&nbsp; Merton College visible over the tree tops.
 
 #### Size
 
