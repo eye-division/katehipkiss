@@ -20,6 +20,8 @@ images:
     image_title:
     image_description:
 ---
+#### £295.00
+
 #### Size
 
 23 x 23cm framed size<br>14 x 14cm image size
