@@ -10,6 +10,9 @@ images:
   - image_path: /assets/images/kate-hipkiss-towards-the-white-horse-ws.jpg
     image_title: Towards the White Horse
     image_description:
+  - image_path: /assets/images/2023/kate-hipkiss-towards-the-white-horse-detail-ws.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/kate-hipkiss-towards-the-white-horse-framed-ws.jpg
     image_title: ''
     image_description:
