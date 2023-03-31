@@ -1,7 +1,7 @@
 ---
 _schema: default
 identifier: Palm-House
-name: Palm House
+name: Palm House, Kew Gardens
 price: 950
 featured_image: /assets/images/palm-house-kew-ws.jpg
 featured_image_title: Palm House
