@@ -19,6 +19,8 @@ images:
 ---
 ### **£950.00**
 
+The lush, tropical plants surrounding the beautiful spiral staircase in the Palm House at Kew Gardens.
+
 Handcut, layered paper
 
 #### Size
