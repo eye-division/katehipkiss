@@ -24,10 +24,10 @@ images:
 
 Handcut, layered paper
 
-#### **Size**
+#### Size
 
 21 x 29cm framed size<br>Black frame with a white mount
 
-#### **Shipping**
+#### Shipping
 
 Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
