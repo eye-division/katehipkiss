@@ -10,6 +10,10 @@ images:
   - image_path: /assets/images/2023/sml-across-christchurch-meadow-1.jpg
     image_title: Across Christchurch Meadow
     image_description:
+  - image_path: >-
+      /assets/images/2023/kate-hipkiss-across-christchurch-meadow-side-view-ws.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/2023/kate-hipkiss-across-christchurch-meadow-framed-ws.jpg
     image_title: ''
     image_description:
