@@ -13,7 +13,7 @@ images:
 ---
 ### **£450.00**
 
-This stunning building sits just outside Cotwold&nbsp; town of Chipping Campden is owned by the Landmark Trust.
+This stunning building sits just outside the Cotwold town of Chipping Campden and is owned by the Landmark Trust.
 
 Handcut, layered paper
 
