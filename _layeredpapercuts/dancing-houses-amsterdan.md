@@ -22,8 +22,6 @@ images:
 ---
 ### £295.00
 
-####
-
 Amsterdam's historic 'Dancing Houses' along the canal
 
 Handcut, layered paper
