@@ -1,9 +1,11 @@
 ---
+_schema: default
 identifier: Towards-the-White-Horse
 name: Towards the White Horse
 price: 425
 featured_image: /assets/images/kate-hipkiss-towards-the-white-horse-ws-1.jpg
 featured_image_title: Towards the White Horse
+button_text:
 images:
   - image_path: /assets/images/kate-hipkiss-towards-the-white-horse-ws.jpg
     image_title: Towards the White Horse
@@ -16,10 +18,14 @@ images:
     image_title:
     image_description:
 ---
-**£425**
+### **£425.00**
 
-Handcut, layered paper<br><br>**Size**<br>27 x 32cm framed size
+Handcut, layered paper
 
-White frame and white mount
+#### Size
 
-**Postage**<br>Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
+27 x 32cm framed size<br>White frame and white mount
+
+#### Postage
+
+Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
