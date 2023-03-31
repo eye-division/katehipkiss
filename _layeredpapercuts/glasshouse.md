@@ -1,9 +1,11 @@
 ---
+_schema: default
 identifier: Glasshouse
 name: Glasshouse
 price: 275
 featured_image: /assets/images/kate-hipkiss-glass-house-ws.jpg
 featured_image_title: Glasshouse
+button_text:
 images:
   - image_path: /assets/images/kate-hipkiss-glass-house-ws-1.jpg
     image_title: Glasshouse
@@ -15,12 +17,16 @@ images:
     image_title:
     image_description:
 ---
-**£275**
+### **£275**
+
+A corner of the beautiful Palm House at Kew Gardens with lush layers of tropical plants.
 
 Handcut, layered paper
 
-**Size**<br>26 x 21cm framed size
+#### **Size**
 
-Black frame with a white mount
+26 x 21cm framed size<br>Black frame with a white mount
 
-<br>**Postage**<br>Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
+#### <br>**Shipping**
+
+Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
