@@ -17,6 +17,8 @@ images:
     image_title: Breathe detail
     image_description:
 ---
+### **£2,500.00**
+
 Breathe is one of a series of recent works addressing environmental issues through altered atlases.
 
 The work focuses on the 20 countries with the highest CO2 emissions around the world represented through 20 globes nestling one inside another; too dense to see through to the middle and too closely packed to move. They rest next to the atlas from which they were cut, creating an on-going dialogue and highlighting both loss and transformation.
@@ -26,5 +28,3 @@ The work focuses on the 20 countries with the highest CO2 emissions around the w
 39(h) x 30(w) x 20(d) cm
 
 This piece of work has been awarded 3rd prize, and is currently being exhibited, in the [Viviane Fontaine International Paper Triennial](https://www.musee-charmey.ch/en/international-paper-triennial-2/){: target="_blank" rel="noopener"} in Switzerland. Please contact me for further details.
-
-#### £2,500.00
