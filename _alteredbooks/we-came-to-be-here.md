@@ -17,7 +17,9 @@ images:
     image_title: We Came to be Here
     image_description:
 ---
-‘We Came to be Here’ reflects upon early human migration across the globe from Africa (the central globe) and our need as humans to push outwards; to grow, multiply and control, and the impact of this behaviour on the planet.
+### **£1,250.00**
+
+‘*We Came to be Here*’ reflects upon early human migration across the globe from Africa (the central globe) and our need as humans to push outwards; to grow, multiply and control, and the impact of this behaviour on the planet.
 
 In this work 12 globes nestle one inside another; too dense to see through to the middle and too closely packed to move. Glimpses of text are like vestiges of place and memory.
 
