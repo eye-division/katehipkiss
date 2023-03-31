@@ -24,6 +24,8 @@ images:
 
 A view across Broad Street in Oxford of Blackwell's book shop with The White Horse pub nestling in the middle.
 
+Handcut, layered paper
+
 #### Size
 
 23 x 23cm framed size
