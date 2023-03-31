@@ -2,7 +2,7 @@
 _schema: default
 identifier: Glasshouse
 name: Glasshouse
-price: 275
+price: 295
 featured_image: /assets/images/kate-hipkiss-glass-house-ws.jpg
 featured_image_title: Glasshouse
 button_text:
@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-### **£275.00**
+### **£295.00**
 
 A corner of the beautiful Palm House at Kew Gardens with lush layers of tropical plants.
 
