@@ -20,7 +20,7 @@ images:
     image_title:
     image_description:
 ---
-### £295.00
+### **£295.00**
 
 A view across Broad Street in Oxford of Blackwell's book shop with The White Horse pub nestling in the middle.
 
