@@ -20,9 +20,15 @@ images:
     image_title: ''
     image_description:
 ---
-#### £295.00
+### £295.00
 
-#### <br>Size
+####
+
+Some of the vibrant houses along the harbour in Copenhagen
+
+Handcut, layered paper
+
+#### Size
 
 23 x 23cm framed size<br>White frame and white mount
 
