@@ -23,10 +23,12 @@ images:
     image_title:
     image_description:
 ---
+### **£2,500.00**
+
+####
+
 #### Size
 
 40(w) x 27.5(d) x 14(h)cm<br>50(w) x 37(d) x 21(h)cm (size of case)
 
-This sculpture will be exhibited at Delamore Arts in Devon from 1st - 31st May. Please contact me for further details or see their [on-line catalogue](https://www.delamore-art.co.uk/index.php){: target="_blank" rel="noopener"} which will be available soon.
-
-#### £2,500.00
+This sculpture will be exhibited at Delamore Arts in Devon from 1st - 31st May.<br>Please contact me for further details or see their [on-line catalogue](https://www.delamore-art.co.uk/index.php){: target="_blank" rel="noopener"} which will be available soon.
