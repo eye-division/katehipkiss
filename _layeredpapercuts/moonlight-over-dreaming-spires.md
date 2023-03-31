@@ -10,6 +10,9 @@ images:
   - image_path: /assets/images/2023/moonlight-over-dreaming-spires-ws-1.jpg
     image_title: Moonlight Over Dreaming Spires
     image_description:
+  - image_path: /assets/images/2023/moonlight-over-dreaming-spires-side-view-ws.jpg
+    image_title: ''
+    image_description:
   - image_path: /assets/images/2023/moonlight-over-dreaming-spires-framed-ws-ii.jpg
     image_title: ''
     image_description:
