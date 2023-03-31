@@ -17,16 +17,16 @@ images:
     image_title:
     image_description:
 ---
-### **£250.00**
+### £250.00
 
 <br>A Scottish Bothy nestled next to a stream in a valley of heather with snow-covered mountains in the distance.
 
 Handcut, layered paper
 
-#### **Size**
+#### Size
 
 23 x 23cm framed size<br>White frame and white mount
 
-#### **Postage**
+#### Postage
 
 Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
