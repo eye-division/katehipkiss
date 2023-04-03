@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-### £625.00
+### **£625.00**
 
 A view across the loch of Castle Eilean Donan in the Scottish Highlands. The long panoramic view highlights the dramatic scenery surrounding this iconic building and is perfect for hanging above a fireplace or to simply sit on a shelf.
 
