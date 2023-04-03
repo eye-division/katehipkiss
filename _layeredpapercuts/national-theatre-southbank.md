@@ -1,7 +1,7 @@
 ---
 _schema: default
-identifier: National-Theatre-Southbank-London
-name: National Theatre, Southbank London
+identifier: National-Theatre-Southbank
+name: National Theatre, Southbank
 price: '395'
 featured_image: /assets/images/national-theatre-southbank-ws.jpg
 featured_image_title:
