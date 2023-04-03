@@ -19,6 +19,8 @@ images:
 ---
 ### **£325.00**
 
+The beautiful Victorian postbox in Park Town, North Oxford.&nbsp;
+
 Handcut, layered paper
 
 #### Size
