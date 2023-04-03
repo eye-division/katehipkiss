@@ -2,7 +2,7 @@
 _schema: default
 identifier: Park-Town-Postbox
 name: Park Town Postbox
-price: 375
+price: 325
 featured_image: /assets/images/park-town-postbox-ws-1.jpg
 featured_image_title: Park Town Postbox
 button_text:
@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-### **£375.00**
+### **£325.00**
 
 Handcut, layered paper
 
