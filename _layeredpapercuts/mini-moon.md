@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-### £295.00
+### **£295.00**
 
 A mini version of my Moon papercut. Perfect for small spaces.
 
