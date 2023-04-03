@@ -5,7 +5,7 @@ name: Across Christchurch Meadow
 price: 450
 featured_image: /assets/images/2023/sml-across-christchurch-meadow.jpg
 featured_image_title: Across Christchurch Meadow
-button_text: Across Christchurch Meadow
+button_text:
 images:
   - image_path: /assets/images/2023/sml-across-christchurch-meadow-1.jpg
     image_title: Across Christchurch Meadow
