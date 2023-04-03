@@ -22,7 +22,7 @@ images:
 ---
 ### £375.00
 
-A view of Derek Jarman's cottage and garden in Dungeoness
+A view of Derek Jarman's cottage and garden in Dungeness
 
 Handcut, layered paper
 
