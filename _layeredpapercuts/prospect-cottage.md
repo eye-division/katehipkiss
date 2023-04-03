@@ -20,7 +20,7 @@ images:
     image_title: ''
     image_description:
 ---
-### £375.00
+### **£375.00**
 
 A view of Derek Jarman's cottage and garden in Dungeness
 
