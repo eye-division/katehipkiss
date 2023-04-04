@@ -26,6 +26,8 @@ A view of Derek Jarman's cottage and garden in Dungeness
 
 Handcut, layered paper
 
+*This work can currently be seen at [Kingfisher Art](https://www.kingfisherart.co.uk/artist/kate-hipkiss/){: target="_blank" rel="noopener"} in Chipping Norton.*
+
 #### Size
 
 24 x 29cm framed size<br>Black frame with a white mount
