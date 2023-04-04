@@ -2,7 +2,7 @@
 _schema: default
 identifier: Blackwells-Broad-Street
 name: Blackwells, Broad Street
-price: '1'
+price: '295'
 featured_image: /assets/images/blackwells-ws.jpg
 featured_image_title: Blackwells, Broad Street
 button_text:
