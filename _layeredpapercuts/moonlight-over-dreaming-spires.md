@@ -2,7 +2,7 @@
 _schema: default
 identifier: Moonlight-Over-Dreaming-Spires
 name: Moonlight Over Dreaming Spires
-price: 375
+price: 0
 featured_image: /assets/images/2023/moonlight-over-dreaming-spires-ws.jpg
 featured_image_title: Moonlight Over Dreaming Spires
 button_text:
@@ -22,7 +22,9 @@ images:
 ---
 ### **£375.00**
 
-Handcut, layered paper
+The Oxford skyline seen from North Hinksey at night<br>Handcut, layered paper
+
+*This framed papercut can currently be seen at Kingfisher Art in Chipping Norton.*
 
 #### Size
 
