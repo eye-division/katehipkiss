@@ -25,6 +25,8 @@ images:
 
 Handcut, layered paper
 
+*This work can currently be seen at [Kingfisher Art](https://www.kingfisherart.co.uk/artist/kate-hipkiss/){: target="_blank" rel="noopener"} in Chipping Norton.*
+
 #### Size
 
 27 x 32cm framed size<br>White frame and white mount
