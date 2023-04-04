@@ -2,7 +2,7 @@
 _schema: default
 identifier: Towards-the-White-Horse
 name: Towards the White Horse
-price: 425
+price: 0
 featured_image: /assets/images/kate-hipkiss-towards-the-white-horse-ws-1.jpg
 featured_image_title: Towards the White Horse
 button_text:
