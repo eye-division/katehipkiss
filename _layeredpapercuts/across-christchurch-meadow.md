@@ -24,7 +24,7 @@ images:
 ---
 ### **£450.00**
 
-12 layers of handcut, layered paper<br><br>A view from Christchurch Meadow in Oxford with the tops of the Radcliffe Camera, St Mary's Church and&nbsp; Merton College visible over the tree tops.
+12 layers of handcut paper<br><br>A view from Christchurch Meadow in Oxford with the tops of the Radcliffe Camera, St Mary's Church and&nbsp; Merton College visible over the tree tops.
 
 #### Size
 
