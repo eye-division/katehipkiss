@@ -2,7 +2,7 @@
 _schema: default
 identifier: Prospect-Cottage
 name: Prospect Cottage
-price: '375'
+price:
 featured_image: /assets/images/prospect-cottage-ws.jpg
 featured_image_title: Prospect Cottage
 button_text:
