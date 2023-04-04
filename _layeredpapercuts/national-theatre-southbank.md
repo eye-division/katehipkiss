@@ -2,7 +2,7 @@
 _schema: default
 identifier: National-Theatre-Southbank
 name: National Theatre, Southbank
-price: '395'
+price:
 featured_image: /assets/images/national-theatre-southbank-ws.jpg
 featured_image_title:
 button_text:
@@ -19,6 +19,8 @@ images:
 A view of part of the stunning Brutalist building that houses the National Theatre in London.
 
 Handcut, layered paper
+
+***This framed papercut can currently be seen at [Kingfisher Art](https://www.kingfisherart.co.uk/artist/kate-hipkiss/){: target="_blank" rel="noopener"} in Chipping Norton.***
 
 #### Size
 

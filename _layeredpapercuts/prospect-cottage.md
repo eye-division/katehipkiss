@@ -2,7 +2,7 @@
 _schema: default
 identifier: Prospect-Cottage
 name: Prospect Cottage
-price: '375'
+price:
 featured_image: /assets/images/prospect-cottage-ws.jpg
 featured_image_title: Prospect Cottage
 button_text:
@@ -25,6 +25,8 @@ images:
 A view of Derek Jarman's cottage and garden in Dungeness
 
 Handcut, layered paper
+
+***This work can currently be seen at [Kingfisher Art](https://www.kingfisherart.co.uk/artist/kate-hipkiss/){: target="_blank" rel="noopener"} in Chipping Norton.***
 
 #### Size
 

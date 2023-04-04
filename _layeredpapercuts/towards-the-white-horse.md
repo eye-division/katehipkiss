@@ -2,7 +2,7 @@
 _schema: default
 identifier: Towards-the-White-Horse
 name: Towards the White Horse
-price: 425
+price: 0
 featured_image: /assets/images/kate-hipkiss-towards-the-white-horse-ws-1.jpg
 featured_image_title: Towards the White Horse
 button_text:
@@ -24,6 +24,8 @@ images:
 ### **£425.00**
 
 Handcut, layered paper
+
+***This framed papercut can currently be seen at [Kingfisher Art](https://www.kingfisherart.co.uk/artist/kate-hipkiss/){: target="_blank" rel="noopener"} in Chipping Norton.***
 
 #### Size
 
