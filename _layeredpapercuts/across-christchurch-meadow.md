@@ -2,7 +2,7 @@
 _schema: default
 identifier: across-christchurch-meadow
 name: Across Christchurch Meadow
-price: 0
+price: 450
 featured_image: /assets/images/2023/sml-across-christchurch-meadow.jpg
 featured_image_title: Across Christchurch Meadow
 button_text: SOLD
