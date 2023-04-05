@@ -13,9 +13,6 @@ images:
   - image_path: /assets/images/we-came-to-be-here-detail-ws.jpg
     image_title: We Came to be Here
     image_description:
-  - image_path: /assets/images/kate-hipkiss-we-came-to-be-here-in-case-ws.jpg
-    image_title: We Came to be Here
-    image_description:
 ---
 ### **£1,250.00**
 
