@@ -25,6 +25,12 @@ images:
 ---
 ### **£2,500.00**
 
+####
+
+On the surface this is an exploration of the different types of information that are communicated through this one book and our innate understanding of paper as a means of communicating information.
+
+It is also a sideways look at ourselves as human beings and how our progression of knowledge and our desire to understand ourselves and the universe better may be the way in which we are able to save ourselves and our planet.
+
 #### Size
 
 40(w) x 27.5(d) x 14(h)cm<br>50(w) x 37(d) x 21(h)cm (size of case)
