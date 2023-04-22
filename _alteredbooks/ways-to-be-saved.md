@@ -29,8 +29,8 @@ On the surface this is an exploration of the different types of information that
 
 It is also a sideways look at ourselves as human beings and how our progression of knowledge and our desire to understand ourselves and the universe better may be the way in which we are able to save ourselves and our planet.
 
-#### Size
+#### <br>Size
 
 40(w) x 27.5(d) x 14(h)cm<br>50(w) x 37(d) x 21(h)cm (size of case)
 
-**This sculpture will be exhibited at Delamore Arts in Devon from 1st - 31st May.<br>Please contact me for further details or see their [on-line catalogue](https://www.delamore-art.co.uk/index.php){: target="_blank" rel="noopener"} which will be available soon.**
+<br>**This sculpture will be exhibited at Delamore Arts in Devon from 1st - 31st May.<br>Please contact me for further details or see their [on-line catalogue](https://www.delamore-art.co.uk/index.php){: target="_blank" rel="noopener"} which will be available soon.**
