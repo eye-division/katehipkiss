@@ -33,4 +33,4 @@ It is also a sideways look at ourselves as human beings and how our progression 
 
 40(w) x 27.5(d) x 14(h)cm<br>50(w) x 37(d) x 21(h)cm (size of case)
 
-<br>**This sculpture will be exhibited at Delamore Arts in Devon from 1st - 31st May.<br>Please contact me for further details or see their [on-line catalogue](https://www.delamore-art.co.uk/index.php){: target="_blank" rel="noopener"} which will be available soon.**
+<br>**This sculpture will be exhibited at Delamore Arts in Devon from 1st - 31st May.<br>Please contact me for further details or see their [on-line catalogue](https://www.delamore-art.co.uk/catalogue.php){: target="_blank" rel="noopener"} **
