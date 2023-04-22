@@ -19,8 +19,6 @@ images:
 ---
 ### £850.00
 
-####
-
 Reflects upon deep time and our relationship with planet Earth. As humans we strive for greater knowledge and understanding of ourselves and the world. We are able to look beyond ourselves to take a world view, a universal view; a view through time.<br>And yet we continue to self-sabbotage
 
 The overlapping of layers of multiple cubes hints at the original form of a book, but the inability to access that information points towards the changing nature of knowledge and our relationship to it; how quickly what we think we know goes out of date and our view on the world changes.
