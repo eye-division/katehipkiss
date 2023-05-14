@@ -2,7 +2,7 @@
 _schema: default
 identifier: Brightwell-Barrow
 name: Brightwell Barrow
-price: 450
+price: 0
 featured_image: /assets/images/2023/kate-hipkiss-brightwell-barrow.jpg
 featured_image_title: Brightwell Barrow
 button_text:
@@ -22,6 +22,8 @@ images:
 A view of the Brightwell Barrow, near Wittenham Clumps
 
 Handcut, layered paper
+
+***This framed papercut can currently be seen at [Kingfisher Art](https://derwenthouseliving.co.uk/oxfordshire-artweeks/?wpv_view_count=3941&amp;wpv-brands%5B%5D=kate-hipkiss&amp;wpv_filter_submit=Submit){: target="_blank" rel="noopener"} in Witney.***
 
 #### Size
 
