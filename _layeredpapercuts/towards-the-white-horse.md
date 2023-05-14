@@ -30,7 +30,3 @@ Handcut, layered paper
 #### Size
 
 27 x 32cm framed size<br>White frame and white mount
-
-#### Postage
-
-Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
