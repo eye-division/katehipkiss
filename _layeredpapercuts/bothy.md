@@ -2,7 +2,7 @@
 _schema: default
 identifier: Bothy
 name: Bothy
-price: 250
+price: 0
 featured_image: /assets/images/2023/kate-hipkiss-bothy-ws.jpg
 featured_image_title: Bothy
 button_text:
@@ -22,6 +22,8 @@ images:
 <br>A Scottish Bothy nestled next to a stream in a valley of heather with snow-covered mountains in the distance.
 
 Handcut, layered paper
+
+***This work can currently be seen at [Derwent House](https://derwenthouseliving.co.uk/oxfordshire-artweeks/?wpv_view_count=3941&amp;wpv-brands%5B%5D=kate-hipkiss&amp;wpv_filter_submit=Submit){: target="_blank" rel="noopener"} in Witney.***
 
 #### Size
 
