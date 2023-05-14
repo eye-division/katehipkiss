@@ -2,7 +2,7 @@
 _schema: default
 identifier: East-Banqueting-House-Chipping-Campden
 name: East Banqueting House, Chipping Campden
-price: 450
+price: 0
 featured_image: /assets/images/east-banqueting-house-chipping-campden-ws.jpg
 featured_image_title: East Banqueting House, Chipping Campden
 button_text:
@@ -16,6 +16,8 @@ images:
 This stunning building sits just outside the Cotwold town of Chipping Campden and is owned by the Landmark Trust.
 
 Handcut, layered paper
+
+***This framed papercut can currently be seen at [Kingfisher Art](https://derwenthouseliving.co.uk/oxfordshire-artweeks/?wpv_view_count=3941&amp;wpv-brands%5B%5D=kate-hipkiss&amp;wpv_filter_submit=Submit){: target="_blank" rel="noopener"} in Witney.***
 
 #### Size
 
