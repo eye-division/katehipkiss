@@ -23,7 +23,7 @@ A view of the Brightwell Barrow, near Wittenham Clumps
 
 Handcut, layered paper
 
-***This framed papercut can currently be seen at [Kingfisher Art](https://derwenthouseliving.co.uk/oxfordshire-artweeks/?wpv_view_count=3941&amp;wpv-brands%5B%5D=kate-hipkiss&amp;wpv_filter_submit=Submit){: target="_blank" rel="noopener"} in Witney.***
+***This framed papercut can currently be seen at [Derwent House](https://derwenthouseliving.co.uk/oxfordshire-artweeks/?wpv_view_count=3941&amp;wpv-brands%5B%5D=kate-hipkiss&amp;wpv_filter_submit=Submit){: target="_blank" rel="noopener"} in Witney.***
 
 #### Size
 
