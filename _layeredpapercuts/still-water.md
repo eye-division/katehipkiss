@@ -2,7 +2,7 @@
 _schema: default
 identifier: Still-Water
 name: Still Water
-price: 475
+price: 0
 featured_image: /assets/images/kate-hipkiss-still-water-ws.jpg
 featured_image_title: Still Water
 button_text:
@@ -20,6 +20,8 @@ images:
 ### **£475.00**
 
 Handcut, layered paper
+
+*This framed papercut can currently be seen at [Derwent](https://www.kingfisherart.co.uk/artist/kate-hipkiss/){: target="_blank" rel="noopener"}[House](__notset__) in Witney.*
 
 #### Size
 
