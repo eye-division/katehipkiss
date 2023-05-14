@@ -16,7 +16,7 @@ images:
 ---
 #### **£425.00**
 
-<br>A collection of ceramic vessels arranged on a shelf, with a nod to Morandi.
+<br><br>A collection of ceramic vessels arranged on a shelf, with a nod to Morandi.
 
 Handcut, layered paper
 
