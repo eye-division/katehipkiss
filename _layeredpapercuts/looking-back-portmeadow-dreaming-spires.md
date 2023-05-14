@@ -10,6 +10,12 @@ images:
   - image_path: /assets/images/looking-back-ws-1.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/looking-back-side-view-ws.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/2023/looking-back-framed-ws.jpg
+    image_title:
+    image_description:
 ---
 ### **£675.00**
 
