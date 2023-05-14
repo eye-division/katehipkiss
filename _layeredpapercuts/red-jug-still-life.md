@@ -14,7 +14,7 @@ images:
     image_title:
     image_description:
 ---
-#### **£425.00**
+### **£425.00**
 
 <br><br>A collection of ceramic vessels arranged on a shelf, with a nod to Morandi.
 
