@@ -19,15 +19,13 @@ images:
 ---
 ### **£675.00**
 
-
-
-A view of the Dreaming Spires of Oxford from Portmeadow before the university accomodation buildings were erected.
+<br>A view of the Dreaming Spires of Oxford from Portmeadow before the university accomodation buildings were erected.
 
 Handcut, layered paper
 
 #### Size
 
-23\.5 x 62cm framed sizeWhite frame and white mount
+23\.5 x 62cm framed size<br>White frame and white mount
 
 #### Shipping
 
