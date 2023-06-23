@@ -2,3 +2,7 @@
   collection_image_path: /assets/images/breathe.jpg
 - collection: layeredpapercuts
   collection_image_path: /assets/images/stag.jpg
+  
+_comments:
+  collection: 'safe' name for the Collection
+  collection_image_path: Choose an image to represent your collection
