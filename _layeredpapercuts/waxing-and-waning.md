@@ -19,4 +19,4 @@ Handcut, layered paper
 
 21 x 61cm framed size<br>Black frame with a black mount
 
-*Waxing and Waning* will be exhibited in [Atelier Brighton](https://atelierbrighton.co.uk/){: target="_blank" rel="noopener"} from 13th July - 10th September 2023, please contact the gallery or get in touch with me for more information.
+***Waxing and Waning can be seen at [Atelier Brighton](https://atelierbrighton.co.uk/){: target="_blank" rel="noopener"} from 13th July - 10th September 2023, please contact the gallery or me for more information.***
