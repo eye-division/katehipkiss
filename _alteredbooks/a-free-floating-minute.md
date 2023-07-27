@@ -2,7 +2,7 @@
 _schema: default
 identifier: A-Free-Floating-Minute
 name: A Free-Floating Minute
-price: '850'
+price:
 featured_image: /assets/images/a-free-floating-minute-ws.jpg
 featured_image_title:
 button_text:
