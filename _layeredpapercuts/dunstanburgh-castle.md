@@ -2,7 +2,7 @@
 _schema: default
 identifier: Dunstanburgh-Castle
 name: Dunstanburgh Castle
-price: 425
+price: 450
 featured_image: /assets/images/kate-hipkiss-dunstanburgh-castle-ws.jpg
 featured_image_title: Dunstanburgh Castle
 button_text:
