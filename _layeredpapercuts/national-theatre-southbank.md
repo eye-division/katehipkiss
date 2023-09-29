@@ -20,8 +20,6 @@ A view of part of the stunning Brutalist building that houses the National Theat
 
 Handcut, layered paper
 
-***This framed papercut can currently be seen at [Kingfisher Art](https://www.kingfisherart.co.uk/artist/kate-hipkiss/){: target="_blank" rel="noopener"} in Chipping Norton.***
-
 #### Size
 
 24 x 29cm framed size<br>Black frame with a white mount
