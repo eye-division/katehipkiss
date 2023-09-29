@@ -2,7 +2,7 @@
 _schema: default
 identifier: Stag-Broadway-Tower
 name: Stag, Broadway Tower
-price:
+price: '450'
 featured_image: /assets/images/kate-hipkiss-stag-broadway-tower-ws.jpg
 featured_image_title:
 button_text:
