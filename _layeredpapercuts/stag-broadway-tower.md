@@ -18,8 +18,6 @@ images:
 
 Handcut, layered paper
 
-***This framed papercut can currently be seen at [Derwent House](https://derwenthouseliving.co.uk/oxfordshire-artweeks/?wpv_view_count=3941&amp;wpv-brands%5B%5D=kate-hipkiss&amp;wpv_filter_submit=Submit){: target="_blank" rel="noopener"} in Witney.***
-
 #### Size
 
 27 x 31.5cm framed size<br>White frame and white mount
