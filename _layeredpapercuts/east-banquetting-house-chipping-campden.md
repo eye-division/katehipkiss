@@ -2,7 +2,7 @@
 _schema: default
 identifier: East-Banqueting-House-Chipping-Campden
 name: East Banqueting House, Chipping Campden
-price: 0
+price: 450
 featured_image: /assets/images/east-banqueting-house-chipping-campden-ws.jpg
 featured_image_title: East Banqueting House, Chipping Campden
 button_text:
