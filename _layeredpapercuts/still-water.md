@@ -2,7 +2,7 @@
 _schema: default
 identifier: Still-Water
 name: Still Water
-price: 0
+price: 475
 featured_image: /assets/images/kate-hipkiss-still-water-ws.jpg
 featured_image_title: Still Water
 button_text:
