@@ -2,7 +2,7 @@
 _schema: default
 identifier: Langdale-Valley
 name: Langdale Valley
-price:
+price: '475'
 featured_image: /assets/images/langdale-valley-ws.jpg
 featured_image_title:
 button_text:
