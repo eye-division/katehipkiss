@@ -1,10 +1,10 @@
 ---
 _schema: default
-identifier: Brightwell-Barrow
-name: Brightwell Barrow
-price: 0
+identifier: From-Wittenham-Clumps
+name: From Wittenham Clumps
+price: 450
 featured_image: /assets/images/2023/kate-hipkiss-brightwell-barrow.jpg
-featured_image_title: Brightwell Barrow
+featured_image_title: From Wittenham Clumps
 button_text:
 images:
   - image_path: /assets/images/2023/kate-hipkiss-brightwell-barrow-1.jpg
