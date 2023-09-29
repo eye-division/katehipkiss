@@ -2,7 +2,7 @@
 _schema: default
 identifier: National-Theatre-Southbank
 name: National Theatre, Southbank
-price:
+price: '395'
 featured_image: /assets/images/national-theatre-southbank-ws.jpg
 featured_image_title:
 button_text:
