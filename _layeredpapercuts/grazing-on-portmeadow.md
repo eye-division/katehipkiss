@@ -2,7 +2,7 @@
 _schema: default
 identifier: Grazing-on-Portmeadow
 name: Grazing on Portmeadow
-price:
+price: '475'
 featured_image: /assets/images/grazing-on-portmeadow-ws.jpg
 featured_image_title:
 button_text:
