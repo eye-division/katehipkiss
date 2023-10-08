@@ -1,6 +1,6 @@
 ---
 _schema: default
-identifier: Bothy
+identifier:
 name: Bothy
 price: 250
 featured_image: /assets/images/2023/kate-hipkiss-bothy-ws.jpg
