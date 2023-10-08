@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-### **£595.00**<br>
+### **£595.00**
 
 A view of the Dreaming Spires of Oxford from South Park in Headington.
 
