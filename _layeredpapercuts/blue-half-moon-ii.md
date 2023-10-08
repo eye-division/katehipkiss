@@ -14,7 +14,7 @@ images:
     image_title: Blue Half Moon detail
     image_description:
   - image_path: /assets/images/blue-half-moon-detail-ii-ws.jpg
-    image_title: Blue Hlaf Moon detail II
+    image_title: Blue Half Moon detail II
     image_description:
 ---
 ### **£1,500.00**<br>
