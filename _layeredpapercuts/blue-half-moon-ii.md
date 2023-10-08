@@ -10,7 +10,7 @@ images:
   - image_path: /assets/images/blue-moon-ii-ws.jpg
     image_title: Blue Half Moon
     image_description:
-  - image_path: /assets/images/2023/blue-moon-ii-detail-ws-1.jpg
+  - image_path: /assets/images/2023/blue-moon-ii-detail-ws-2.jpg
     image_title: ''
     image_description:
   - image_path: /assets/images/2023/blue-half-moon-detail-ii-ws.jpg
