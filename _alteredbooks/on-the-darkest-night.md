@@ -7,6 +7,9 @@ featured_image: /assets/images/on-the-darkest-night-ws.jpg
 featured_image_title:
 button_text:
 images:
+  - image_path: /assets/images/on-the-darkest-night-ws.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/on-the-darkest-night-detail-ws.jpg
     image_title:
     image_description:
