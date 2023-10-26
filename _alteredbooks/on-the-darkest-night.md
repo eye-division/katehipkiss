@@ -21,6 +21,8 @@ images:
 
 Handcut page from a book
 
+"On the darkest night<br>Is the invisible glow<br>Of a blue star"
+
 #### Size
 
 39 x 27.5cm mounted size<br>White mount
