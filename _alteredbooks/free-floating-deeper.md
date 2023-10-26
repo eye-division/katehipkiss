@@ -7,6 +7,9 @@ featured_image: /assets/images/freefloating-deeper-part-1-ws.jpg
 featured_image_title:
 button_text:
 images:
+  - image_path: /assets/images/freefloating-deeper-part-1-ws.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/freefloating-deeper-part-2-ws.jpg
     image_title:
     image_description:
