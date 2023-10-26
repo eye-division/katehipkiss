@@ -2,7 +2,7 @@
 _schema: default
 identifier: Free-Floating-Deeper
 name: Free-Floating Deeper
-price: '1700'
+price: '1250'
 featured_image: /assets/images/freefloating-deeper-part-1-ws.jpg
 featured_image_title:
 button_text:
@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-### £1700.00
+### £1250.00
 
 Handcut pages from a book
 
