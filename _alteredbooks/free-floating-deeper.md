@@ -30,7 +30,7 @@ Handcut pages from a book
 
 #### <br>Size
 
-Pages mounted individually, each measuring 39 x 27.5cm mounted size<br>White mount
+Pages mounted individually, each measuring<br>39 x 27.5cm mounted size<br>Floated on black mountboard with a white mountboard surround
 
 #### <br>Shipping
 
