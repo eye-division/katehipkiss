@@ -25,7 +25,7 @@ Handcut page from a book
 
 #### Size
 
-39 x 27.5cm mounted size<br>White mount
+39 x 27.5cm mounted size<br>Floated on black mountboard with a black mountboard surround
 
 #### Shipping
 
