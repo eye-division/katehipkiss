@@ -10,7 +10,7 @@ images:
   - image_path: /assets/images/miniscape-colloseum-mounted-ws.jpg
     image_title: 'Miniscape: Colloseum'
     image_description:
-  - image_path: /assets/images/miniscape-colloseum-ws.jpg
+  - image_path: /assets/images/miniscape-colloseum-side-view-ii-ws.jpg
     image_title: 'Miniscape: Colloseum'
     image_description:
   - image_path: /assets/images/miniscape-colloseum-side-view-ii-ws.jpg
