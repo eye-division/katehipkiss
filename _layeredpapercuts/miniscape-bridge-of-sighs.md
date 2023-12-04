@@ -19,8 +19,6 @@ images:
 ---
 ### **£155.00**
 
-
-
 A papercut of the Bridge of Sighs in Oxford.<br>There are small spacers between each layer to give depth and shadows.
 
 Handcut, layered paper
@@ -31,7 +29,7 @@ Please note, this papercut is mounted but not framed.
 
 The papercut is 6cm x 6cm and 1.4cm deep
 
-20\.3 x 20.3cm mount size<br>Beige mount with a dark grey background mount
+20\.3 x 20.3cm mount size<br><br>Beige mount with a dark grey background mount
 
 #### **Shipping**
 
