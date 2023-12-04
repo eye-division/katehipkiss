@@ -7,13 +7,13 @@ featured_image: /assets/images/2023/miniscape-colloseum-ws.jpg
 featured_image_title:
 button_text:
 images:
+  - image_path: /assets/images/2023/miniscape-colloseum-ws.jpg
+    image_title: 'Miniscape: Colloseum'
+    image_description:
+  - image_path: /assets/images/miniscape-colloseum-side-view-ii-ws.jpg
+    image_title: 'Miniscape: Colloseum'
+    image_description:
   - image_path: /assets/images/miniscape-colloseum-mounted-ws.jpg
-    image_title: 'Miniscape: Colloseum'
-    image_description:
-  - image_path: /assets/images/miniscape-colloseum-side-view-ii-ws.jpg
-    image_title: 'Miniscape: Colloseum'
-    image_description:
-  - image_path: /assets/images/miniscape-colloseum-side-view-ii-ws.jpg
     image_title: 'Miniscape: Colloseum'
     image_description:
 ---
