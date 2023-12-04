@@ -19,9 +19,7 @@ images:
 ---
 ### £155.00
 
-
-
-A papercut of Falling Water<br>There are spacers between each layer to give depth and shadows.
+A papercut of Frank Lloyd-Wright's Falling Water<br>There are spacers between each layer to give depth and shadows.
 
 Handcut, layered paper
 
@@ -31,7 +29,7 @@ Please note, this papercut is mounted but not framed.
 
 The papercut is 11.5cm x 4.5cm and 1.3cm deep
 
-24\.5 x 32cm mount size<br>Beige mount with a dark grey background mount
+24\.5 x 32cm mount size<br><br>Beige mount with a dark grey background mount
 
 #### Shipping
 
