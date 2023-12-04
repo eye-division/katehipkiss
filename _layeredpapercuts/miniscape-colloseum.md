@@ -3,7 +3,7 @@ _schema: default
 identifier: Miniscape-Colloseum
 name: 'Miniscape: Colloseum'
 price: '155.00'
-featured_image: /assets/images/miniscape-colloseum-ws.jpg
+featured_image: /assets/images/2023/miniscape-colloseum-ws.jpg
 featured_image_title:
 button_text:
 images:
