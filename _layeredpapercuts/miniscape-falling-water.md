@@ -1,7 +1,7 @@
 ---
 _schema: default
-identifier: Minscape-Falling-Water
-name: 'Minscape: Falling Water'
+identifier: Miniscape-Falling-Water
+name: 'Miniscape: Falling Water'
 price: '155.00'
 featured_image: /assets/images/miniscape-falling-water-ws.jpg
 featured_image_title: 'Miniscape: Falling Water'
