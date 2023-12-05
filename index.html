@@ -1,9 +1,8 @@
 ---
 layout: home
-main_image_path: /uploads/kate-hipkiss-we-came-to-be-here-black-background-sq.jpg
-main_image_caption: 'We came to be here'
+main_image_path: /assets/images/a-free-floating-minute.jpg
+main_image_caption: We came to be here
 show_galleries: false
-
 _options:
   layout:
     hidden: true
@@ -28,8 +27,6 @@ _comments:
   alink: Optional web link from the slide
   caption: optional caption
 ---
-
-
 <div class="editable">
   <p>&nbsp;</p>
 </div>
@@ -49,7 +46,7 @@ _comments:
             
             {% if site.imagecdn[jekyll.environment]%}
               
-            <img src="{{ collection.collection_image | imgix_url: fit: crop, h: 200, w: 200 }}" class="lazyload"  alt="{{ collection.realname }}">
+            <img src="{{ collection.collection_image | imgix_url: fit: crop, h: 200, w: 200 }}" class="lazyload" alt="{{ collection.realname }}" />
               
             {% else %}
 
