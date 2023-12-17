@@ -46,7 +46,3 @@ Warm soft winds blow
 #### Size
 
 11 x 11 x 11cm
-
-#### Shipping
-
-Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
