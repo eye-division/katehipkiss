@@ -19,9 +19,7 @@ images:
 ---
 ### £850.00
 
-
-
-*This work can be seen in the RWA170 exhibition in Bristol and on their webiste [here](https://www.rwa.org.uk/products/170-annual-open-587?_pos=1&amp;_sid=442e500b3&amp;_ss=r){: target="_blank" rel="noopener"} until 14th January 2024.*
+*This work can be seen in the [RWA170](https://www.rwa.org.uk/products/170-annual-open-587?_pos=1&amp;_sid=442e500b3&amp;_ss=r) exhibition in Bristol and on their [website](https://www.rwa.org.uk/products/170-annual-open-587?_pos=1&amp;_sid=442e500b3&amp;_ss=r) until 14th January 2024.*
 
 *A Free-Floating Minute* reflects upon deep time and our relationship with planet Earth. As humans we strive for greater knowledge and understanding of ourselves and the world. We are able to look beyond ourselves to take a world view, a universal view; a view through time. And yet we continue to self-sabbotage
 
@@ -40,8 +38,6 @@ Time whirls
 Years vanish and pulse<br>Eclipsing sunlight
 
 Warm soft winds blow
-
-
 
 #### Size
 
