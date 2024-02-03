@@ -20,7 +20,7 @@ images:
     image_title: A Way To Go
     image_description:
 ---
-### £1,050.00
+### £1,050.00<br>
 
 ‘*A Way To Go’* reflects upon the significant journeys and experiences throughout our lives that continue to shape us. Some are fundamental to who we are while some remain buried within us, impacting our lives in ways we don’t readily understand.
 
