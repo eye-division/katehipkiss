@@ -28,8 +28,12 @@ The form of the house embodies a sense of security and comfort, which is juxtapo
 
 The sculpture is hand-cut from used OS maps and the residual ‘memories’ of lived experiences are an intrinsic part of this work but will remain unknown and unknowable; absent while remaining present.
 
-**This sculpture will be exhibited in *'A Room of One's Own'* at the [Irving Gallery](https://www.irvinggallery.com/){: target="_blank" rel="noopener"}, Oxford from 2nd March - 5th April 2024. Please contact myself or the gallery for further details, or if you are interested in purchasing it.**
-
 #### <br>Size
 
 Sculpture: 16(h) x 9.5(w) x 9.5(d)cm<br>Acrylic case: 21(h) x 16.5(w) x 16.5(w)cm
+
+#### Shipping
+
+Free packing and postage with the UK mainland.
+
+Please contact me before purchase for a quote for shipping outside mainland UK.
