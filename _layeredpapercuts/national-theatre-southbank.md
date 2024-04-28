@@ -13,6 +13,12 @@ images:
   - image_path: /assets/images/national-theatre-southbank-side-view-ws.jpg
     image_title: Natioanl Theatre, Southbank
     image_description:
+  - image_path: /assets/images/2024/national-theatre-southbank-framed-ws.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/images/2024/national-theatre-southbank-side-view-framed-ws.jpg
+    image_title: ''
+    image_description:
 ---
 ### £395.00
 
