@@ -29,9 +29,9 @@ images:
 
 A view from Christchurch Meadow in Oxford with the tops of the Radcliffe Camera, St Mary's Church and  Merton College visible over the tree tops.
 
-#### Size
+#### <br>Size
 
-28 x 28cm framed size<br>14 x 14cm image size<br>White frame and white mount
+28 x 28cm framed size<br>14 x 14cm image size<br>White frame and white mount<br>
 
 #### Shipping
 
