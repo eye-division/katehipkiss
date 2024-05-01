@@ -6,7 +6,7 @@
         <header>
             <h1 class="is-size-3">{{ page.name }}</h1>
         </header>
-      
+
        <p class="product__description">{{ page.content }}</p>
 
        {% if page.price and page.price != 0 %}
@@ -22,68 +22,45 @@
         {% if page.featured_image %}
 
             <div class="block ft-image">
-                
+
                 <figure class="zoom" id="zoom" style="background-image: url( {{ page.featured_image }} )">
 
-                    {% if site.imagecdn[jekyll.environment]%}
-
-                        <img src="{{ page.featured_image | imgix_url: fit: crop, h: 800, w: 800 }}" class="lazyload product__image" alt="{{ page.name }}" id="featured">
-                        
-                    {% else %}
-
-                        <img src="{{ page.featured_image }}" alt="{{ page.name }}" height="800" width="800" class="lazyload product__image" id="featured">
-
-                    {% endif %}
+                    <img src="{{ page.featured_image }}" alt="{{ page.name }}" height="800" width="800" class="lazyload product__image" id="featured">
 
                 </figure>
-              
+
             </div>
         {% endif %}
-        
+
         <section class="columns is-multiline is-mobile is-vcentered">
 
             {% for thisimage in page.images %}
-      
+
                 <div class="column is-half-mobile is-centered">
-      
+
                     <figure class="image is-128x128">
-                           
+
                         {% if forloop.first %}
 
-                            {% if site.imagecdn[jekyll.environment]%}
-                
-                                <img src="{{ thisimage.image_path | imgix_url: fit: crop }}" class="lazyload thumbnail active"  alt="{{ thisimage.image_title }}">
-                                
-                            {% else %}
+                            <img src="{{ thisimage.image_path }}" alt="{{ thisimage.image_title }}" class="lazyload thumbnail active" />
 
-                                <img src="{{ thisimage.image_path }}" alt="{{ thisimage.image_title }}" class="lazyload thumbnail active" />
-
-                            {% endif %}
 
                         {% else %}
 
-                            {% if site.imagecdn[jekyll.environment]%}
-
-                                <img src="{{ thisimage.image_path | imgix_url: fit: crop }}" class="lazyload thumbnail"  alt="{{ thisimage.image_title }}">
-                                
-                            {% else %}
-
-                                <img src="{{ thisimage.image_path }}" alt="{{ thisimage.image_title }}"  class="lazyload thumbnail" />
-
-                            {% endif %}
+                            <img src="{{ thisimage.image_path }}" alt="{{ thisimage.image_title }}"  class="lazyload thumbnail" />
 
 
                         {% endif %}
-                        
+
                     </figure>
-      
+
                 </div> <!-- end column -->
-      
+
             {% endfor %}
-    
-            
+
+
           </section>
-          
+
     </div> <!-- end image column -->
 
 </div>
@@ -99,7 +76,7 @@
             {% include prevnext.html %}
             <p><a href="../" class="button is-dark is-rounded">Return to category</a></p>
         </div>
-        
+
     </div>
 </div>
 
