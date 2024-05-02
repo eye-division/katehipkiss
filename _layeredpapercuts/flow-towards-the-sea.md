@@ -3,10 +3,16 @@ _schema: default
 identifier: Flow-Towards-the-Sea
 name: Flow Towards the Sea
 price: '450'
-featured_image: /assets/images/flow-towards-the-sea-framed-ws.jpg
+featured_image: /assets/images/2024/otter-estuary-ws.jpg
 featured_image_title:
 button_text:
 images:
+  - image_path: /assets/images/2024/otter-estuary-ws.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/images/2024/otter-estuary-detail-ws.jpg
+    image_title: ''
+    image_description:
   - image_path: /assets/images/flow-towards-the-sea-framed-ws-1.jpg
     image_title: Flow Towards the Sea
     image_description:
