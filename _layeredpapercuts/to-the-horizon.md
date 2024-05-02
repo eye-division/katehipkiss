@@ -3,7 +3,7 @@ _schema: default
 identifier: To-the-Horizon
 name: To the Horizon
 price: '450'
-featured_image: /assets/images/to-the-horizon-framed-ws.jpg
+featured_image: /assets/images/2024/to-the-horizon-ws.jpg
 featured_image_title: To the Horizon
 button_text:
 images:
@@ -11,6 +11,12 @@ images:
     image_title: To the Horizon
     image_description:
   - image_path: /assets/images/to-the-horizon-framed-ws-2.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/images/2024/to-the-horizon-ws.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/images/2024/to-the-horizon-detail-ws.jpg
     image_title: ''
     image_description:
 ---
