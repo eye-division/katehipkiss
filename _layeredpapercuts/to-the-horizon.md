@@ -7,16 +7,16 @@ featured_image: /assets/images/2024/to-the-horizon-ws.jpg
 featured_image_title: To the Horizon
 button_text:
 images:
-  - image_path: /assets/images/to-the-horizon-framed-ws-1.jpg
-    image_title: To the Horizon
-    image_description:
-  - image_path: /assets/images/to-the-horizon-framed-ws-2.jpg
-    image_title: ''
-    image_description:
   - image_path: /assets/images/2024/to-the-horizon-ws.jpg
     image_title: ''
     image_description:
   - image_path: /assets/images/2024/to-the-horizon-detail-ws.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/images/to-the-horizon-framed-ws-1.jpg
+    image_title: To the Horizon
+    image_description:
+  - image_path: /assets/images/to-the-horizon-framed-ws-2.jpg
     image_title: ''
     image_description:
 ---
