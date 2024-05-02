@@ -49,7 +49,7 @@ _comments:
             
             {% if site.imagecdn[jekyll.environment]%}
               
-            <img src="{{ collection.collection_image | imgix_url: fit: crop, h: 200, w: 200 }}" class="lazyload"  alt="{{ collection.realname }}">
+              {% include img.html src=collection.collection_image fit=crop alt=collection.realname height=200 width=200 class="lazyload" %}
               
             {% else %}
 
