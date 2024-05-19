@@ -26,5 +26,3 @@ Handcut, layered paper
 #### Size
 
 21 x 21cm framed size<br>Black frame with a black mount
-
-####
