@@ -2,7 +2,7 @@
 _schema: default
 identifier: Mini-Moon
 name: Mini Moon
-price: '295'
+price:
 featured_image: /assets/images/mini-full-moon-ws.jpg
 featured_image_title:
 button_text:
