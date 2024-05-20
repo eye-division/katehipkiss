@@ -1,0 +1,27 @@
+---
+_schema: default
+identifier:
+name: Across-Derwent-Water
+price: '875'
+featured_image: /assets/images/across-derwent-water-ws.jpg
+featured_image_title: Across Derwent Water
+button_text:
+images:
+  - image_path: /assets/images/across-derwent-water-ws-1.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/across-derwent-water-detail-ws.jpg
+    image_title:
+    image_description:
+---
+### £875.00
+
+Handcut, layered paper
+
+#### Size
+
+35 x 47cm framed size<br>Black frame and white mount
+
+#### Shipping
+
+Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
