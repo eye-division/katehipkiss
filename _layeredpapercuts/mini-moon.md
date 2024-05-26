@@ -2,7 +2,7 @@
 _schema: default
 identifier: Mini-Moon
 name: Mini Moon
-price:
+price: '295'
 featured_image: /assets/images/mini-full-moon-ws.jpg
 featured_image_title:
 button_text:
@@ -26,3 +26,9 @@ Handcut, layered paper
 #### Size
 
 21 x 21cm framed size<br>Black frame with a black mount
+
+#### Shipping
+
+Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
+
+&nbsp;
