@@ -2,7 +2,7 @@
 _schema: default
 identifier: The-Moon
 name: The Moon
-price: '725'
+price:
 featured_image: /assets/images/the-moon-ii-ws-1.jpg
 featured_image_title: The Moon
 button_text:
@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-### £725.00
+### SOLD
 
 Handcut, layered paper
 
