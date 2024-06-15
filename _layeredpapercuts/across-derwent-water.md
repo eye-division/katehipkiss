@@ -1,7 +1,7 @@
 ---
 _schema: default
-identifier:
-name: Across-Derwent-Water
+identifier: Across-Derwent-Water
+name: Across Derwent Water
 price:
 featured_image: /assets/images/across-derwent-water-ws.jpg
 featured_image_title: Across Derwent Water
