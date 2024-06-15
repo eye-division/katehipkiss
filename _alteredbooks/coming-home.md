@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-Pages from Jane Austen's *Persuasion* have been made into house forms that sit within the book. A single word has been selected from each one, all others being cut away, to form a poem that echoes the story within the book and can be read across the roofs of the houses.
+&nbsp;
 
 *This piece of work is currently in the Royal Academy's* [*Summer Exhibition*](https://www.royalacademy.org.uk/exhibition/summer-exhibition-2024)*.*
 
