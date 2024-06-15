@@ -2,7 +2,7 @@
 _schema: default
 identifier: Copenhagen
 name: Copenhagen
-price: '295'
+price:
 featured_image: /assets/images/copenhagen-ws.jpg
 featured_image_title: Copenhagen
 button_text:
@@ -30,6 +30,6 @@ Handcut, layered paper
 
 23 x 23cm framed size<br>White frame and white mount
 
-#### Shipping
+<br>This framed papercut can be seen in Kingfisher Art's pop-up exhibition in Woodstock from 17th-23rd June.
 
-Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
+Please get in touch if you are interested in purchasing it.
