@@ -1,7 +1,7 @@
 ---
 _schema: default
-identifier:
-name: Waxing-and-Waning
+identifier: Waxing-and-Waning
+name: Waxing and Waning
 price:
 featured_image: /assets/images/waxing-and-waning-ii-ws.jpg
 featured_image_title:
