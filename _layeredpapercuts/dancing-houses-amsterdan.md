@@ -2,7 +2,7 @@
 _schema: default
 identifier: Dancing-Houses-Amsterdam
 name: Dancing Houses, Amsterdam
-price: '295.00'
+price:
 featured_image: /assets/images/kate-hipkiss-amsterdam-ws.jpg
 featured_image_title: Dancing Houses, Amsterdam
 button_text:
@@ -30,6 +30,6 @@ Handcut, layered paper
 
 23 x 23cm framed size<br>White frame and white mount
 
-#### Shipping
+<br>This framed papercut can be seen in [Kingfisher Art's](https://www.kingfisherart.co.uk/) pop-up exhibition in Woodstock from 17th-23rd June.
 
-Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
+Please get in touch if you are interested in purchasing it.
