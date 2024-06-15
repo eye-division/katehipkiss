@@ -2,7 +2,7 @@
 _schema: default
 identifier:
 name: Across-Derwent-Water
-price: '875'
+price:
 featured_image: /assets/images/across-derwent-water-ws.jpg
 featured_image_title: Across Derwent Water
 button_text:
@@ -22,6 +22,6 @@ Handcut, layered paper
 
 35 x 47cm framed size<br>Black frame and white mount
 
-#### Shipping
+<br>This framed papercut can be seen in [Kingfisher Art's](https://www.kingfisherart.co.uk/) pop-up exhibition in Woodstock from 17th-23rd June.
 
-Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
+Please get in touch if you are interested in purchasing it.
