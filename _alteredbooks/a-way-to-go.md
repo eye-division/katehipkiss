@@ -26,14 +26,10 @@ images:
 
 The form of the house embodies a sense of security and comfort, which is juxtaposed by the sense of uncertainty created by the removal of information from the maps, leaving only the patterns of the roads and snippets of words visible, like vestiges of memory.
 
-The sculpture is hand-cut from used OS maps and the residual ‘memories’ of lived experiences are an intrinsic part of this work but will remain unknown and unknowable; absent while remaining present.
+The sculpture is hand-cut from used OS maps and the residual ‘memories’ of lived experiences are an intrinsic part of this work but will remain unknown and unknowable; absent while remaining present.<br><br>***This sculpture will be shown at the*** [***RWA Annual Open Exhibition***](https://www.rwa.org.uk/collections/art-exhibitions){: target="_blank" rel="noopener"} ***in Bristol from 14th September 2024 - 5th January 2025.***
 
 #### <br>Size
 
 Sculpture: 16(h) x 9.5(w) x 9.5(d)cm<br>Acrylic case: 21(h) x 16.5(w) x 16.5(w)cm
 
-#### Shipping
-
-Free packing and postage with the UK mainland.
-
-Please contact me before purchase for a quote for shipping outside mainland UK.
+####
