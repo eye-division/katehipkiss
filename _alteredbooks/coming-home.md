@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-&nbsp;
+### &nbsp;*SOLD*
 
 *This piece of work is currently in the Royal Academy's* [*Summer Exhibition*](https://www.royalacademy.org.uk/exhibition/summer-exhibition-2024)*.*
 
