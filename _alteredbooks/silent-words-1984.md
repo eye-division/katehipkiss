@@ -22,7 +22,7 @@ images:
 ---
 ### **£1,275.00**
 
-‘Silent Words (1984)’ has been made in the 40th anniversary year the book is set in. Depictting the pyramid shape of the Ministry of Truth Building is a nest of 3 pyramids, made using one page cut from each section of the book.<br><br>Redacted poetry is cut into each face of the pyramids:
+‘Silent Words (1984)’ has been made in the 40th anniversary of the year the book is set in. Depicting the pyramid shape of the Ministry of Truth Building is a nest of 3 pyramids, made using one page cut from each section of the book.<br><br>Redacted poetry is cut into each face of the pyramids:
 
 In peace was divided truth<br>We became a landscape of memory<br>Never looking just seeing<br>Not possible to wonder again
 
