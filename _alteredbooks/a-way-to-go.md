@@ -31,5 +31,3 @@ The sculpture is hand-cut from used OS maps and the residual ‘memories’ of l
 #### <br>Size
 
 Sculpture: 16(h) x 9.5(w) x 9.5(d)cm<br>Acrylic case: 21(h) x 16.5(w) x 16.5(w)cm
-
-####
