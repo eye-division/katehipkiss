@@ -27,8 +27,7 @@ Handcut, layered paper
 
 21 x 45cm framed size<br>Black frame and white mount
 
-####
+#### Shipping
+{: id="shipping"}
 
-This framed papercut can be seen in [Kingfisher Art's](https://www.kingfisherart.co.uk/)pop-up exhibition in Woodstock from 17th-23rd June.
-
-Please get in touch if you are interested in purchasing it.
+Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
