@@ -2,7 +2,7 @@
 _schema: default
 identifier: Blue-Half-Moon-II
 name: Blue Half Moon II
-price:
+price: '1500'
 featured_image: /assets/images/blue-moon-ii-ws.jpg
 featured_image_title: Blue Half Moon II
 button_text:
@@ -19,7 +19,7 @@ images:
 ---
 ### **£1,500.00**
 
-#### SOLD
+####
 
 Handcut, layered paper
 
