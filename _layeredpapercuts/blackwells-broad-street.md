@@ -22,7 +22,7 @@ images:
 ---
 ### **£295.00**
 
-A view across Broad Street in Oxford of Blackwell's book shop with The White Horse pub nestling in the middle.
+A view across Broad Street in Oxford of Blackwell’s book shop with The White Horse pub nestling in the middle.
 
 Handcut, layered paper
 
@@ -30,6 +30,6 @@ Handcut, layered paper
 
 23 x 23cm framed size<br>White frame and white mount
 
-This framed papercut can be seen in [Kingfisher Art's](https://www.kingfisherart.co.uk/) pop-up exhibition in Woodstock from 17th-23rd June.
+#### Shipping
 
-Please get in touch if you are interested in purchasing it.
+Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
