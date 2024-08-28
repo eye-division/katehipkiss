@@ -2,7 +2,7 @@
 _schema: default
 identifier: Waxing-and-Waning
 name: Waxing and Waning
-price:
+price: '750'
 featured_image: /assets/images/waxing-and-waning-ii-ws.jpg
 featured_image_title:
 button_text:
