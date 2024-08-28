@@ -2,7 +2,7 @@
 _schema: default
 identifier: Copenhagen
 name: Copenhagen
-price:
+price: '295'
 featured_image: /assets/images/copenhagen-ws.jpg
 featured_image_title: Copenhagen
 button_text:
