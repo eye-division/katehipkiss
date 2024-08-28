@@ -2,7 +2,7 @@
 _schema: default
 identifier: Dreaming-Spires-(South-Park)
 name: Dreaming Spires (South Park)
-price:
+price: '595'
 featured_image: /assets/images/dreaming-spires-south-park-ws.jpg
 featured_image_title:
 button_text:
