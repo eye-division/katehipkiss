@@ -2,7 +2,7 @@
 _schema: default
 identifier: Across-Derwent-Water
 name: Across Derwent Water
-price:
+price: '875'
 featured_image: /assets/images/across-derwent-water-ws.jpg
 featured_image_title: Across Derwent Water
 button_text:
