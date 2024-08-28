@@ -2,7 +2,7 @@
 _schema: default
 identifier: Silent-Words-(1984)
 name: 'Silent Words (1984) '
-price: '1275.00'
+price:
 featured_image: /assets/images/silent-words-ii.jpg
 featured_image_title: Silent Words (1984)
 button_text:
@@ -20,7 +20,7 @@ images:
     image_title:
     image_description:
 ---
-### **£1,275.00**
+###
 
 ‘Silent Words (1984)’ has been made in the 40th anniversary of the year the book is set in. Depicting the pyramid shape of the Ministry of Truth Building is a nest of 3 pyramids, made using one page cut from each section of the book.<br><br>Redacted poetry is cut into each face of the pyramids:
 
