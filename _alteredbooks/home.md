@@ -2,7 +2,7 @@
 _schema: default
 identifier: Home
 name: Home
-price:
+price: '2500'
 featured_image: /assets/images/kate-hipkiss-home.jpg
 featured_image_title: Home
 button_text:
