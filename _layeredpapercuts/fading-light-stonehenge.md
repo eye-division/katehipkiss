@@ -1,7 +1,7 @@
 ---
 _schema: default
-identifier: Fading-Light-Stonehenge
-name: Fading Light Stonehenge
+identifier: Fading-Light,-Stonehenge
+name: Fading Light, Stonehenge
 price:
 featured_image: /assets/images/fading-light-stonehenge-sml.jpg
 featured_image_title: Fading Light, Stonehenge
@@ -14,7 +14,9 @@ images:
     image_title:
     image_description:
 ---
-Handcut, layered paper
+#### £875.00
+
+<br>Handcut, layered paper
 
 #### Size
 
