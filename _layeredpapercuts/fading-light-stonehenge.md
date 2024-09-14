@@ -14,7 +14,7 @@ images:
     image_title:
     image_description:
 ---
-#### £875.00
+### £875.00
 
 <br>Handcut, layered paper
 
