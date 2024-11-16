@@ -22,4 +22,6 @@ images:
 
 35 x 55cm framed size<br>White frame and white mount
 
-***This papercut will be exhibited at the Oxford Art Society Open Exhibition at Kendrew Barn, Oxford from 21st September - 5th October 2024.***
+#### Shipping
+
+Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
