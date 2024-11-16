@@ -2,7 +2,7 @@
 _schema: default
 identifier: Langdale-Valley
 name: Langdale Valley
-price: '475.00'
+price: '425.00'
 featured_image: /assets/images/langdale-valley-ws.jpg
 featured_image_title: Langdale Valley
 button_text:
@@ -11,7 +11,7 @@ images:
     image_title:
     image_description:
 ---
-### **£475.00**
+### **£425.00**
 
 &nbsp;
 
@@ -19,7 +19,7 @@ Handcut, layered paper
 
 ### Size
 
-21 x 45cm framed size<br>White frame and white mount
+18 x 42cm mounted size<br>White mount, unframed
 
 ### Shipping
 
