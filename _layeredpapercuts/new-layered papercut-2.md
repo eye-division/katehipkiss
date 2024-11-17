@@ -1,7 +1,7 @@
 ---
 _schema: default
 identifier: Radcliffe-Camera-(Yellow)
-name: Radcliffe Camera
+name: Radcliffe Camera (Yellow)
 price: '185'
 featured_image: /assets/images/radcliffe-camera-yellow-ws.jpg
 featured_image_title:
