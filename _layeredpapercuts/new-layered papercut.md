@@ -17,15 +17,15 @@ images:
     image_title:
     image_description:
 ---
-### £185.00
+### £215.00
 
 4 layers of handcut paper
 
 #### Size
 
-A4 mounted size<br>6 x 12.5cm image size
+24 x 33cm framed size<br>6 x 12.5cm image size
 
-White mount, this work is unframed
+Black frame and a white mount
 
 #### Shipping
 
