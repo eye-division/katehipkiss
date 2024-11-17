@@ -1,9 +1,9 @@
 ---
 _schema: default
-identifier: greetings-card
-name: greetings card
-price: '5'
-featured_image: /assets/images/card-test.jpg
+identifier:
+name:
+price:
+featured_image:
 featured_image_title:
 button_text:
 images:
