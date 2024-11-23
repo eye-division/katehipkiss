@@ -19,6 +19,8 @@ images:
 ---
 ### £215.00
 
+#### Sold
+
 5 layers of handcut paper
 
 #### Size
