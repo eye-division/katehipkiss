@@ -2,7 +2,7 @@
 _schema: default
 identifier: Foliage-(Green)
 name: Foliage (Green)
-price: '215'
+price:
 featured_image: /assets/images/foliage-ii-ws.jpg
 featured_image_title:
 button_text:
@@ -15,6 +15,8 @@ images:
     image_description:
 ---
 ### £215.00
+
+### Sold
 
 5 layers of handcut paper
 
