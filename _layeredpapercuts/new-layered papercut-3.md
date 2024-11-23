@@ -2,7 +2,7 @@
 _schema: default
 identifier: Chrysler-Building-(Blue)
 name: Chrysler Building (Blue)
-price: '215'
+price:
 featured_image: /assets/images/chrysler-building-iii-ws.jpg
 featured_image_title:
 button_text:
