@@ -2,7 +2,7 @@
 _schema: default
 identifier: London-Eye-(Red)
 name: ' London Eye (Red)'
-price: '215'
+price:
 featured_image: /assets/images/2024/london-eye-red-ii-ws.jpg
 featured_image_title:
 button_text:
@@ -18,6 +18,8 @@ images:
     image_description:
 ---
 ### £215.00
+
+#### Sold
 
 4 layers of handcut paper
 
