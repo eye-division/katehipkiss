@@ -7,7 +7,7 @@ featured_image: /assets/images/route-master-bus-st-paul-s-ii-ws.jpg
 featured_image_title:
 button_text:
 images:
-  - image_path: /assets/images/route-master-bus-st-paul-s-ii.jpg
+  - image_path: /assets/images/2024/route-master-bus-st-paul-s-ii-ws.jpg
     image_title:
     image_description:
   - image_path: /assets/images/route-master-bus-st-paul-s-ws.jpg
