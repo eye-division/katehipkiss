@@ -2,7 +2,7 @@
 _schema: default
 identifier: Radcliffe-Camera-(Yellow)
 name: Radcliffe Camera (Yellow)
-price: '185'
+price:
 featured_image: /assets/images/radcliffe-camera-yellow-ws.jpg
 featured_image_title:
 button_text:
@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-### £185.00
+###
 
 4 layers of handcut paper
 
