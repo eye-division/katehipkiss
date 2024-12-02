@@ -13,7 +13,10 @@ images:
   - image_path: /assets/images/fading-light-stonehenge-detail-sml.jpg
     image_title:
     image_description:
-  - image_path: ''
+  - image_path: /assets/images/2024/fading-light-stonehenge-framed-ws.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/2024/fading-light-stonehenge-side-view-ws.jpg
     image_title:
     image_description:
 ---
