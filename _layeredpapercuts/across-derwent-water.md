@@ -13,6 +13,13 @@ images:
   - image_path: /assets/images/across-derwent-water-detail-ws.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/2024/kate-hipkiss-across-derwent-water-framed-ws.jpg
+    image_title:
+    image_description:
+  - image_path: >-
+      /assets/images/2024/kate-hipkiss-across-derwent-water-framed-side-view-ws.jpg
+    image_title:
+    image_description:
 ---
 ### £875.00
 
