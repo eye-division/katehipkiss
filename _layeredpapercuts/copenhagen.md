@@ -2,7 +2,7 @@
 _schema: default
 identifier: Copenhagen
 name: Copenhagen
-price: '295'
+price:
 featured_image: /assets/images/copenhagen-ws.jpg
 featured_image_title: Copenhagen
 button_text:
@@ -30,6 +30,4 @@ Handcut, layered paper
 
 23 x 23cm framed size<br>White frame and white mount
 
-#### <br>Shipping
-
-Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
+<br>*This papercut is currently being exhibited at the* [*Gallery at Waterperry Gardens*](https://www.waterperrygardens.co.uk/art-action-gallery/)*. Please contact them if you are interested in purchasing.*
