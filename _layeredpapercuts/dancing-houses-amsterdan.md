@@ -2,7 +2,7 @@
 _schema: default
 identifier: Dancing-Houses-Amsterdam
 name: Dancing Houses, Amsterdam
-price: '295'
+price:
 featured_image: /assets/images/kate-hipkiss-amsterdam-ws.jpg
 featured_image_title: Dancing Houses, Amsterdam
 button_text:
@@ -30,6 +30,4 @@ Handcut, layered paper
 
 23 x 23cm framed size<br>White frame and white mount
 
-#### <br>Shipping
-
-Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
+*This papercut is currently being exhibited at the* [*Gallery at Waterperry Gardens*](https://www.waterperrygardens.co.uk/art-action-gallery/)*. Please contact them if you are interested in purchasing.*
