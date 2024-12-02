@@ -2,7 +2,7 @@
 _schema: default
 identifier: Fading-Light,-Stonehenge
 name: Fading Light, Stonehenge
-price:
+price: '875'
 featured_image: /assets/images/fading-light-stonehenge-sml.jpg
 featured_image_title: Fading Light, Stonehenge
 button_text:
@@ -11,6 +11,9 @@ images:
     image_title:
     image_description:
   - image_path: /assets/images/fading-light-stonehenge-detail-sml.jpg
+    image_title:
+    image_description:
+  - image_path: ''
     image_title:
     image_description:
 ---
