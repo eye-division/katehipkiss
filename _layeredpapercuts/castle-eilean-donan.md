@@ -7,6 +7,9 @@ featured_image: /assets/images/castle-eilean-donan-ws-1.jpg
 featured_image_title:
 button_text:
 images:
+  - image_path: /assets/images/castle-eilean-donan-ws-1.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/castle-eilean-donan-side-view-ws.jpg
     image_title:
     image_description:
