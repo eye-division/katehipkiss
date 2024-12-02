@@ -7,6 +7,9 @@ featured_image: /assets/images/kate-hipkiss-dunstanburgh-castle-ws-1.jpg
 featured_image_title:
 button_text:
 images:
+  - image_path: /assets/images/kate-hipkiss-dunstanburgh-castle-ws-1.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/kate-hipkiss-dunstanburgh-castle-framed-ws.jpg
     image_title:
     image_description:
