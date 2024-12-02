@@ -13,10 +13,14 @@ images:
   - image_path: /assets/images/isle-of-skye-side-view-ws.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/2024/isle-of-skye-framed-ws.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/2024/isle-of-skye-framed-side-view.jpg
+    image_title:
+    image_description:
 ---
 ### £295.00
-
-
 
 Handcut, layered paper
 
