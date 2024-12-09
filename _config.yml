@@ -71,7 +71,7 @@ collections:
       #permalink: /layeredpapercuts/:path/
       realname: 'Layered Papercuts'
       url: /layeredpapercuts/
-      collection_image: /assets/images/stag.jpg
+      collection_image: /assets/images/copenhagen-ws.jpg
     alteredbooks:
       output: true
       #permalink: /:name
