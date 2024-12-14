@@ -19,6 +19,8 @@ images:
 ---
 ### **£595.00**
 
+#### SOLD
+
 A view of the Dreaming Spires of Oxford from South Park in Headington.
 
 Handcut, layered paper
