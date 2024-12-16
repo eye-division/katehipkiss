@@ -17,11 +17,9 @@ images:
     image_title:
     image_description:
 ---
-### &nbsp;*SOLD*
+### &nbsp;SOLD
 
-*This piece of work is currently in the Royal Academy's* [*Summer Exhibition*](https://www.royalacademy.org.uk/exhibition/summer-exhibition-2024)*.*
-
-Please [contact me](https://www.katehipkiss.co.uk/contact/){: target="_blank" rel="noopener"} if you are interested in commissioning an altered book or if you would like to be informed when new work becomes available.
+<br>Please [contact me](https://www.katehipkiss.co.uk/contact/){: target="_blank" rel="noopener"} if you are interested in commissioning an altered book or if you would like to be informed when new work becomes available.
 
 ### Size
 
