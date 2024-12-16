@@ -11,7 +11,7 @@ images:
     image_title: East Banquetting House, Chipping Campden
     image_description:
 ---
-### **£425.00**
+### **£450.00**
 
 This stunning building sits just outside the Cotwold town of Chipping Campden and is owned by the Landmark Trust.
 
