@@ -2,7 +2,7 @@
 _schema: default
 identifier: dunstanburgh-castle
 name: Dunstanburgh Castle
-price: '450'
+price: '425'
 featured_image: /assets/images/kate-hipkiss-dunstanburgh-castle-ws-1.jpg
 featured_image_title:
 button_text:
@@ -17,13 +17,13 @@ images:
     image_title:
     image_description:
 ---
-### £450.00
+### £425.00
 
 Handcut, layered paper
 
 #### Size
 
-23 x 34cm framed size<br>White frame and white mount
+20 x 31cm mounted size<br>White mount, unframed
 
 #### Shipping
 
