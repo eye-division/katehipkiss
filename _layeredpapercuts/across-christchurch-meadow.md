@@ -27,7 +27,7 @@ images:
 
 12 layers of handcut paper
 
-A view from Christchurch Meadow in Oxford with the tops of the Radcliffe Camera, St Mary's Church and  Merton College visible over the tree tops.
+A view from Christchurch Meadow in Oxford with the tops of the Radcliffe Camera, St Mary’s Church and  Merton College visible over the tree tops.
 
 #### <br>Size
 
@@ -37,4 +37,4 @@ A view from Christchurch Meadow in Oxford with the tops of the Radcliffe Camera,
 
 Free packing and postage with the UK mainland.
 
-Please contact me before purchase for a quote for shipping outside mainland UK.
+Please contact me before purchase for a quote for shipping outside mainland UK. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
