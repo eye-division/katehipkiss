@@ -17,12 +17,12 @@ images:
     image_title:
     image_description:
 ---
-### **£155.00**
+### **£195.00**
 
-A papercut of the Bridge of Sighs in Oxford.<br>There are small spacers between each layer to give depth and shadows.<br>Handcut, layered paper<br>Please note, this papercut is mounted but not framed.
+A papercut of the Bridge of Sighs in Oxford.<br>There are small spacers between each layer to give depth and shadows.<br>Handcut, layered paper<br>
 
 #### Size
 
-The papercut is 6cm x 6cm and 1.4cm deep<br>20\.3 x 20.3cm mount size<br>Beige mount with a dark grey background mount
+The papercut is 6cm x 6cm and 1.4cm deep<br>23 x 23cm framed size<br>Beige mount with a dark grey background mount
 
 *This papercut is currently being exhibited at the* [*Gallery at Waterperry Gardens*](https://www.waterperrygardens.co.uk/art-action-gallery/)*. Please contact them if you are interested in purchasing.*
