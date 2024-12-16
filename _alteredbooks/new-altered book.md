@@ -16,9 +16,6 @@ images:
   - image_path: /assets/images/in-time-emma-detail-ws.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/in-time-emma-detail-iv-ws.jpg
-    image_title:
-    image_description:
   - image_path: /assets/images/in-time-emma-detail-vi-ws.jpg
     image_title:
     image_description:
