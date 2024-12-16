@@ -24,7 +24,7 @@ images:
 
 Handcut pages from a book
 
-"Time Whirls<br>Life is free-floating,<br>deeper<br>In never-ending twilight"
+“Time Whirls<br>Life is free-floating,<br>deeper<br>In never-ending twilight”
 
 ‘Free-Floating Deeper’ is one of a series of recent works addressing environmental issues through altered books. It focuses on our relationship with the oceans and with our wider environment.<br>By editing, redacting and obscuring while at the same time selecting, revealing and augmenting, outdated information and knowledge is reframed; re-presented.<br>I find new meaning within the text, allowing poetry to emerge which guides the reading of the work, creating a narrative and a space in which we can place ourselves.
 
@@ -34,4 +34,4 @@ Pages mounted individually, each measuring<br>48\.5 x 35.5cm mounted size<br>Flo
 
 #### <br>Shipping
 
-Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
+Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
