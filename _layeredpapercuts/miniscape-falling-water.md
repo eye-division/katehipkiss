@@ -19,7 +19,7 @@ images:
 ---
 ### £155.00
 
-A papercut of Frank Lloyd-Wright's Falling Water<br>There are spacers between each layer to give depth and shadows.
+A papercut of Frank Lloyd-Wright’s Falling Water<br>There are spacers between each layer to give depth and shadows.
 
 Handcut, layered paper
 
@@ -33,4 +33,4 @@ The papercut is 11.5cm x 4.5cm and 1.3cm deep
 
 #### Shipping
 
-Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
+Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
