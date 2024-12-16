@@ -29,4 +29,4 @@ The papercut is 4cm x 6cm and 1.2cm deep<br><br>20\.3 x 20.3cm mount size<br><br
 
 #### Shipping
 
-Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
+Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
