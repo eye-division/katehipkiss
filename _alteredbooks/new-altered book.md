@@ -32,9 +32,9 @@ Indulgent vanity of misspent desire<br>Doing disservice to dear friends<br>Befor
 
 #### Size
 
-Book Measures: 19 x 13 x 8.5cm<br>Display Case:       29.5 x 22 x 19cm<br><br>Shipping<br><br>Free packing and postage with the UK mainland.
+Book Measures: 19 x 13 x 8.5cm<br>Display Case:       29.5 x 22 x 19cm<br><br>**Shipping**<br><br>Free packing and postage with the UK mainland.
 
-If you are outside mainland UK, please contact me for a quote for shipping. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
+If you are outside mainland UK, please contact me for a quote for shipping. <br>*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
 
 &nbsp;
 
