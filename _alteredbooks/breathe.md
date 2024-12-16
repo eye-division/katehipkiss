@@ -19,11 +19,11 @@ images:
 ---
 ### **£2,500.00**
 
-'*Breathe*' is one of a series of recent works addressing environmental issues through altered atlases.
+‘*Breathe*’ is one of a series of recent works addressing environmental issues through altered atlases.
 
 The work focuses on the 20 countries with the highest CO2 emissions around the world represented through 20 globes nestling one inside another; too dense to see through to the middle and too closely packed to move. They rest next to the atlas from which they were cut, creating an on-going dialogue and highlighting both loss and transformation.
 
-*This piece of work was awarded 3rd prize in the [Viviane Fontaine International Paper Triennial](https://www.musee-charmey.ch/en/international-paper-triennial-2/){: target="_blank" rel="noopener"} in Switzerland in March 2023.*
+*This piece of work was awarded 3rd prize in the* [*Viviane Fontaine International Paper Triennial*](https://www.musee-charmey.ch/en/international-paper-triennial-2/){: target="_blank" rel="noopener"} *in Switzerland in March 2023.*
 
 #### Size
 
@@ -31,4 +31,4 @@ The work focuses on the 20 countries with the highest CO2 emissions around the w
 
 ### **Shipping**
 
-Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
+Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
