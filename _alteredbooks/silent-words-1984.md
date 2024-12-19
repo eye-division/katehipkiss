@@ -34,4 +34,4 @@ Silent words shouted<br>The hours narrow<br>And moved<br>Into forgetfulness
 
 #### Shipping
 
-Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
+Free packing and postage via art courier (please allow 3-4 weeks) within the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
