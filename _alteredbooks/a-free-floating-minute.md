@@ -43,4 +43,4 @@ Warm soft winds blow
 
 #### **Shipping**
 
-Free postage with the UK mainland.<br><br>Please contact me before purchase for a quote for shipping outside mainland UK. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
+Free postage via art courier (please allow 3-4 weeks) with the UK mainland.<br><br>Please contact me before purchase for a quote for shipping outside mainland UK. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
