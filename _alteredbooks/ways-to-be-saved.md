@@ -35,4 +35,4 @@ It is also a sideways look at ourselves as human beings and how our progression 
 
 ### Shipping
 
-Free postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
+Free postage via art courier (please allow 3-4 weeks) within the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
