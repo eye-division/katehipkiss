@@ -19,7 +19,7 @@ images:
 ---
 ## £475.00
 
-My interpretation of Van Gogh's *Cafe Terrace at Night*
+My interpretation of Van Gogh’s *Cafe Terrace at Night<br>*Handcut, layered paper
 
 #### Size
 
