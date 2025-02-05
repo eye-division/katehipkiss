@@ -1,7 +1,7 @@
 ---
 _schema: default
-identifier: Route-Master-Bus,-St-Paul's
-name: Route-Master Bus, St Paul's
+identifier: Monotone-Route-Master-Bus,-St-Paul's
+name: Monotone Route-Master Bus, St Paul's
 price: '215'
 featured_image: /assets/images/route-master-bus-st-paul-s-ii-ws.jpg
 featured_image_title:
