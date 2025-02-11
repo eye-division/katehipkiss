@@ -17,7 +17,7 @@ images:
     image_title: ''
     image_description:
 ---
-### **£1,500.00<br>**
+### **<br>**
 
 Handcut, layered paper
 
@@ -25,4 +25,4 @@ Handcut, layered paper
 
 53 x 53cm framed size<br>Black frame with a black mount
 
-*This papercut is currently being exhibited at the* [*Gallery at Waterperry Gardens*](https://www.waterperrygardens.co.uk/art-action-gallery/)*. Please contact them if you are interested in purchasing.*
+*Please contact me for details*
