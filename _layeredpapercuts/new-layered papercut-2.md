@@ -2,7 +2,7 @@
 _schema: default
 identifier: The-White-Horse
 name: The White Horse
-price: '425'
+price:
 featured_image: /assets/images/the-white-horse-ws-2.jpg
 featured_image_title:
 button_text:
@@ -28,8 +28,4 @@ Handcut, layered paper
 
 cm framed size<br>White mount with a white frame
 
-#### Shipping
-
-Free packing and postage with the UK mainland.
-
-If you are outside mainland UK, please contact me for a quote for shipping. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
+*This papercut is currently being exhibited at the* [*Gallery at Waterperry Gardens.*](https://www.waterperrygardens.co.uk/art-action-gallery/){: target="_blank" rel="noopener"} *Please contact them if you are interested in purchasing.*
