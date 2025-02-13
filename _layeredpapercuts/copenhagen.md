@@ -2,7 +2,7 @@
 _schema: default
 identifier: Copenhagen
 name: Copenhagen
-price:
+price: '295'
 featured_image: /assets/images/copenhagen-ws.jpg
 featured_image_title: Copenhagen
 button_text:
@@ -22,12 +22,12 @@ images:
 ---
 ### **£295.00**
 
-Some of Copenhagen’s&nbsp; vibrant houses alongside the harbour.
-
-Handcut, layered paper
+Some of Copenhagen’s&nbsp;wonderfully vibrant houses alongside the harbour.<br>Handcut, layered paper
 
 #### Size
 
 23 x 23cm framed size<br>White frame and white mount
 
-<br>*This papercut is currently being exhibited at the* [*Gallery at Waterperry Gardens*](https://www.waterperrygardens.co.uk/art-action-gallery/)*. Please contact them if you are interested in purchasing.*
+#### Shipping
+
+Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.<br>
