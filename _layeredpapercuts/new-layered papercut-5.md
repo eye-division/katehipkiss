@@ -2,7 +2,7 @@
 _schema: default
 identifier: Monotone-Foliage
 name: Monotone Foliage
-price: '215'
+price:
 featured_image: /assets/images/foliage-ws-1.jpg
 featured_image_title:
 button_text:
@@ -27,8 +27,4 @@ images:
 
 White mount with a black frame
 
-#### Shipping
-
-Free packing and postage with the UK mainland.
-
-If you are outside mainland UK, please contact me for a quote for shipping. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
+*This papercut is currently being exhibited at the* [*Gallery at Waterperry Gardens*](https://www.waterperrygardens.co.uk/art-action-gallery/){: target="_blank" rel="noopener"}*. Please contact them if you are interested in purchasing.*
