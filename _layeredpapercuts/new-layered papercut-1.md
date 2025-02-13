@@ -1,7 +1,7 @@
 ---
 _schema: default
 identifier: Monotone-Bridge-of-Sighs
-name: Monotone Bridge of SIghs
+name: Monotone Bridge of Sighs
 price: '185'
 featured_image: /assets/images/bridge-of-sighs-unmounted-sq.jpg
 featured_image_title:
