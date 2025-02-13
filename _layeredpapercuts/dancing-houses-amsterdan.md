@@ -2,7 +2,7 @@
 _schema: default
 identifier: Dancing-Houses-Amsterdam
 name: Dancing Houses, Amsterdam
-price:
+price: '295'
 featured_image: /assets/images/kate-hipkiss-amsterdam-ws.jpg
 featured_image_title: Dancing Houses, Amsterdam
 button_text:
