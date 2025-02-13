@@ -2,7 +2,7 @@
 _schema: default
 identifier: Across-Christchurch-Meadow
 name: Across Christchurch Meadow
-price: '450.00'
+price:
 featured_image: /assets/images/2023/sml-across-christchurch-meadow-1.jpg
 featured_image_title: Across Christchurch Meadow
 button_text:
@@ -31,10 +31,6 @@ A view from Christchurch Meadow in Oxford with the tops of the Radcliffe Camera,
 
 #### <br>Size
 
-28 x 28cm framed size<br>14 x 14cm image size<br>White frame and white mount<br>
+28 x 28cm framed size<br>14 x 14cm image size<br>White frame and white mount<br><br>*This papercut is currently being exhibited at the* [*Gallery at Waterperry Gardens.*](https://www.waterperrygardens.co.uk/art-action-gallery/){: target="_blank" rel="noopener"} *Please contact them if you are interested in purchasing.*
 
-#### Shipping
-
-Free packing and postage with the UK mainland.
-
-Please contact me before purchase for a quote for shipping outside mainland UK. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
+####
