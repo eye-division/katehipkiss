@@ -2,7 +2,7 @@
 _schema: default
 identifier: Miniscape-Bridge-of-Sighs
 name: 'Miniscape: Bridge of Sighs'
-price:
+price: '195'
 featured_image: /assets/images/miniscape-bridge-of-sighs-ws.jpg
 featured_image_title: 'Miniscape: Bridge of Sighs'
 button_text:
@@ -25,4 +25,10 @@ A papercut of the Bridge of Sighs in Oxford.<br>There are small spacers between 
 
 The papercut is 6cm x 6cm and 1.4cm deep<br>23 x 23cm framed size<br>Beige mount with a dark grey background mount
 
-*This papercut is currently being exhibited at the* [*Gallery at Waterperry Gardens*](https://www.waterperrygardens.co.uk/art-action-gallery/)*. Please contact them if you are interested in purchasing.*
+#### Shipping
+
+Free packing and postage with the UK mainland.
+
+Please contact me before purchase for a quote for shipping outside mainland UK.<br>*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
+
+&nbsp;
