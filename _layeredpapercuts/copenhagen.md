@@ -30,4 +30,4 @@ Some of Copenhagen’s&nbsp;wonderfully vibrant houses alongside the harbour.<br
 
 #### Shipping
 
-Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.<br>
+Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.<br><br>*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
