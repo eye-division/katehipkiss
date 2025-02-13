@@ -33,4 +33,4 @@ A view from Christchurch Meadow in Oxford with the tops of the Radcliffe Camera,
 
 28 x 28cm framed size<br>14 x 14cm image size<br>White frame and white mount<br><br>*This papercut is currently being exhibited at the* [*Gallery at Waterperry Gardens.*](https://www.waterperrygardens.co.uk/art-action-gallery/){: target="_blank" rel="noopener"} *Please contact them if you are interested in purchasing.*
 
-####
+&nbsp;

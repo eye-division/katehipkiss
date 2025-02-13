@@ -30,4 +30,10 @@ Handcut, layered paper
 
 23 x 23cm framed size<br>White frame and white mount
 
-*This papercut is currently being exhibited at the* [*Gallery at Waterperry Gardens*](https://www.waterperrygardens.co.uk/art-action-gallery/)*. Please contact them if you are interested in purchasing.*
+#### Shipping
+
+Free packing and postage with the UK mainland.
+
+Please contact me before purchase for a quote for shipping outside mainland UK.<br>*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
+
+&nbsp;
