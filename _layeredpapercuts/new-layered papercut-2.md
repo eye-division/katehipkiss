@@ -26,6 +26,6 @@ Handcut, layered paper
 
 #### Size
 
-cm framed size<br>White mount with a white frame
+27 x 31cm framed size<br>White mount with a white frame
 
 *This papercut is currently being exhibited at the* [*Gallery at Waterperry Gardens.*](https://www.waterperrygardens.co.uk/art-action-gallery/){: target="_blank" rel="noopener"} *Please contact them if you are interested in purchasing.*
