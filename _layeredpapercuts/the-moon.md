@@ -17,8 +17,6 @@ images:
     image_title:
     image_description:
 ---
-### £725.00
-
 #### SOLD
 
 Handcut, layered paper
