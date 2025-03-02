@@ -2,7 +2,7 @@
 _schema: default
 identifier: Waxing-and-Waning
 name: Waxing and Waning
-price: '750'
+price:
 featured_image: /assets/images/waxing-and-waning-ii-ws.jpg
 featured_image_title:
 button_text:
@@ -14,7 +14,7 @@ images:
     image_title:
     image_description:
 ---
-### £750.00
+###
 
 Handcut, layered paper
 
@@ -22,9 +22,6 @@ Handcut, layered paper
 
 21 x 61cm framed size<br>Black frame with a black mount
 
-#### Shipping
-{: id="shipping"}
-
-Free packing and postage with the UK mainland.<br><br>Please contact me before purchase for a quote for shipping outside mainland UK. *Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
+*Please contact me for details*
 
 &nbsp;
