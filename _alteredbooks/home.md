@@ -22,7 +22,7 @@ images:
 ---
 ### £2,500.00<br>
 
-‘Home’ explores what a sense of home might mean, whether it is a sense of security and comfort or, particularly over recent years, a sense of confinement. The repetition and familiarity of the house form is in contrast to the multitude of associations the idea of home can evoke; is it a place, a person, a memory or a feeling?
+‘*Home*’ explores what a sense of home might mean, whether it is a sense of security and comfort or, particularly over recent years, a sense of confinement. The repetition and familiarity of the house form is in contrast to the multitude of associations the idea of home can evoke; is it a place, a person, a memory or a feeling?
 
 #### Size
 
@@ -30,4 +30,4 @@ images:
 
 #### Shipping
 
-Free postage and packing via art courier (please allow 3-4 weeks) within the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK. Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
+Free postage and packing via art courier (please allow 3-4 weeks) within the UK mainland.<br><br>Please contact me before purchase for a quote for shipping outside mainland UK. *Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
