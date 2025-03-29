@@ -17,12 +17,10 @@ images:
     image_title:
     image_description:
 ---
-#### SOLD
-
-Handcut, layered paper
+<br>Handcut, layered paper
 
 #### Size
 
-33 x 33cm framed size<br>Black frame with a black mount
+39 x 39cm framed size<br>Black frame with a black mount
 
-*Please get in touch if you would like to commission this piece of work.*
+*Please contact me for details.*
