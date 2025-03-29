@@ -2,7 +2,7 @@
 _schema: default
 identifier: In-Time-(Emma)
 name: In Time (Emma)
-price: '1250'
+price:
 featured_image: /assets/images/in-time-emma-ws.jpg
 featured_image_title:
 button_text:
@@ -20,7 +20,7 @@ images:
     image_title:
     image_description:
 ---
-### £1,250.00<br>
+### SOLD<br>
 
 In Time (Emma) has been created from an elegant 3rd Edition published by Oxford University Press in 1933.
 
