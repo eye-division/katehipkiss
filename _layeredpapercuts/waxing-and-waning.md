@@ -14,7 +14,7 @@ images:
     image_title:
     image_description:
 ---
-###
+&nbsp;
 
 Handcut, layered paper
 
