@@ -2,7 +2,7 @@
 _schema: default
 identifier: From-Wittenham-Clumps
 name: From Wittenham Clumps
-price: '450.00'
+price: '425.00'
 featured_image: /assets/images/2023/kate-hipkiss-brightwell-barrow-1.jpg
 featured_image_title: From Wittenham Clumps
 button_text:
@@ -20,7 +20,7 @@ images:
     image_title:
     image_description:
 ---
-### **£450.00**
+### **£425.00**
 
 &nbsp;
 
@@ -30,7 +30,7 @@ Handcut, layered paper
 
 #### Size
 
-23 x 45cm framed size<br>White frame and white mount
+20 x 42cm mounted size<br>White mount, unframed
 
 #### Shipping
 
