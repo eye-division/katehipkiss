@@ -1,6 +1,6 @@
 ---
 _schema: default
-identifier: Mini-Earth
+identifier: mini-earth
 name: Mini Earth
 price: '295'
 featured_image: /assets/images/earth-framed-ws.jpg
