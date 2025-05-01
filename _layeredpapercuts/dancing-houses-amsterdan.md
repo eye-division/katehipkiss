@@ -2,7 +2,7 @@
 _schema: default
 identifier: Dancing-Houses-Amsterdam
 name: Dancing Houses, Amsterdam
-price: '295'
+price: '275'
 featured_image: /assets/images/kate-hipkiss-amsterdam-ws.jpg
 featured_image_title: Dancing Houses, Amsterdam
 button_text:
@@ -20,7 +20,7 @@ images:
     image_title:
     image_description:
 ---
-### **£295.00**
+### **£275.00**
 
 Amsterdam’s historic ‘Dancing Houses’ along the canal
 
@@ -28,7 +28,7 @@ Handcut, layered paper
 
 #### Size
 
-23 x 23cm framed size<br>White frame and white mount
+20 x 20cm mounted size<br>White mount, unframed
 
 #### Shipping
 
