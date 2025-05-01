@@ -2,7 +2,7 @@
 _schema: default
 identifier: Blue-Half-Moon-II
 name: Blue Half Moon II
-price:
+price: '1650'
 featured_image: /assets/images/blue-moon-ii-ws.jpg
 featured_image_title: Blue Half Moon II
 button_text:
@@ -17,12 +17,18 @@ images:
     image_title: ''
     image_description:
 ---
-### **<br>**
+### **£1,650.00<br>**
 
-Handcut, layered paper
+7 layers of handcut,  paper
 
 #### Size
 
 53 x 53cm framed size<br>Black frame with a black mount
 
-*Please contact me for details*
+#### Shipping
+
+Free packing and postage with the UK mainland.<br>If you are outside mainland UK, please contact me for a quote for shipping.
+
+*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
+
+&nbsp;
