@@ -7,7 +7,13 @@ featured_image: /assets/images/miniscape-bridge-of-sighs-ii.jpg
 featured_image_title:
 button_text:
 images:
-  - image_path:
+  - image_path: /assets/images/miniscape-bridge-of-sighs-ii.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/2025/miniscape-bridge-of-sighs.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/2025/miniscape-bridge-of-sighs-side-view-detail-ws.jpg
     image_title:
     image_description:
 ---
