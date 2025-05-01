@@ -2,7 +2,7 @@
 _schema: default
 identifier: Towards-the-White-Cliffs
 name: Towards the White Cliffs
-price: '295'
+price: '275'
 featured_image: /assets/images/kate-hipkiss-white-cliffs-ws-1.jpg
 featured_image_title: Towards the White Cliffs
 button_text:
@@ -17,13 +17,13 @@ images:
     image_title: Towards the White Cliffs
     image_description:
 ---
-### £295.00
+### £275.00
 
 Handcut, layered paper
 
 ### Size
 
-23 x 23cm framed size<br>White frame and white mount
+20 x 20cm mounted size<br>White mount, unframed
 
 ### Shipping
 
