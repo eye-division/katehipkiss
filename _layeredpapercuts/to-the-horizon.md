@@ -2,7 +2,7 @@
 _schema: default
 identifier: To-the-Horizon
 name: To the Horizon
-price: '450'
+price: '425'
 featured_image: /assets/images/2024/to-the-horizon-ws.jpg
 featured_image_title: To the Horizon
 button_text:
@@ -20,7 +20,7 @@ images:
     image_title: ''
     image_description:
 ---
-### **£450.00**
+### **£425.00**
 
 &nbsp;
 
@@ -28,7 +28,7 @@ Handcut, layered paper
 
 #### Size
 
-26 x 39cm framed size<br>Black frame and white mount
+23 x 36cm mounted size<br>White mount, unframed
 
 #### Shipping
 
