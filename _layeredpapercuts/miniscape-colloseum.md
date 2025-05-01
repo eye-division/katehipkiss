@@ -2,7 +2,7 @@
 _schema: default
 identifier: Miniscape-Colloseum
 name: 'Miniscape: Colloseum'
-price: '155.00'
+price: '175.00'
 featured_image: /assets/images/2023/miniscape-colloseum-ws.jpg
 featured_image_title:
 button_text:
@@ -17,15 +17,15 @@ images:
     image_title: 'Miniscape: Colloseum'
     image_description:
 ---
-### **£155.00**
+### **£175.00**
 
 A papercut of the Colloseum with spacers between each layer to give depth and shadows.
 
-Handcut, layered paper<br>Please note, this papercut is mounted but not framed.
+Handcut, layered paper
 
 #### Size
 
-The papercut is 4cm x 6cm and 1.2cm deep<br>20\.3 x 20.3cm mount size<br>Beige mount with a dark grey background mount
+The papercut is 4cm x 6cm and 1.2cm deep<br>20\.3 x 20.3cm mount size<br>Beige mount with a dark grey background mount, unframed
 
 #### Shipping
 
