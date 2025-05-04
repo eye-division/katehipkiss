@@ -2,7 +2,7 @@
 _schema: default
 identifier: Waxing-and-Waning
 name: Waxing and Waning
-price:
+price: '1150'
 featured_image: /assets/images/waxing-and-waning-ii-ws.jpg
 featured_image_title:
 button_text:
@@ -14,7 +14,7 @@ images:
     image_title:
     image_description:
 ---
-&nbsp;
+### £1,150.00<br>
 
 Handcut, layered paper
 
