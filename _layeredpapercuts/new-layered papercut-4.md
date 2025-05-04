@@ -2,7 +2,7 @@
 _schema: default
 identifier: Monotone-Route-Master-Bus,-St-Paul's
 name: Monotone Route-Master Bus, St Paul's
-price: '215'
+price:
 featured_image: /assets/images/route-master-bus-st-paul-s-ii-ws.jpg
 featured_image_title:
 button_text:
@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-### £215.00
+### SOLD
 
 5 layers of handcut paper
 
