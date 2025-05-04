@@ -22,6 +22,8 @@ Handcut, layered paper
 
 21 x 61cm framed size<br>Black frame with a black mount
 
-*Please contact me for details*
+### Shipping
+
+Free postage with the UK mainland.<br><br>Please contact me before purchase for a quote for shipping outside mainland UK. *Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
 
 &nbsp;
