@@ -2,7 +2,7 @@
 _schema: default
 identifier: Blackwells-Broad-Street
 name: Blackwells, Broad Street
-price: '295'
+price:
 featured_image: /assets/images/blackwells-ws.jpg
 featured_image_title: Blackwells, Broad Street
 button_text:
@@ -20,7 +20,7 @@ images:
     image_title:
     image_description:
 ---
-### **£295.00**
+### **SOLD**
 
 A view across Broad Street in Oxford of Blackwell’s book shop with The White Horse pub nestling in the middle.
 
