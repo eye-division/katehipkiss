@@ -26,7 +26,7 @@ Handcut, layered paper
 
 #### Size
 
-21 x 61cm framed sizeBlack frame and white mount
+21 x 61cm framed size<br>Black frame and white mount
 
 #### Shipping
 
