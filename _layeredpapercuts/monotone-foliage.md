@@ -16,7 +16,7 @@ images:
   - image_path: /assets/images/foliage-side-view-ws-1.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/2025/foliage-framed-on-wall-ws-1.jpg
+  - image_path: /assets/images/2025/foliage-framed-on-wall-ws-2.jpg
     image_title:
     image_description:
 ---
