@@ -3,17 +3,20 @@ _schema: default
 identifier: monotone:-radcliffe-camera-II
 name: 'Monotone: Radcliffe Camera II'
 price: '215'
-featured_image: /assets/images/rad-cam-ii-maroon-ws.jpg
+featured_image: /assets/images/2025/rad-cam-ii-maroon-mounted-ws.jpg
 featured_image_title:
 button_text:
 images:
-  - image_path: /assets/images/rad-cam-ii-maroon-ws-1.jpg
+  - image_path: /assets/images/2025/rad-cam-ii-maroon-mounted-ws-1.jpg
     image_title:
     image_description:
   - image_path: /assets/images/rad-cam-ii-maroon-ii-ws.jpg
     image_title:
     image_description:
   - image_path: /assets/images/rad-cam-ii-maroon-mounted-side-view-ws.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/2025/rad-cam-ii-maroon-framed-ws.jpg
     image_title:
     image_description:
 ---
