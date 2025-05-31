@@ -16,11 +16,11 @@ images:
 ---
 ### £215.00
 
-The Eden Project Biodomes nestled in the landscape.<br>5 layers of handcut paper
+The Eden Project Biodomes nestled in the landscape.<br>5 layers of handcut paper<br>
 
 #### Size
 
-6 x 12.5cm image size<br>33\.5 x 15cm framed size<br>White mount with a black frame
+6 x 12.5cm image size<br>33\.5 x 15cm framed size<br>White mount with a black frame<br>
 
 #### Shipping
 
