@@ -19,11 +19,11 @@ images:
 ---
 ### £215.00
 
-A view of the Radcliffe Camera in Oxford. In the background is the Boldleian Library and a beautiful street lamp can be seen on the wall of All Souls College in the foreground.<br>5 layers of handcut paper
+A view of the Radcliffe Camera in Oxford. In the background is the Boldleian Library and a beautiful street lamp can be seen on the wall of All Souls College in the foreground.<br>5 layers of handcut paper<br>
 
 #### Size
 
-6 x 12.5cm image size<br>33\.5 x 15cm framed size<br>White mount with a black frame
+6 x 12.5cm image size<br>33\.5 x 15cm framed size<br>White mount with a black frame<br>
 
 #### Shipping
 
