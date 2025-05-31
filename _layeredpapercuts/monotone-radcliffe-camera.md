@@ -3,10 +3,13 @@ _schema: default
 identifier: monotone-radcliffe-camera
 name: Monotone Radcliffe Camera
 price: '185'
-featured_image: /assets/images/radcliffe-camera-yellow-ws-1.jpg
+featured_image: /assets/images/radcliffe-camera-yellow-ii-ws.jpg
 featured_image_title:
 button_text:
 images:
+  - image_path: /assets/images/radcliffe-camera-yellow-ii-ws.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/radcliffe-camera-yellow-ws-1.jpg
     image_title:
     image_description:
@@ -16,7 +19,7 @@ images:
 ---
 ### £185.00
 
-4 layers of handcut paper
+<br>3 layers of handcut paper
 
 #### Size
 
