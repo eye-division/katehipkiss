@@ -3,11 +3,11 @@ _schema: default
 identifier: Monotone:-Foliage
 name: 'Monotone: Foliage'
 price: '215'
-featured_image: /assets/images/foliage-mounted-ws-1.jpg
+featured_image: /assets/images/2025/foliage-mounted-ii.jpg
 featured_image_title:
 button_text:
 images:
-  - image_path: /assets/images/foliage-mounted-ws-2.jpg
+  - image_path: /assets/images/2025/foliage-mounted-ii-1.jpg
     image_title:
     image_description:
   - image_path: /assets/images/foliage-ws-3.jpg
