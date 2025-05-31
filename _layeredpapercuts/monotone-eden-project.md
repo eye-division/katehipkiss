@@ -1,7 +1,7 @@
 ---
 _schema: default
-identifier: Monotone:-Eden-Project-(maroon)
-name: 'Monotone: Eden Project (maroon)'
+identifier: Monotone:-Eden-Project
+name: 'Monotone: Eden Project'
 price: '215'
 featured_image: /assets/images/eden-project-mounted-ws.jpg
 featured_image_title:
