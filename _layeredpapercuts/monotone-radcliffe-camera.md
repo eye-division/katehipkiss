@@ -1,7 +1,7 @@
 ---
 _schema: default
 identifier: monotone-radcliffe-camera
-name: Monotone Radcliffe Camera
+name: 'Monotone: Radcliffe Camera'
 price: '185'
 featured_image: /assets/images/radcliffe-camera-yellow-ii-ws.jpg
 featured_image_title:
@@ -19,7 +19,7 @@ images:
 ---
 ### £185.00
 
-<br>3 layers of handcut paper
+A beautiful view of the Radcliffe Camera in Oxford with a glimpse of University Church of St Mary the Virgin in the background.<br>3 layers of handcut paper
 
 #### Size
 
