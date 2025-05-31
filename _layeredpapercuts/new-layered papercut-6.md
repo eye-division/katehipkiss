@@ -1,7 +1,7 @@
 ---
 _schema: default
-identifier: Monotone-Leaning-Tower-of-Pisa
-name: Monotone Leaning Tower of Pisa
+identifier: Monotone:-Leaning-Tower-of-Pisa
+name: 'Monotone: Leaning Tower of Pisa'
 price: '215'
 featured_image: /assets/images/leaning-tower-of-pisa-ws.jpg
 featured_image_title:
