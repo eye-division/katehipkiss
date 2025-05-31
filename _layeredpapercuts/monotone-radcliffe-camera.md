@@ -19,11 +19,11 @@ images:
 ---
 ### £185.00
 
-A beautiful view of the Radcliffe Camera in Oxford with a glimpse of University Church of St Mary the Virgin in the background.<br>3 layers of handcut paper
+A beautiful view of the Radcliffe Camera in Oxford with a glimpse of University Church of St Mary the Virgin in the background.<br>3 layers of handcut paper<br>
 
 #### Size
 
-6 x 12.5cm image size<br>33\.5 x 15cm framed size<br>White mount with a black frame
+6 x 12.5cm image size<br>33\.5 x 15cm framed size<br>White mount with a black frame<br>
 
 #### Shipping
 
