@@ -19,7 +19,7 @@ images:
 ---
 ### £215.00
 
-A glimpse through the lush green foliage in a palm house.<br>6 layers of handcut paper
+A glimpse through the lush green foliage of a palm house.<br>6 layers of handcut paper
 
 #### Size
 
