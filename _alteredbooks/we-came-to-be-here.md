@@ -2,7 +2,7 @@
 _schema: default
 identifier: We-Came-to-be-Here
 name: We Came to be Here
-price: '1250'
+price:
 featured_image: /assets/images/kate-hipkiss-we-came-to-be-here-black-background-ws.jpg
 featured_image_title: We Came to be Here
 button_text:
@@ -19,6 +19,8 @@ images:
 ‘*We Came to be Here*’ reflects upon early human migration across the globe from Africa (the central globe) and our need as humans to push outwards; to grow, multiply and control, and the impact of this behaviour on the planet.
 
 In this work 12 globes nestle one inside another; too dense to see through to the middle and too closely packed to move. Glimpses of text are like vestiges of place and memory.
+
+*I'm delighted that this work will be exhibited in the* [*RBSA Summer Show*](https://rbsa.org.uk/event/rbsa-summer-show-2025/) *from 4th July - August 2nd 2025.*
 
 #### Size
 
