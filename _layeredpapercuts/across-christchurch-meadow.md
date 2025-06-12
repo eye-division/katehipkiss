@@ -31,6 +31,10 @@ A view from Christchurch Meadow in Oxford with the tops of the Radcliffe Camera,
 
 #### <br>Size
 
-28 x 28cm framed size<br>14 x 14cm image size<br>White frame and white mount<br><br>
+28 x 28cm framed size<br>14 x 14cm image size<br>White frame and white mount
+
+#### <br>Shipping
+
+Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK. <br><br>*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
 
 &nbsp;
