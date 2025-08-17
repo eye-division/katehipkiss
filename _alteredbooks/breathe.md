@@ -29,4 +29,4 @@ The work focuses on the 20 countries with the highest CO2 emissions around the w
 
 39(h) x 30(w) x 20(d) cm<br>
 
-###### This sculpture will be exhibited in the *Out of Paper* Exhibition at Falmouth Art Gallery from 4th October 2025 - 24th January 2026.
+#### This sculpture will be exhibited in the *Out of Paper* Exhibition at Falmouth Art Gallery from 4th October 2025 - 24th January 2026.
