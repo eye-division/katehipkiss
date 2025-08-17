@@ -23,10 +23,10 @@ images:
 
 The work focuses on the 20 countries with the highest CO2 emissions around the world represented through 20 globes nestling one inside another; too dense to see through to the middle and too closely packed to move. They rest next to the atlas from which they were cut, creating an on-going dialogue and highlighting both loss and transformation.
 
-*This piece of work was awarded 3rd prize in the* [*Viviane Fontaine International Paper Triennial*](https://www.musee-charmey.ch/en/international-paper-triennial-2/){: target="_blank" rel="noopener"} *in Switzerland in March 2023.*
+*This piece of work was awarded 3rd prize in the* [*Viviane Fontaine International Paper Triennial*](https://www.musee-charmey.ch/en/international-paper-triennial-2/){: target="_blank" rel="noopener"} *in Switzerland.*
 
 #### Size
 
-39(h) x 30(w) x 20(d) cm
+39(h) x 30(w) x 20(d) cm<br>
 
-This sculpture will be exhibited in the *Out of Paper* Exhibition at Falmouth Art Gallery from 4th October 2025 - 24th January 2026.
+###### This sculpture will be exhibited in the *Out of Paper* Exhibition at Falmouth Art Gallery from 4th October 2025 - 24th January 2026.
