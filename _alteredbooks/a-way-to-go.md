@@ -32,6 +32,4 @@ The sculpture is hand-cut from used OS maps and the residual ‘memories’ of l
 
 Sculpture: 16(h) x 9.5(w) x 9.5(d)cm<br>Acrylic case: 21(h) x 16.5(w) x 16.5(w)cm
 
-This sculpture will be exhibited in the *Out of Paper* Exhibition at Falmouth Art Gallery from 4th October 2025 - 24th January 2026.
-
-####
+###### <br>This sculpture will be exhibited in the *Out of Paper* Exhibition at Falmouth Art Gallery from 4th October 2025 - 24th January 2026.
