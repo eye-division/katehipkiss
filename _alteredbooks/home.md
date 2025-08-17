@@ -26,6 +26,6 @@ images:
 
 #### Size
 
-23cm(H) x 40cm(W) x 28cm (D)<br>50(w) x 37(d) x 21(h)cm (size of case)
+23cm(H) x 40cm(W) x 28cm (D)<br>50(w) x 37(d) x 21(h)cm (size of case)<br>
 
-This sculpture will be exhibited in *Wells Art Contemporary* at Wells Cathedral from 8th Oct - 1st Nov 2025.
+###### This sculpture will be exhibited in *Wells Art Contemporary* at Wells Cathedral from 8th Oct - 1st Nov 2025.
