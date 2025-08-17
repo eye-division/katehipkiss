@@ -28,6 +28,4 @@ images:
 
 23cm(H) x 40cm(W) x 28cm (D)
 
-#### Shipping
-
-Free postage and packing via art courier (please allow 3-4 weeks) within the UK mainland.<br><br>Please contact me before purchase for a quote for shipping outside mainland UK. *Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
+This sculpture will be exhibited in *Wells Art Contemporary* at Wells Cathedral from 8th Oct - 1st Nov 2025.
