@@ -13,12 +13,6 @@ images:
   - image_path: /assets/images/2024/otter-estuary-detail-ws.jpg
     image_title: ''
     image_description:
-  - image_path: /assets/images/flow-towards-the-sea-framed-ws-1.jpg
-    image_title: Flow Towards the Sea
-    image_description:
-  - image_path: /assets/images/flow-towards-the-sea-framed-side-view-ws.jpg
-    image_title: ''
-    image_description:
 ---
 ### **£425.00**
 
