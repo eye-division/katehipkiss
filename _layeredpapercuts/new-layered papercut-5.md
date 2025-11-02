@@ -1,7 +1,7 @@
 ---
 _schema: default
 identifier: dreaming-spires
-name: Dreaming-Spires
+name: Dreaming Spires
 price: '375'
 featured_image: /assets/images/dreaming-spires-ws.jpg
 featured_image_title:
