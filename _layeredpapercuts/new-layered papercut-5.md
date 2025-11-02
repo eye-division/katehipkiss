@@ -21,10 +21,10 @@ images:
 
 <br>11 layers of handcut paper
 
-#### Size
+#### <br>Size
 
 22 x 27cm framed size<br>Black frame and white mount
 
-#### Shipping
+#### <br>Shipping
 
 Free packing and postage with the UK mainland.<br><br>Please contact me before purchase for a quote for shipping outside mainland UK. <br><br>Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
