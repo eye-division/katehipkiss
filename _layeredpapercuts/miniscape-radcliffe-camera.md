@@ -2,7 +2,7 @@
 _schema: default
 identifier: miniscape-radcliffe-camera
 name: Miniscape Radcliffe Camera
-price: '195'
+price:
 featured_image: /assets/images/miniscape-radcliffe-camera-ws-1.jpg
 featured_image_title:
 button_text:
