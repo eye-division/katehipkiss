@@ -2,7 +2,7 @@
 _schema: default
 identifier: Miniscape-Bridge-of-Sighs
 name: Miniscape Bridge of Sighs
-price: '195'
+price:
 featured_image: /assets/images/miniscape-bridge-of-sighs-ii.jpg
 featured_image_title:
 button_text:
