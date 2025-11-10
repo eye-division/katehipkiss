@@ -26,7 +26,7 @@ images:
 
 #### Size
 
-<br>26 x 39cm framed size<br>White mount with a black frame
+26 x 39cm framed size<br>White mount with a black frame
 
 #### Shipping
 
