@@ -26,7 +26,7 @@ A view of the Radcliffe Camera in Oxford. In the background is the Boldleian Lib
 
 #### Size
 
-6 x 12.5cm image size<br>33\.5 x 15cm framed size<br>White mount with a black frame<br>
+12\.5 x 6cm image size<br>33\.5 x 25cm framed size<br>White mount with a black frame<br>
 
 #### Shipping
 
