@@ -26,7 +26,7 @@ images:
 
 #### Size
 
-<br>6 x 12.5cm image size<br>33\.5 x 15cm framed size
+<br>12\.5 x 6cm image size<br>33\.5 x 25cm framed size
 
 White mount with a black frame
 
