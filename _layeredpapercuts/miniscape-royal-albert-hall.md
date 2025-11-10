@@ -24,9 +24,9 @@ images:
 
 Handcut, layered paper<br>There are small spacers between each layer to give depth and shadows.
 
-#### Size
+#### <br>Size
 
-<br>27 x 31.5cm framed size<br>Beige mount with a dark grey background mount in a white frame
+27 x 31.5cm framed size<br>Beige mount with a dark grey background mount in a white frame<br>
 
 #### Shipping
 
