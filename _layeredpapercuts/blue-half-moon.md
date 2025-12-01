@@ -16,7 +16,7 @@ images:
 ---
 ### £1,650.00
 
-<br>7 layers of handcut,  paper
+<br>7 layers of handcut paper
 
 #### Size
 
