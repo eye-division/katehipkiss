@@ -28,7 +28,7 @@ The sculpture is hand-cut using a scalpel and 160gsm acid-free paper.
 
 #### Size
 
-Sculpture: 11(h) x 5.5(w) x 5.5(d)cm<br>Acrylic case: 21(h) x 17(w) x 16(w)cm
+Sculpture: 12(h) x 10(w) x 8(d)cm<br>Acrylic case: 21(h) x 17(w) x 16(w)cm
 
 #### Shipping
 
