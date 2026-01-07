@@ -20,11 +20,11 @@ images:
 
 The sculpture is hand-cut using a scalpel and 160gsm acid-free paper.
 
-#### Size
+#### <br>Size
 
 Sculpture: 10(h) x 20(w) x 20(d)cm<br>Acrylic case: 21.5(h) x 23.5(w) x 23.5(w)cm
 
-#### Shipping
+#### <br>Shipping
 
 Free packing and postage via art courier (please allow 3-4 weeks) within the UK mainland.<br><br>Please contact me before purchase for a quote for shipping outside mainland UK. <br><br>*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
 
