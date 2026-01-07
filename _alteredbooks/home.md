@@ -24,7 +24,7 @@ images:
 
 ‘*Home*’ explores what a sense of home might mean, whether it is a sense of security and comfort or, particularly over recent years, a sense of confinement. The repetition and familiarity of the house form is in contrast to the multitude of associations the idea of home can evoke; is it a place, a person, a memory or a feeling?
 
-#### Size
+#### <br>Size
 
 23cm(H) x 40cm(W) x 28cm (D)<br>50(w) x 37(d) x 21(h)cm (size of case)<br>
 
