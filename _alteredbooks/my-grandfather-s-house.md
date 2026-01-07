@@ -21,6 +21,8 @@ images:
 
 This paper house was inspired by the discovery of a collection of old letters written by my grandfather. Cutting his words from paper allows me to follow, and become familiar with, the flow of ink on paper; the point of contact and a trace of his thought and action. <br><br>Words on paper become words from paper. Suspended in space, they lead the eye around and through the form and beyond. While the rhythm and the flow of the handwriting is deeply personal it becomes universal and opaque.
 
+The sculpture is hand-cut using a scalpel and 160gsm acid-free paper.
+
 #### Size
 
 Sculpture: 11(h) x 5.5(w) x 5.5(d)cm<br>Acrylic case: 16.5(h) x 16(w) x 16(w)cm
