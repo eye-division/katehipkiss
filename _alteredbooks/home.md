@@ -28,4 +28,6 @@ images:
 
 23cm(H) x 40cm(W) x 28cm (D)<br>50(w) x 37(d) x 21(h)cm (size of case)<br>
 
-#### This sculpture will be exhibited in *Wells Art Contemporary* at Wells Cathedral from 8th Oct - 1st Nov 2025.
+#### Shipping
+
+Free packing and postage via art courier (please allow 3-4 weeks) within the UK mainland.<br><br>Please contact me before purchase for a quote for shipping outside mainland UK. <br><br>*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
