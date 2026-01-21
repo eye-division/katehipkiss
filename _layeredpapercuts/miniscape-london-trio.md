@@ -25,6 +25,6 @@ St Paul’s Cathedral, Tate Modern and the London Eye<br>Handcut Bristol board p
 
 23 x 45cm framed size<br>Beige mount and a white frame
 
-*Miniscape: London Trio will be exhibited at* [*Fresh Art Fair*](https://www.freshartfair.net/fairs/fresh-art-fair-alexandra-palace/)*at Alexandra Palace in London with* [*Kingfisher Art Gallery*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *from 30th January - 1st February 2026.*
+*Miniscape: London Trio will be exhibited at* [*Fresh Art Fair*](https://www.freshartfair.net/fairs/fresh-art-fair-alexandra-palace/) *at Alexandra Palace in London with* [*Kingfisher Art Gallery*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *from 30th January - 1st February 2026.*
 
 &nbsp;
