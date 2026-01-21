@@ -2,7 +2,7 @@
 _schema: default
 identifier: palm-house-kew-gardens
 name: Palm House, Kew Gardens
-price: '975'
+price:
 featured_image: /assets/images/palm-house-kew-framed-ws.jpg
 featured_image_title: Palm House, Kew Gardens
 button_text:
@@ -25,6 +25,4 @@ images:
 
 35 x 47cm framed size<br>Black frame and white mount
 
-#### Shipping
-
-Free packing and postage with the UK mainland.<br><br>Please contact me before purchase for a quote for shipping outside mainland UK. <br><br>Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
+*Palm House, Kew Gardens will be exhibited at* [*Fresh Art Fair*](https://www.freshartfair.net/fairs/fresh-art-fair-alexandra-palace/) *at Alexandra Palace in London with* [*Kingfisher Art Gallery*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *from 30th January - 1st February 2026.*
