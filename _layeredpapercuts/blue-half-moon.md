@@ -2,7 +2,7 @@
 _schema: default
 identifier: Blue-Half-Moon
 name: Blue Half Moon
-price: '1650'
+price:
 featured_image: /assets/images/blue-half-moon-framed-ws.jpg
 featured_image_title:
 button_text:
@@ -22,10 +22,6 @@ images:
 
 53 x 53cm framed size<br>Black frame with a black mount
 
-#### Shipping
-
-Free packing and postage with the UK mainland.<br><br>If you are outside mainland UK, please contact me for a quote for shipping.
-
-*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
+*Blue Half Moon will be exhibited at* [*Fresh Art Fair*](https://www.freshartfair.net/fairs/fresh-art-fair-alexandra-palace/) *at Alexandra Palace in London with* [*Kingfisher Art Gallery*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *from 30th January - 1st February 2026.*
 
 &nbsp;
