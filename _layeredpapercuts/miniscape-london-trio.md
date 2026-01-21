@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
 ---
-###
+&nbsp;
 
 St Paul’s Cathedral, Tate Modern and the London Eye<br>Handcut Bristol board paper with spacers.
 
