@@ -2,7 +2,7 @@
 _schema: default
 identifier: fading-light-stonehenge
 name: Fading Light, Stonehenge
-price: '975'
+price:
 featured_image: /assets/images/2024/fading-light-stonehenge-framed-ws.jpg
 featured_image_title:
 button_text:
@@ -20,7 +20,7 @@ images:
     image_title:
     image_description:
 ---
-### £975.00
+&nbsp;
 
 <br>19 layers of handcut paper
 
@@ -28,6 +28,4 @@ images:
 
 35 x 55cm framed size<br>White frame and white mount
 
-#### Shipping
-
-Free packing and postage with the UK mainland.<br><br>Please contact me before purchase for a quote for shipping outside mainland UK. <br><br>Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.
+*Fading Light, Stonehenge will be exhibited at* [*Fresh Art Fair*](https://www.freshartfair.net/fairs/fresh-art-fair-alexandra-palace/)*at Alexandra Palace in London with* [*Kingfisher Art Gallery*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *from 30th January - 1st February 2026.*
