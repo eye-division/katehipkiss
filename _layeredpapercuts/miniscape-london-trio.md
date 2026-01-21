@@ -2,7 +2,7 @@
 _schema: default
 identifier: 'Miniscape:-London-Trio '
 name: 'Miniscape: London Trio '
-price: '475'
+price:
 featured_image: /assets/images/london-trio-ws.jpg
 featured_image_title:
 button_text:
@@ -17,18 +17,14 @@ images:
     image_title:
     image_description:
 ---
-### £475.00
+###
 
-St Paul's Cathedral, Tate Modern and the London Eye<br>Handcut Bristol board paper with spacers.
+St Paul’s Cathedral, Tate Modern and the London Eye<br>Handcut Bristol board paper with spacers.
 
 #### Size
 
 23 x 45cm framed size<br>Beige mount and a white frame
 
-#### Shipping
-
-Free packing and postage with the UK mainland.<br>If you are outside mainland UK, please contact me for a quote for shipping.
-
-*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
+*Miniscape: London Trio will be exhibited at* [*Fresh Art Fair*](https://www.freshartfair.net/fairs/fresh-art-fair-alexandra-palace/)*at Alexandra Palace in London with* [*Kingfisher Art Gallery*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *from 30th January - 1st February 2026.*
 
 &nbsp;
