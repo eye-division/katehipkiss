@@ -2,7 +2,7 @@
 _schema: default
 identifier: across-derwent-water
 name: Across Derwent Water
-price: '975'
+price:
 featured_image: /assets/images/2024/kate-hipkiss-across-derwent-water-framed-ws.jpg
 featured_image_title:
 button_text:
@@ -29,10 +29,4 @@ images:
 
 35 x 47cm framed size<br>Black frame and white mount
 
-#### Shipping
-
-Free packing and postage with the UK mainland.
-
-Please contact me before purchase for a quote for shipping outside mainland UK.
-
-*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
+*Across Derwent Water is currently in the Oxfordshire Craft Guild Exhibition at Kendrew Barn in Oxford. Please get in touch if you are interested in purchasing.*
