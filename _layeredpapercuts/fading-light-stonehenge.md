@@ -28,10 +28,4 @@ images:
 
 35 x 55cm framed size<br>White frame and white mount
 
-#### Shipping
-
-Free packing and postage with the UK mainland.
-
-Please contact me before purchase for a quote for shipping outside mainland UK.
-
-*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
+*Fading Light, Stonehenge is currently in the Oxfordshire Craft Guild Exhibition at Kendrew Barn in Oxford. Please get in touch if you are interested in purchasing.*
