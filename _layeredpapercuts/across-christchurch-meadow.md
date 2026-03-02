@@ -2,7 +2,7 @@
 _schema: default
 identifier: Across-Christchurch-Meadow
 name: Across Christchurch Meadow
-price: '450'
+price:
 featured_image: /assets/images/2023/sml-across-christchurch-meadow-1.jpg
 featured_image_title: Across Christchurch Meadow
 button_text:
@@ -33,8 +33,6 @@ A view from Christchurch Meadow in Oxford with the tops of the Radcliffe Camera,
 
 28 x 28cm framed size<br>14 x 14cm image size<br>White frame and white mount
 
-#### <br>Shipping
-
-Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK. <br><br>*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
+<br>*Across Christchurch Meadow is currently in the Oxfordshire Craft Guild Exhibition at Kendrew Barn in Oxford. Please get in touch if you are interested in purchasing.*
 
 &nbsp;
