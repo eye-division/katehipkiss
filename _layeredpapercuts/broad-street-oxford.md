@@ -29,13 +29,13 @@ The frontages of buildings on Broad Street, Oxford. Including the long-standing 
 
 Handcut, layered paper
 
-#### Size
+#### <br>Size
 
 23 x 28cm framed size
 
 White mount in a black frame
 
-#### Shipping
+#### <br>Shipping
 
 Free packing and postage with the UK mainland.
 
