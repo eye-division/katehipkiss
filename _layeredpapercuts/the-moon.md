@@ -2,7 +2,7 @@
 _schema: default
 identifier: The-Moon
 name: The Moon
-price: '1150'
+price:
 featured_image: /assets/images/the-moon-framed-ws.jpg
 featured_image_title:
 button_text:
@@ -20,21 +20,15 @@ images:
     image_title:
     image_description:
 ---
-### £1,150.00
+###
 
 <br>7 layers of handcut paper
 
 #### Size
 
-39 x 39cm framed size<br>Black frame with a black mount
+39 x 39cm framed size<br>Black frame with a black mount<br>
 
-#### Shipping
-
-Free packing and postage with the UK mainland.
-
-Please contact me before purchase for a quote for shipping outside mainland UK.
-
-*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
+*The Moon will be exhibited at* [*Fresh Art Fair*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *in Cheltenham with* [*Kingfisher Art*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *from 24th - 26th April. Please contact me or the gallery for further information.*
 
 &nbsp;
 
