@@ -3,7 +3,7 @@ _schema: default
 identifier: across-derwent-water
 name: Across Derwent Water
 price:
-featured_image: /assets/images/2024/kate-hipkiss-across-derwent-water-framed-ws.jpg
+featured_image: /assets/images/across-derwent-water-ws-1.jpg
 featured_image_title:
 button_text:
 images:
