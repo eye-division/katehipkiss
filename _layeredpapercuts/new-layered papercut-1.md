@@ -1,9 +1,9 @@
 ---
 _schema: default
 identifier: broad-street-oxford
-name: Broad Stree, Oxford
+name: Broad Street, Oxford
 price: '375'
-featured_image: /assets/images/broad-street-oxford-ws.jpg
+featured_image: /assets/images/broad-street-oxford-ws-1.jpg
 featured_image_title:
 button_text:
 images:
