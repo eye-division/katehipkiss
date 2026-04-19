@@ -27,10 +27,10 @@ images:
 
 <br>Handcut, layered paper
 
-#### Size
+#### <br>Size
 
 26 x 39cm framed size
 
 White mount in a black frame
 
-*The Bird Cage, Still Life will be exhibited at The Gallery at Waterperry during Oxfordshire Artweeks. Please contact me or the gallery for further information.*
+*<br>The Bird Cage, Still Life will be exhibited at The Gallery at Waterperry during Oxfordshire Artweeks. Please contact me or the gallery for further information.*
