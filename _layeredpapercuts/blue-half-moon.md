@@ -3,10 +3,13 @@ _schema: default
 identifier: Blue-Half-Moon
 name: Blue Half Moon
 price:
-featured_image: /assets/images/blue-half-moon-framed-ws.jpg
+featured_image: /assets/images/2026/kate-hipkiss-blue-half-moon.jpg
 featured_image_title:
 button_text:
 images:
+  - image_path: /assets/images/2026/kate-hipkiss-blue-half-moon-1.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/blue-half-moon-framed-ws-1.jpg
     image_title:
     image_description:
