@@ -33,4 +33,4 @@ images:
 
 White mount in a black frame
 
-*Red Poppies, Still Life will be exhibited at The Gallery at Waterperry during Oxfordshire Artweeks. Please contact me or the gallery for further information.*
+*<br>Red Poppies, Still Life will be exhibited at The Gallery at Waterperry during Oxfordshire Artweeks. Please contact me or the gallery for further information.*
