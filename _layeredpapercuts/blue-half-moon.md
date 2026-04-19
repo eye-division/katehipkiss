@@ -2,7 +2,7 @@
 _schema: default
 identifier: Blue-Half-Moon
 name: Blue Half Moon
-price: '1650'
+price:
 featured_image: /assets/images/blue-half-moon-framed-ws.jpg
 featured_image_title:
 button_text:
@@ -14,22 +14,14 @@ images:
     image_title:
     image_description:
 ---
-### £1,650.00
+###
 
 <br>7 layers of handcut paper
 
 #### Size
 
-53 x 53cm framed size<br>Black frame with a black mount
+53 x 53cm framed size<br>Black frame with a black mount<br>
 
-#### Shipping
-
-Please contact me before purchase for a quote for shipping outside mainland UK
-
-Free packing and postage with the UK mainland.
-
-Please contact me before purchase for a quote for shipping outside mainland UK.
-
-*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
+*Blue Half Moon will be exhibited at* [*Fresh Art Fair*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *in Cheltenham with* [*Kingfisher Art*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *from 24th - 26th April. Please contact me or the gallery for further information.*
 
 &nbsp;
