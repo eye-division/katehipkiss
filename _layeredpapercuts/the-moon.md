@@ -3,7 +3,7 @@ _schema: default
 identifier: The-Moon
 name: The Moon
 price:
-featured_image: /assets/images/the-moon-framed-ws.jpg
+featured_image: /assets/images/the-moon-mounted-ws.jpg
 featured_image_title:
 button_text:
 images:
