@@ -3,7 +3,7 @@ _schema: default
 identifier: palm-house-kew-gardens
 name: Palm House, Kew Gardens
 price:
-featured_image: /assets/images/palm-house-kew-framed-ws.jpg
+featured_image: /assets/images/palm-house-kew-ws-1.jpg
 featured_image_title: Palm House, Kew Gardens
 button_text:
 images:
