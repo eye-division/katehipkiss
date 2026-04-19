@@ -2,7 +2,7 @@
 _schema: default
 identifier: fading-light-stonehenge
 name: Fading Light, Stonehenge
-price: '875'
+price:
 featured_image: /assets/images/2024/fading-light-stonehenge-framed-ws.jpg
 featured_image_title:
 button_text:
@@ -20,7 +20,7 @@ images:
     image_title:
     image_description:
 ---
-### £875.00
+###
 
 <br>19 layers of handcut paper
 
@@ -28,4 +28,4 @@ images:
 
 35 x 55cm framed size<br>White frame and white mount
 
-*Fading Light, Stonehenge is currently in the Oxfordshire Craft Guild Exhibition at Kendrew Barn in Oxford. Please get in touch if you are interested in purchasing.*
+*Fading Light, Stonehenge will be exhibited at* [*Fresh Art Fair*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *in Cheltenham with* [*Kingfisher Art*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *from 24th - 26th April. Please contact me or the gallery for further information.*
