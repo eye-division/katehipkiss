@@ -27,12 +27,6 @@ images:
 
 #### Size
 
-35 x 47cm framed size<br>Black frame and white mount
+35 x 47cm framed size<br>Black frame and white mount<br>
 
-#### Shipping
-
-Free packing and postage with the UK mainland.
-
-If you are outside mainland UK, please contact me for a quote for shipping.
-
-*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
+*Across Derwent Water will be exhibited at* [*Fresh Art Fair*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *in Cheltenham with* [*Kingfisher Art*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *from 24th - 26th April. Please contact me or the gallery for further information.*
