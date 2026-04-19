@@ -25,7 +25,7 @@ images:
 ---
 ### £375.00
 
-<br>The frontages of buildings on Broad Street, Oxford. Including the long-standing and much-loved Broad Canvas Art shop (the green shop).
+The frontages of buildings on Broad Street, Oxford. Including the long-standing and much-loved Broad Canvas Art shop (the green shop).
 
 Handcut, layered paper
 
@@ -42,5 +42,3 @@ Free packing and postage with the UK mainland.
 Please contact me before purchase for a quote for shipping outside mainland UK.
 
 *Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
-
-&nbsp;
