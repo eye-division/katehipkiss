@@ -17,14 +17,12 @@ images:
     image_title:
     image_description:
 ---
-###
-
 <br>7 layers of handcut paper
 
 #### Size
 
 53 x 53cm framed size<br>Black frame with a black mount<br>
 
-*Blue Half Moon will be exhibited at* [*Fresh Art Fair*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *in Cheltenham with* [*Kingfisher Art*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *from 24th - 26th April. Please contact me or the gallery for further information.*
+*Blue Half Moon will be exhibited at a pop up exhibition with* [*Kingfisher Art*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *in Woodstock, Oxfordshire from 11th - 26th May. Please contact me or the gallery for further information.*
 
 &nbsp;
