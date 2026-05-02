@@ -29,4 +29,4 @@ images:
 
 35 x 47cm framed size<br>Black frame and white mount<br>
 
-*Across Derwent Water will be exhibited at* [*Fresh Art Fair*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *in Cheltenham with* [*Kingfisher Art*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *from 24th - 26th April. Please contact me or the gallery for further information.*
+*Across Derwent Water will be exhibited at a pop up exhibition with* [*Kingfisher Art*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *in Woodstock, Oxfordshire from 11th - 26th May. Please contact me or the gallery for further information.*
