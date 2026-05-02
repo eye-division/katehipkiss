@@ -2,7 +2,7 @@
 _schema: default
 identifier: The-White-Horse
 name: The White Horse
-price: '425'
+price:
 featured_image: /assets/images/the-white-horse-ws-1.jpg
 featured_image_title:
 button_text:
