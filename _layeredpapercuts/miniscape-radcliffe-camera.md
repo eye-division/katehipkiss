@@ -20,9 +20,9 @@ images:
     image_title:
     image_description:
 ---
-### £195
+### SOLD
 
-#### SOLD<br />
+#### £195
 
 <br />Please get in touch if you would like to commission this piece of work.<br /><br />A papercut of the Radcliffe Camera in Oxford.<br />Handcut, layered paper<br />There are small spacers between each layer to give depth and shadows.
 
