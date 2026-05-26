@@ -2,7 +2,7 @@
 _schema: default
 identifier: miniscape-radcliffe-camera
 name: Miniscape Radcliffe Camera
-price: '195'
+price:
 featured_image: /assets/images/miniscape-radcliffe-camera-ws-1.jpg
 featured_image_title:
 button_text:
@@ -22,14 +22,16 @@ images:
 ---
 ### £195
 
-A papercut of the Radcliffe Camera in Oxford.<br>Handcut, layered paper<br>There are small spacers between each layer to give depth and shadows.
+#### SOLD<br />
+
+<br />Please get in touch if you would like to commission this piece of work.<br /><br />A papercut of the Radcliffe Camera in Oxford.<br />Handcut, layered paper<br />There are small spacers between each layer to give depth and shadows.
 
 #### Size
 
-The papercut is 6cm x 6cm and 1.4cm deep<br>23 x 23cm framed size<br>Beige mount with a dark grey background mount in a white frame
+The papercut is 6cm x 6cm and 1.4cm deep<br />23 x 23cm framed size<br />Beige mount with a dark grey background mount in a white frame
 
 #### Shipping
 
-Free packing and postage with the UK mainland.<br>Please contact me before purchase for a quote for shipping outside mainland UK.
+Free packing and postage with the UK mainland.<br />Please contact me before purchase for a quote for shipping outside mainland UK.
 
 *Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
