@@ -2,7 +2,7 @@
 _schema: default
 identifier: fading-light-stonehenge
 name: Fading Light, Stonehenge
-price:
+price: '975'
 featured_image: /assets/images/fading-light-stonehenge-sml-1.jpg
 featured_image_title:
 button_text:
@@ -20,12 +20,18 @@ images:
     image_title:
     image_description:
 ---
-\###
+### £975.00
 
-<br>19 layers of handcut paper
+<br />19 layers of handcut paper
 
 #### Size
 
-35 x 55cm framed size<br>White frame and white mount
+35 x 55cm framed size<br />White frame and white mount
 
-*Fading Light, Stonehenge will be exhibited at a pop up exhibition with* [*Kingfisher Art*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *in Woodstock, Oxfordshire from 11th - 26th May. Please contact me or the gallery for further information.*
+#### Shipping
+
+Free packing and postage with the UK mainland.
+
+If you are outside mainland UK, please contact me for a quote for shipping.
+
+*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
