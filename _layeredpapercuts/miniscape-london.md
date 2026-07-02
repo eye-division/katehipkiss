@@ -22,9 +22,9 @@ images:
 ---
 ### Miniscape: London
 
-<br />£2,250.00<br /><br />Handcut, layered paper
+#### <br />£2,250.00<br />
 
-Featuring the Natural History Museum, Royal Albert Hall, BT Tower, St Paul's Cathedral, The Gherkin, Tower Bridge, Lloyd's Building, Battersea Power Station, Houses of Parliament, London Eye, National Theatre, Tate Modern
+Handcut, layered paper<br /><br />Featuring the Natural History Museum, Royal Albert Hall, BT Tower, St Paul’s Cathedral, The Gherkin, Tower Bridge, Lloyd’s Building, Battersea Power Station, Houses of Parliament, London Eye, National Theatre, Tate Modern
 
 There are small spacers between each layer to give depth and shadows.
 
