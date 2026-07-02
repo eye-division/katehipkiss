@@ -2,7 +2,7 @@
 _schema: default
 identifier: Blue-Half-Moon
 name: Blue Half Moon
-price:
+price: '1650'
 featured_image: /assets/images/2026/kate-hipkiss-blue-half-moon.jpg
 featured_image_title:
 button_text:
@@ -17,12 +17,18 @@ images:
     image_title:
     image_description:
 ---
-<br>7 layers of handcut paper
+### £1,650.00
+
+<br />7 layers of handcut paper
 
 #### Size
 
-53 x 53cm framed size<br>Black frame with a black mount<br>
+53 x 53cm framed size<br />Black frame with a black mount
 
-*Blue Half Moon will be exhibited at a pop up exhibition with* [*Kingfisher Art*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *in Woodstock, Oxfordshire from 11th - 26th May. Please contact me or the gallery for further information.*
+#### Shipping
 
-&nbsp;
+Free packing and postage with the UK mainland.
+
+If you are outside mainland UK, please contact me for a quote for shipping.
+
+*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*&nbsp;
