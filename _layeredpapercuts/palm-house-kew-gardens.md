@@ -2,7 +2,7 @@
 _schema: default
 identifier: palm-house-kew-gardens
 name: Palm House, Kew Gardens
-price:
+price: '975'
 featured_image: /assets/images/palm-house-kew-ws-1.jpg
 featured_image_title: Palm House, Kew Gardens
 button_text:
@@ -19,10 +19,16 @@ images:
 ---
 ### £975.00
 
-<br>Handcut, layered paper
+<br />Handcut, layered paper
 
 #### Size
 
-35 x 47cm framed size<br>Black frame and white mount<br>
+35 x 47cm framed size<br />Black frame and white mount<br />
 
-*Palm House, Kew Gardens will be exhibited at a pop up exhibition with* [*Kingfisher Art*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *in Woodstock, Oxfordshire from 11th - 26th May. Please contact me or the gallery for further information.*
+#### Shipping
+
+Free packing and postage with the UK mainland.
+
+If you are outside mainland UK, please contact me for a quote for shipping.
+
+*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
