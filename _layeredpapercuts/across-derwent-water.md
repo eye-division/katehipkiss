@@ -23,10 +23,16 @@ images:
 ---
 ### £975.00
 
-<br>Handcut, layered paper
+<br />Handcut, layered paper
 
 #### Size
 
-35 x 47cm framed size<br>Black frame and white mount<br>
+35 x 47cm framed size<br />Black frame and white mount
 
-*Across Derwent Water will be exhibited at a pop up exhibition with* [*Kingfisher Art*](https://www.kingfisherart.co.uk/){: target="_blank" rel="noopener"} *in Woodstock, Oxfordshire from 11th - 26th May. Please contact me or the gallery for further information.*
+#### Shipping
+
+Free packing and postage with the UK mainland.
+
+If you are outside mainland UK, please contact me for a quote for shipping.
+
+*Unfortunately due to the new GPSR regulations I am no longer able to ship to the EU or Northern Ireland.*
