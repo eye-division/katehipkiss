@@ -23,14 +23,14 @@ images:
     image_title:
     image_description:
 ---
-### £475.00
+### SOLD
 
-<br>Handcut, layered paper
+<br />Handcut, layered paper
 
-#### <br>Size
+#### <br />Size
 
 26 x 39cm framed size
 
 White mount in a black frame
 
-*<br>The Bird Cage, Still Life will be exhibited at* [*The Gallery at Waterperry*](https://www.artweeks.org/v/the-gallery-at-waterperry/){: target="_blank" rel="noopener"} *during* [*Oxfordshire Artweeks*](https://www.artweeks.org/){: target="_blank" rel="noopener"}*. Please contact me or the gallery for further information.*
+*<br />The Bird Cage, Still Life will be exhibited at* [*The Gallery at Waterperry*](https://www.artweeks.org/v/the-gallery-at-waterperry/){: target="_blank" rel="noopener"} *during* [*Oxfordshire Artweeks*](https://www.artweeks.org/){: target="_blank" rel="noopener"}*. Please contact me or the gallery for further information.*
